@@ -1,0 +1,212 @@
+[
+    {
+        "text": "how can i get to boltzmannstraße from quiddestraße?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "next subway from garching forschungszentrum",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "how can i get from feldmoching to garching forschungszentrum?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "how can i get from theresienstrasse to garching forschungszentrum",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when is the next train",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "is there a train from neuperlach zentrum to garching at 3 pm?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "how can i get from kurt-eisner-straße to garching forschungszentrum?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "next train from garching",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "how to get from münchner freiheit to garching ?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "can you find a connection from kurt-eisner-straße to garching forschungszentrum?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "hello munich city bot! how do i get from münchner freiheit to scheidplatz?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "from marienplatz to petershausen",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when does the next rocket leaves from garching forschungszentrum?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "how can i get from theresienstraße to munich east?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "harthaus to hackerbrücke",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when is the next bus leaving from garching?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "next train from muenchen freicheit",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "can you find a connection from olympiazentrum to lehel at 2 pm?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when is the train leaving in garching?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "how can i get to glockenbachviertel from garching forschungszentrum?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when is the next u6 leaving from garching?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "how can i get from garching to odeonsplatz?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "how can i get from mossach to garching forschungszentrum?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "can you give me a connection from garching to odeonsplatz?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when does the next train departs from quiddestraße?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "from prinzregentenplatz to rotkreuzplatz",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "start: neufahrn end:garching",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "how do i get to untere straussäcker?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when is the next rocket from winterstraße 12 to kieferngarte",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when does the next train leaves from quiddestraße?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "how can i get from neuperlach zentrum to karlsplatz as fast as possible?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "how can i get to neuperlach süd from garching forschungszentrum?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when is the next train leaving in garching",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "how can i get from studentenstadt to garching",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "what is the next connection from garching forschungszentrum to odeonsplatz?",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when does the train leaving in garching forschungszentrum",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "connection from untere straßäcker 21 to kieferngarten",
+        "intent": "FindConnection",
+        "type": "test"
+    },
+    {
+        "text": "when the next train in garching,forschungszentrum is leaving?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "hey bot, when does the next bus starts at garching?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "next bus from quiddestraße?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "when does the next u-bahn departs at garching?",
+        "intent": "DepartureTime",
+        "type": "test"
+    },
+    {
+        "text": "how can i get from mangfallplatz to garching",
+        "intent": "FindConnection",
+        "type": "test"
+    }
+]

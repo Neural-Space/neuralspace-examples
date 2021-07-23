@@ -1,0 +1,796 @@
+[
+    {
+        "text": "Alternative to Facebook",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Facebook",
+                "start": 15,
+                "end": 23
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How do I delete my Facebook account?",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Facebook",
+                "start": 19,
+                "end": 27
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Are there any good Pandora alternatives with general availability outside the US?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Pandora",
+                "start": 19,
+                "end": 26
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Is it possible to export my data from Trello to back it up?",
+        "intent": "Export Data",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Trello",
+                "start": 38,
+                "end": 44
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Is there an online alternative to iGoogle",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "iGoogle",
+                "start": 34,
+                "end": 41
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How can I remove myself from a Trello organization?",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Trello",
+                "start": 31,
+                "end": 37
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How do I transfer my photos from Flickr to Picasa?",
+        "intent": "Export Data",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Flickr",
+                "start": 33,
+                "end": 39
+            },
+            {
+                "entity": "WebService",
+                "value": "Picasa",
+                "start": 43,
+                "end": 49
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How do I sync Google Calendar with my Outlook Calendar?",
+        "intent": "Sync Accounts",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google Calendar",
+                "start": 14,
+                "end": 29
+            },
+            {
+                "entity": "WebService",
+                "value": "Outlook Calendar",
+                "start": 38,
+                "end": 54
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Archive/export all the blog entries from a RSS feed in Google Reader",
+        "intent": "Export Data",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google Reader",
+                "start": 55,
+                "end": 68
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How can I delete my 160by2 account?",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "160by2",
+                "start": 20,
+                "end": 26
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How can I permanently delete my Yahoo mail account?",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Yahoo mail",
+                "start": 32,
+                "end": 42
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Deleting an account(website) from Google Analytics?",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google Analytics",
+                "start": 34,
+                "end": 50
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How to delete my imgur account?",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "imgur",
+                "start": 17,
+                "end": 22
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How to change my Uber password or delete the account?",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Uber",
+                "start": 17,
+                "end": 21
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How to delete a Sify Mail account",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Sify Mail",
+                "start": 16,
+                "end": 25
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How to permanently delete a 37signals ID",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "37signals",
+                "start": 28,
+                "end": 37
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How can I delete my Hunch account?",
+        "intent": "Delete Account",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Hunch",
+                "start": 20,
+                "end": 25
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Any alternatives to Google Apps for your domain?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google Apps",
+                "start": 20,
+                "end": 31
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Evernote alternative",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Evernote",
+                "start": 0,
+                "end": 8
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Alternatives to LibraryThing",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "LibraryThing",
+                "start": 16,
+                "end": 28
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What are the alternatives to Facebook/Meetup for Event Planning",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Facebook",
+                "start": 29,
+                "end": 37
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Is there a free and privacy-aware alternative to Google?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google",
+                "start": 49,
+                "end": 55
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What alternatives to Google Product Search exist?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google",
+                "start": 21,
+                "end": 27
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Photo Sharing Site (alternative to flickr) supporting OpenID sign in?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "flickr",
+                "start": 35,
+                "end": 41
+            },
+            {
+                "entity": "WebService",
+                "value": "OpenID",
+                "start": 54,
+                "end": 60
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Any good alternative to Google Alerts?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google Alerts",
+                "start": 24,
+                "end": 37
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Good wireframing apps?",
+        "intent": "None",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "Is there a HTML alternative to Prezi?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Prezi",
+                "start": 31,
+                "end": 36
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Any alternatives to Google Streetview?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google Streetview",
+                "start": 20,
+                "end": 37
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Zencoder alternatives?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Zencoder",
+                "start": 0,
+                "end": 8
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Alternatives to discontinued Google Calendar Appointment Slots",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google Calendar",
+                "start": 29,
+                "end": 44
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Q&A Platform similar to Stack Exchange model?",
+        "intent": "Find Alternative",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Stack Exchange",
+                "start": 24,
+                "end": 38
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Can I Share/Sync My Picasa Web Albums Automatically to My Facebook Account?",
+        "intent": "Sync Accounts",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Picasa",
+                "start": 20,
+                "end": 26
+            },
+            {
+                "entity": "WebService",
+                "value": "Facebook",
+                "start": 58,
+                "end": 66
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Sync not export Facebook events with Google Apps calendar",
+        "intent": "Sync Accounts",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Facebook",
+                "start": 16,
+                "end": 24
+            },
+            {
+                "entity": "WebService",
+                "value": "Google Apps",
+                "start": 37,
+                "end": 48
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How do I sync Facebook Twitter & Foursquare?",
+        "intent": "Sync Accounts",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Facebook",
+                "start": 14,
+                "end": 22
+            },
+            {
+                "entity": "WebService",
+                "value": "Twitter",
+                "start": 23,
+                "end": 30
+            },
+            {
+                "entity": "WebService",
+                "value": "Foursquare",
+                "start": 33,
+                "end": 43
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Google Calendar not syncing calendars that have been added by URL with Windows 10 Calendar",
+        "intent": "Sync Accounts",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google Calendar",
+                "start": 0,
+                "end": 15
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Google Contact Synchronization on the iPhone 3G",
+        "intent": "Sync Accounts",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google",
+                "start": 0,
+                "end": 6
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Gmail user set up through Google Apps can't change their password",
+        "intent": "Change Password",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "entity": "WebService",
+                "value": "Google",
+                "start": 26,
+                "end": 32
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How do I change my password on ebay?",
+        "intent": "Change Password",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "ebay",
+                "start": 31,
+                "end": 35
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Gmail recover password while logged in Iphone",
+        "intent": "Change Password",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 0,
+                "end": 5
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How to retrieve forgotten Wordpress Admin password",
+        "intent": "Change Password",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Wordpress",
+                "start": 26,
+                "end": 35
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How to retrieve a stolen Yahoo account's password?",
+        "intent": "Change Password",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Yahoo",
+                "start": 25,
+                "end": 30
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Users can't reset their passwords anymore on Google Apps?",
+        "intent": "Change Password",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google",
+                "start": 45,
+                "end": 51
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Does moving a mail to the IMAP spam folder trains Gmail's spam filter?",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 50,
+                "end": 55
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How can I auto-delete some spam from Gmail?",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 37,
+                "end": 42
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "When I move spam to my inbox it goes back into the spam again",
+        "intent": "Filter Spam",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "How to send messages to spam in Gmail filter?",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 32,
+                "end": 37
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How do I disable the spam filter in Gmail?",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 36,
+                "end": 41
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How to check your Gmail spam label for good emails",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 18,
+                "end": 23
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Mark large numbers of messages as \"not spam\"",
+        "intent": "Filter Spam",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "What are alternatives to Postini for spam filtering?",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Postini",
+                "start": 25,
+                "end": 32
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How to remove spam filter for Google Apps email",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Google",
+                "start": 30,
+                "end": 36
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Does marking an email as spam in Gmail affect the filter for everyone?",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 33,
+                "end": 38
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How can I prevent/lessen event spam on Facebook?",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Facebook",
+                "start": 39,
+                "end": 47
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Do emails auto-forwarded from one Gmail account to another stop if marked as spam?",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 34,
+                "end": 39
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Gmail's filter for SPAM folder and/or keywords in multiple fields",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 0,
+                "end": 5
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Get rid of Russian junk from my Gmail",
+        "intent": "Filter Spam",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "Gmail",
+                "start": 32,
+                "end": 37
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Embedding stop time in a YouTube video link",
+        "intent": "None",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "YouTube",
+                "start": 25,
+                "end": 32
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Is there a catch to PayPal's Premier account type?",
+        "intent": "None",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "PayPal",
+                "start": 20,
+                "end": 26
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How can I get OkCupid search to show only matches within 5 miles of me?",
+        "intent": "None",
+        "entities": [
+            {
+                "entity": "WebService",
+                "value": "OkCupid",
+                "start": 14,
+                "end": 21
+            }
+        ],
+        "type": "test"
+    }
+]

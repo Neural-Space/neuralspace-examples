@@ -1,0 +1,2206 @@
+[
+    {
+        "text": "How to record my screen?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I highlight or annotate PDFs?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is it worth upgrading from 12.04 LTS to 13.04",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04 LTS",
+                "start": 27,
+                "end": 36
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "13.04",
+                "start": 40,
+                "end": 45
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrade to 12.04 64 bit",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04 64 bit",
+                "start": 11,
+                "end": 23
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade Ubuntu 14.04.1 to 14.04.2?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04.1",
+                "start": 22,
+                "end": 29
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04.2",
+                "start": 33,
+                "end": 40
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrading from Ubuntu 14.04 to 15.04",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04",
+                "start": 22,
+                "end": 27
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 31,
+                "end": 36
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "how to upgrade from ubuntu 15.04 to 15.10?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.10",
+                "start": 36,
+                "end": 41
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrade 12.04 to 12.10 using startup disk",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 8,
+                "end": 13
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 17,
+                "end": 22
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to Upgrade from 11.10 to 12.04 when you've got a problem?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.10",
+                "start": 20,
+                "end": 25
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 29,
+                "end": 34
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Update 11.04 to 12.04 with LiveCD",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.04",
+                "start": 7,
+                "end": 12
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 16,
+                "end": 21
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade Ubuntu 9.10 to 12.10 via terminal?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "9.10",
+                "start": 22,
+                "end": 26
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 30,
+                "end": 35
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade from Ubuntu 10.10 to 11.04?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "10.10",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.04",
+                "start": 36,
+                "end": 41
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "Printer",
+                "value": "HP LaserJet 1020",
+                "start": 52,
+                "end": 68
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to setup HP printer/scanner on ubuntu?",
+        "intent": "Setup Printer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How do I setup my HP C4140 printer wirelessly?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "HP C4140",
+                "start": 18,
+                "end": 26
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 81,
+                "end": 86
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How can I install a Pantum 2502W laser printer on Ubuntu",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Pantum 2502W",
+                "start": 20,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Install Canon MP560 Ubuntu 15.04",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Canon MP560",
+                "start": 8,
+                "end": 19
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to install a Brother MFC-5890CN network printer?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Brother MFC-5890CN",
+                "start": 17,
+                "end": 35
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I install drivers for a Konica Minolta 200?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Konica Minolta 200",
+                "start": 31,
+                "end": 49
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Panasonic MB1900CX",
+                "start": 33,
+                "end": 51
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Canon LBP2900B",
+                "start": 15,
+                "end": 29
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04 LTS",
+                "start": 41,
+                "end": 50
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Any command line calculator for Ubuntu?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Extracting embedded images from a PDF",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What to use to quickly cut Audio/Video",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Torrent client for the command-line?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "MySQL GUI Tools",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "MySQL",
+                "start": 0,
+                "end": 5
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "What developer text editors are available for Ubuntu?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What screenshot tools are available?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Which programs can I use to edit PDF files?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is there a lightweight tool to crop images quickly?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What IRC clients are available?",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "IRC",
+                "start": 5,
+                "end": 8
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "What new games are available for Ubuntu in 2011?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "UPNP / DLNA (client) player recommendations?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What scientific plotting software is available?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Can you recommend a password generator?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What tools do you use to monitor a web server?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What is a good MongoDB GUI client?",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "MongoDB",
+                "start": 15,
+                "end": 22
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Password Management Applications?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is there an application for reading mobi files?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "shut down without extra question",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to shutdown computer when users are logged on?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What is the proper terminal-way to shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I automatically shutdown the system after a specific time?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Hotkey to shut down from login screen?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to shutdown the computer after Xsession ends?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can one shutdown a PC using the keyboard?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I enable shutdown verbosity?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Are there any Keyboard Shortcuts to Shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Shutdown after a certain time",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Shutdown problem in Ubuntu 16.04",
+        "intent": "Shutdown Computer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "Ubuntu 16.04",
+                "start": 20,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I fix a shutdown problem?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What graphical utility can I use for Ubuntu auto shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to record my screen?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I highlight or annotate PDFs?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is it worth upgrading from 12.04 LTS to 13.04",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04 LTS",
+                "start": 27,
+                "end": 36
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "13.04",
+                "start": 40,
+                "end": 45
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrade to 12.04 64 bit",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04 64 bit",
+                "start": 11,
+                "end": 23
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade Ubuntu 14.04.1 to 14.04.2?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04.1",
+                "start": 22,
+                "end": 29
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04.2",
+                "start": 33,
+                "end": 40
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrading from Ubuntu 14.04 to 15.04",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04",
+                "start": 22,
+                "end": 27
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 31,
+                "end": 36
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "how to upgrade from ubuntu 15.04 to 15.10?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.10",
+                "start": 36,
+                "end": 41
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrade 12.04 to 12.10 using startup disk",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 8,
+                "end": 13
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 17,
+                "end": 22
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to Upgrade from 11.10 to 12.04 when you've got a problem?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.10",
+                "start": 20,
+                "end": 25
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 29,
+                "end": 34
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Update 11.04 to 12.04 with LiveCD",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.04",
+                "start": 7,
+                "end": 12
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 16,
+                "end": 21
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade Ubuntu 9.10 to 12.10 via terminal?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "9.10",
+                "start": 22,
+                "end": 26
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 30,
+                "end": 35
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade from Ubuntu 10.10 to 11.04?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "10.10",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.04",
+                "start": 36,
+                "end": 41
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "Printer",
+                "value": "HP LaserJet 1020",
+                "start": 52,
+                "end": 68
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to setup HP printer/scanner on ubuntu?",
+        "intent": "Setup Printer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How do I setup my HP C4140 printer wirelessly?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "HP C4140",
+                "start": 18,
+                "end": 26
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 81,
+                "end": 86
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How can I install a Pantum 2502W laser printer on Ubuntu",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Pantum 2502W",
+                "start": 20,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Install Canon MP560 Ubuntu 15.04",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Canon MP560",
+                "start": 8,
+                "end": 19
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to install a Brother MFC-5890CN network printer?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Brother MFC-5890CN",
+                "start": 17,
+                "end": 35
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I install drivers for a Konica Minolta 200?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Konica Minolta 200",
+                "start": 31,
+                "end": 49
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Panasonic MB1900CX",
+                "start": 33,
+                "end": 51
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Canon LBP2900B",
+                "start": 15,
+                "end": 29
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04 LTS",
+                "start": 41,
+                "end": 50
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Any command line calculator for Ubuntu?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Extracting embedded images from a PDF",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What to use to quickly cut Audio/Video",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Torrent client for the command-line?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "MySQL GUI Tools",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "MySQL",
+                "start": 0,
+                "end": 5
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "What developer text editors are available for Ubuntu?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What screenshot tools are available?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Which programs can I use to edit PDF files?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is there a lightweight tool to crop images quickly?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What IRC clients are available?",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "IRC",
+                "start": 5,
+                "end": 8
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "What new games are available for Ubuntu in 2011?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "UPNP / DLNA (client) player recommendations?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What scientific plotting software is available?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Can you recommend a password generator?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What tools do you use to monitor a web server?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What is a good MongoDB GUI client?",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "MongoDB",
+                "start": 15,
+                "end": 22
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Password Management Applications?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is there an application for reading mobi files?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "shut down without extra question",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to shutdown computer when users are logged on?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What is the proper terminal-way to shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I automatically shutdown the system after a specific time?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Hotkey to shut down from login screen?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to shutdown the computer after Xsession ends?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can one shutdown a PC using the keyboard?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I enable shutdown verbosity?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Are there any Keyboard Shortcuts to Shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Shutdown after a certain time",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Shutdown problem in Ubuntu 16.04",
+        "intent": "Shutdown Computer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "Ubuntu 16.04",
+                "start": 20,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I fix a shutdown problem?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What graphical utility can I use for Ubuntu auto shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to record my screen?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I highlight or annotate PDFs?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is it worth upgrading from 12.04 LTS to 13.04",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04 LTS",
+                "start": 27,
+                "end": 36
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "13.04",
+                "start": 40,
+                "end": 45
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrade to 12.04 64 bit",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04 64 bit",
+                "start": 11,
+                "end": 23
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade Ubuntu 14.04.1 to 14.04.2?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04.1",
+                "start": 22,
+                "end": 29
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04.2",
+                "start": 33,
+                "end": 40
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrading from Ubuntu 14.04 to 15.04",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04",
+                "start": 22,
+                "end": 27
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 31,
+                "end": 36
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "how to upgrade from ubuntu 15.04 to 15.10?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.10",
+                "start": 36,
+                "end": 41
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrade 12.04 to 12.10 using startup disk",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 8,
+                "end": 13
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 17,
+                "end": 22
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to Upgrade from 11.10 to 12.04 when you've got a problem?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.10",
+                "start": 20,
+                "end": 25
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 29,
+                "end": 34
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Update 11.04 to 12.04 with LiveCD",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.04",
+                "start": 7,
+                "end": 12
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 16,
+                "end": 21
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade Ubuntu 9.10 to 12.10 via terminal?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "9.10",
+                "start": 22,
+                "end": 26
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 30,
+                "end": 35
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade from Ubuntu 10.10 to 11.04?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "10.10",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.04",
+                "start": 36,
+                "end": 41
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "Printer",
+                "value": "HP LaserJet 1020",
+                "start": 52,
+                "end": 68
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to setup HP printer/scanner on ubuntu?",
+        "intent": "Setup Printer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How do I setup my HP C4140 printer wirelessly?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "HP C4140",
+                "start": 18,
+                "end": 26
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 81,
+                "end": 86
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How can I install a Pantum 2502W laser printer on Ubuntu",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Pantum 2502W",
+                "start": 20,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Install Canon MP560 Ubuntu 15.04",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Canon MP560",
+                "start": 8,
+                "end": 19
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to install a Brother MFC-5890CN network printer?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Brother MFC-5890CN",
+                "start": 17,
+                "end": 35
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I install drivers for a Konica Minolta 200?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Konica Minolta 200",
+                "start": 31,
+                "end": 49
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Panasonic MB1900CX",
+                "start": 33,
+                "end": 51
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Canon LBP2900B",
+                "start": 15,
+                "end": 29
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04 LTS",
+                "start": 41,
+                "end": 50
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Any command line calculator for Ubuntu?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Extracting embedded images from a PDF",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What to use to quickly cut Audio/Video",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Torrent client for the command-line?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "MySQL GUI Tools",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "MySQL",
+                "start": 0,
+                "end": 5
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "What developer text editors are available for Ubuntu?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What screenshot tools are available?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Which programs can I use to edit PDF files?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is there a lightweight tool to crop images quickly?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What IRC clients are available?",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "IRC",
+                "start": 5,
+                "end": 8
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "What new games are available for Ubuntu in 2011?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "UPNP / DLNA (client) player recommendations?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What scientific plotting software is available?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Can you recommend a password generator?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What tools do you use to monitor a web server?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What is a good MongoDB GUI client?",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "MongoDB",
+                "start": 15,
+                "end": 22
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Password Management Applications?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is there an application for reading mobi files?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "shut down without extra question",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to shutdown computer when users are logged on?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What is the proper terminal-way to shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I automatically shutdown the system after a specific time?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Hotkey to shut down from login screen?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to shutdown the computer after Xsession ends?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can one shutdown a PC using the keyboard?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I enable shutdown verbosity?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Are there any Keyboard Shortcuts to Shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Shutdown after a certain time",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Shutdown problem in Ubuntu 16.04",
+        "intent": "Shutdown Computer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "Ubuntu 16.04",
+                "start": 20,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I fix a shutdown problem?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What graphical utility can I use for Ubuntu auto shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to record my screen?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I highlight or annotate PDFs?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is it worth upgrading from 12.04 LTS to 13.04",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04 LTS",
+                "start": 27,
+                "end": 36
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "13.04",
+                "start": 40,
+                "end": 45
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrade to 12.04 64 bit",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04 64 bit",
+                "start": 11,
+                "end": 23
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade Ubuntu 14.04.1 to 14.04.2?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04.1",
+                "start": 22,
+                "end": 29
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04.2",
+                "start": 33,
+                "end": 40
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrading from Ubuntu 14.04 to 15.04",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04",
+                "start": 22,
+                "end": 27
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 31,
+                "end": 36
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "how to upgrade from ubuntu 15.04 to 15.10?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.10",
+                "start": 36,
+                "end": 41
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Upgrade 12.04 to 12.10 using startup disk",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 8,
+                "end": 13
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 17,
+                "end": 22
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to Upgrade from 11.10 to 12.04 when you've got a problem?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.10",
+                "start": 20,
+                "end": 25
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 29,
+                "end": 34
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Update 11.04 to 12.04 with LiveCD",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.04",
+                "start": 7,
+                "end": 12
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.04",
+                "start": 16,
+                "end": 21
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade Ubuntu 9.10 to 12.10 via terminal?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "9.10",
+                "start": 22,
+                "end": 26
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 30,
+                "end": 35
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to upgrade from Ubuntu 10.10 to 11.04?",
+        "intent": "Make Update",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "10.10",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "11.04",
+                "start": 36,
+                "end": 41
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            },
+            {
+                "entity": "Printer",
+                "value": "HP LaserJet 1020",
+                "start": 52,
+                "end": 68
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to setup HP printer/scanner on ubuntu?",
+        "intent": "Setup Printer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How do I setup my HP C4140 printer wirelessly?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "HP C4140",
+                "start": 18,
+                "end": 26
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "12.10",
+                "start": 81,
+                "end": 86
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How can I install a Pantum 2502W laser printer on Ubuntu",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Pantum 2502W",
+                "start": 20,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Install Canon MP560 Ubuntu 15.04",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Canon MP560",
+                "start": 8,
+                "end": 19
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "15.04",
+                "start": 27,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How to install a Brother MFC-5890CN network printer?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Brother MFC-5890CN",
+                "start": 17,
+                "end": 35
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I install drivers for a Konica Minolta 200?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Konica Minolta 200",
+                "start": 31,
+                "end": 49
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Panasonic MB1900CX",
+                "start": 33,
+                "end": 51
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work",
+        "intent": "Setup Printer",
+        "entities": [
+            {
+                "entity": "Printer",
+                "value": "Canon LBP2900B",
+                "start": 15,
+                "end": 29
+            },
+            {
+                "entity": "UbuntuVersion",
+                "value": "14.04 LTS",
+                "start": 41,
+                "end": 50
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Any command line calculator for Ubuntu?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Extracting embedded images from a PDF",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What to use to quickly cut Audio/Video",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Torrent client for the command-line?",
+        "intent": "None",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "MySQL GUI Tools",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "MySQL",
+                "start": 0,
+                "end": 5
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "What developer text editors are available for Ubuntu?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What screenshot tools are available?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Which programs can I use to edit PDF files?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is there a lightweight tool to crop images quickly?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What IRC clients are available?",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "IRC",
+                "start": 5,
+                "end": 8
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "What new games are available for Ubuntu in 2011?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "UPNP / DLNA (client) player recommendations?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What scientific plotting software is available?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Can you recommend a password generator?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What tools do you use to monitor a web server?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What is a good MongoDB GUI client?",
+        "intent": "Software Recommendation",
+        "entities": [
+            {
+                "entity": "SoftwareName",
+                "value": "MongoDB",
+                "start": 15,
+                "end": 22
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "Password Management Applications?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Is there an application for reading mobi files?",
+        "intent": "Software Recommendation",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "shut down without extra question",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to shutdown computer when users are logged on?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What is the proper terminal-way to shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I automatically shutdown the system after a specific time?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Hotkey to shut down from login screen?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How to shutdown the computer after Xsession ends?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can one shutdown a PC using the keyboard?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "How can I enable shutdown verbosity?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Are there any Keyboard Shortcuts to Shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Shutdown after a certain time",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "Shutdown problem in Ubuntu 16.04",
+        "intent": "Shutdown Computer",
+        "entities": [
+            {
+                "entity": "UbuntuVersion",
+                "value": "Ubuntu 16.04",
+                "start": 20,
+                "end": 32
+            }
+        ],
+        "type": "train"
+    },
+    {
+        "text": "How do I fix a shutdown problem?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    },
+    {
+        "text": "What graphical utility can I use for Ubuntu auto shutdown?",
+        "intent": "Shutdown Computer",
+        "entities": [],
+        "type": "train"
+    }
+]

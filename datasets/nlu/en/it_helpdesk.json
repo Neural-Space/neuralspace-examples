@@ -1,0 +1,1905 @@
+[
+  {
+    "text": "hey",
+    "intent": "greet"
+  },
+  {
+    "text": "hello",
+    "intent": "greet"
+  },
+  {
+    "text": "hi",
+    "intent": "greet"
+  },
+  {
+    "text": "good morning",
+    "intent": "greet"
+  },
+  {
+    "text": "good evening",
+    "intent": "greet"
+  },
+  {
+    "text": "hey there",
+    "intent": "greet"
+  },
+  {
+    "text": "hi there",
+    "intent": "greet"
+  },
+  {
+    "text": "hello there",
+    "intent": "greet"
+  },
+  {
+    "text": "greetings",
+    "intent": "greet"
+  },
+  {
+    "text": "Hi",
+    "intent": "greet"
+  },
+  {
+    "text": "helo",
+    "intent": "greet"
+  },
+  {
+    "text": "Hi!",
+    "intent": "greet"
+  },
+  {
+    "text": "Hi'",
+    "intent": "greet"
+  },
+  {
+    "text": "Hi,",
+    "intent": "greet"
+  },
+  {
+    "text": "Hi, bot",
+    "intent": "greet"
+  },
+  {
+    "text": "Hieee",
+    "intent": "greet"
+  },
+  {
+    "text": "Hieeeeeeeeeeeee",
+    "intent": "greet"
+  },
+  {
+    "text": "Hola",
+    "intent": "greet"
+  },
+  {
+    "text": "What is up?",
+    "intent": "greet"
+  },
+  {
+    "text": "Whats up",
+    "intent": "greet"
+  },
+  {
+    "text": "Whats up my bot",
+    "intent": "greet"
+  },
+  {
+    "text": "Whats up?",
+    "intent": "greet"
+  },
+  {
+    "text": "ayyyy whaddup",
+    "intent": "greet"
+  },
+  {
+    "text": "bonjour",
+    "intent": "greet"
+  },
+  {
+    "text": "ey boss",
+    "intent": "greet"
+  },
+  {
+    "text": "I said, helllllloooooO!!!!",
+    "intent": "greet"
+  },
+  {
+    "text": "Well hello there ;)",
+    "intent": "greet"
+  },
+  {
+    "text": "bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "goodbye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "see you around",
+    "intent": "goodbye"
+  },
+  {
+    "text": "see you later",
+    "intent": "goodbye"
+  },
+  {
+    "text": "see ya",
+    "intent": "goodbye"
+  },
+  {
+    "text": "buh bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "Bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "Bye bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "adios",
+    "intent": "goodbye"
+  },
+  {
+    "text": "adios?",
+    "intent": "goodbye"
+  },
+  {
+    "text": "bye :P",
+    "intent": "goodbye"
+  },
+  {
+    "text": "bye bot",
+    "intent": "goodbye"
+  },
+  {
+    "text": "bye bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "bye bye bot",
+    "intent": "goodbye"
+  },
+  {
+    "text": "bye for now",
+    "intent": "goodbye"
+  },
+  {
+    "text": "bye udo",
+    "intent": "goodbye"
+  },
+  {
+    "text": "bye was nice talking to you",
+    "intent": "goodbye"
+  },
+  {
+    "text": "bye!",
+    "intent": "goodbye"
+  },
+  {
+    "text": "byee",
+    "intent": "goodbye"
+  },
+  {
+    "text": "catch you later",
+    "intent": "goodbye"
+  },
+  {
+    "text": "ciao",
+    "intent": "goodbye"
+  },
+  {
+    "text": "cya",
+    "intent": "goodbye"
+  },
+  {
+    "text": "farewell",
+    "intent": "goodbye"
+  },
+  {
+    "text": "good bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "good bye NeuralSpace bot!",
+    "intent": "goodbye"
+  },
+  {
+    "text": "good night",
+    "intent": "goodbye"
+  },
+  {
+    "text": "goodbye.",
+    "intent": "goodbye"
+  },
+  {
+    "text": "goodnight",
+    "intent": "goodbye"
+  },
+  {
+    "text": "gotta go",
+    "intent": "goodbye"
+  },
+  {
+    "text": "ok Bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "ok bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "ok, bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "ok.bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "see u later",
+    "intent": "goodbye"
+  },
+  {
+    "text": "see you",
+    "intent": "goodbye"
+  },
+  {
+    "text": "see you . bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "take care",
+    "intent": "goodbye"
+  },
+  {
+    "text": "then bye",
+    "intent": "goodbye"
+  },
+  {
+    "text": "tlak to you later",
+    "intent": "goodbye"
+  },
+  {
+    "text": "toodle-oo",
+    "intent": "goodbye"
+  },
+  {
+    "text": "byr",
+    "intent": "goodbye"
+  },
+  {
+    "text": "thanks!",
+    "intent": "thank"
+  },
+  {
+    "text": "thank you",
+    "intent": "thank"
+  },
+  {
+    "text": "thanks a lot",
+    "intent": "thank"
+  },
+  {
+    "text": "great thanks",
+    "intent": "thank"
+  },
+  {
+    "text": "appreciate it",
+    "intent": "thank"
+  },
+  {
+    "text": "cool thanks",
+    "intent": "thank"
+  },
+  {
+    "text": "Cool. Thanks",
+    "intent": "thank"
+  },
+  {
+    "text": "Great, thanks",
+    "intent": "thank"
+  },
+  {
+    "text": "Thank you so much",
+    "intent": "thank"
+  },
+  {
+    "text": "Thank's!",
+    "intent": "thank"
+  },
+  {
+    "text": "Thanks bot",
+    "intent": "thank"
+  },
+  {
+    "text": "Thanks for that",
+    "intent": "thank"
+  },
+  {
+    "text": "Thanks!",
+    "intent": "thank"
+  },
+  {
+    "text": "amazing, thanks",
+    "intent": "thank"
+  },
+  {
+    "text": "cool thank you",
+    "intent": "thank"
+  },
+  {
+    "text": "cool, thanks",
+    "intent": "thank"
+  },
+  {
+    "text": "danke",
+    "intent": "thank"
+  },
+  {
+    "text": "ok thanks",
+    "intent": "thank"
+  },
+  {
+    "text": "ok thanks!",
+    "intent": "thank"
+  },
+  {
+    "text": "perfect thank you",
+    "intent": "thank"
+  },
+  {
+    "text": "thank u",
+    "intent": "thank"
+  },
+  {
+    "text": "thank you anyways",
+    "intent": "thank"
+  },
+  {
+    "text": "thanks",
+    "intent": "thank"
+  },
+  {
+    "text": "thanks a bunch for everything",
+    "intent": "thank"
+  },
+  {
+    "text": "thanks for the help",
+    "intent": "thank"
+  },
+  {
+    "text": "thanks you",
+    "intent": "thank"
+  },
+  {
+    "text": "thankyou",
+    "intent": "thank"
+  },
+  {
+    "text": "thnks",
+    "intent": "thank"
+  },
+  {
+    "text": "thx",
+    "intent": "thank"
+  },
+  {
+    "text": "yes thanks",
+    "intent": "thank"
+  },
+  {
+    "text": "thanks for your information",
+    "intent": "thank"
+  },
+  {
+    "text": "thanks f",
+    "intent": "thank"
+  },
+  {
+    "text": "are you a bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you a human?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "am I talking to a bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "am I talking to a human?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "you are a bot right",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "aren't you a bot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "Are you a bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you a BOT",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you a chatbot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you a NeuralSpace bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you a real bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you a robot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you ai",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you artificial",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you artificial intelligence",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you bot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you NeuralSpace bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you real",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you real lol",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you really a bot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you robot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you sure that you're a bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "cuz you are a bot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "i guess you are a chatbot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "oh are you chatbot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "tell me, are you a bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "what are you, a bot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "you are a robot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "you are ai",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "you are chatbot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "you're a bot",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "you robo",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "real bot then?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "are you really a bbot?",
+    "intent": "bot_challenge"
+  },
+  {
+    "text": "need to reset my password",
+    "intent": "password_reset"
+  },
+  {
+    "text": "need help resetting my password",
+    "intent": "password_reset"
+  },
+  {
+    "text": "I can't reset my password",
+    "intent": "password_reset"
+  },
+  {
+    "text": "need help with my password",
+    "intent": "password_reset"
+  },
+  {
+    "text": "having issues resetting my password",
+    "intent": "password_reset"
+  },
+  {
+    "text": "freaking password won't work",
+    "intent": "password_reset"
+  },
+  {
+    "text": "reset my password",
+    "intent": "password_reset"
+  },
+  {
+    "text": "password reset",
+    "intent": "password_reset"
+  },
+  {
+    "text": "forgot my password and can't reset it",
+    "intent": "password_reset"
+  },
+  {
+    "text": "uh password reset help please",
+    "intent": "password_reset"
+  },
+  {
+    "text": "I'm having so many problems resetting my password",
+    "intent": "password_reset"
+  },
+  {
+    "text": "Can you reset my password reset",
+    "intent": "password_reset"
+  },
+  {
+    "text": "My pass word isn't working for me what do I do",
+    "intent": "password_reset"
+  },
+  {
+    "text": "How can I reconfigure my pass word",
+    "intent": "password_reset"
+  },
+  {
+    "text": "pass word reset?",
+    "intent": "password_reset"
+  },
+  {
+    "text": "forgot my pass word again what now",
+    "intent": "password_reset"
+  },
+  {
+    "text": "password help fix",
+    "intent": "password_reset"
+  },
+  {
+    "text": "show me how to set password again",
+    "intent": "password_reset"
+  },
+  {
+    "text": "can you tell me how to change my password",
+    "intent": "password_reset"
+  },
+  {
+    "text": "change pass word",
+    "intent": "password_reset"
+  },
+  {
+    "text": "I forgot my password what can I do",
+    "intent": "password_reset"
+  },
+  {
+    "text": "forgot my password help me reset it pls",
+    "intent": "password_reset"
+  },
+  {
+    "text": "I need to open an incident",
+    "intent": "open_incident"
+  },
+  {
+    "text": "Can you open a case for me",
+    "intent": "open_incident"
+  },
+  {
+    "text": "I have an issue I need to open a incident for",
+    "intent": "open_incident"
+  },
+  {
+    "text": "open incident",
+    "intent": "open_incident"
+  },
+  {
+    "text": "can you help me open a incident please",
+    "intent": "open_incident"
+  },
+  {
+    "text": "I want to open a new incident",
+    "intent": "open_incident"
+  },
+  {
+    "text": "I want to open a incident",
+    "intent": "open_incident"
+  },
+  {
+    "text": "I'm having a weird issue.",
+    "intent": "open_incident"
+  },
+  {
+    "text": "I'm having a problem",
+    "intent": "open_incident"
+  },
+  {
+    "text": "I'm having a issue I need to open a incident for.",
+    "intent": "open_incident"
+  },
+  {
+    "text": "I have a issue I need to open a case for.",
+    "intent": "open_incident"
+  },
+  {
+    "text": "open an incident for aileen.mottern@example.com",
+    "intent": "open_incident"
+  },
+  {
+    "text": "open an urgent issue",
+    "intent": "open_incident",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "high",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "I want to open an incident, but it's low priority",
+    "intent": "open_incident",
+    "entities": [
+      {
+        "start": 37,
+        "end": 40,
+        "value": "low",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "I need to open a helpdesk ticket. it's really important",
+    "intent": "open_incident",
+    "entities": [
+      {
+        "start": 39,
+        "end": 55,
+        "value": "high",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "open an incident",
+    "intent": "open_incident"
+  },
+  {
+    "text": "open an incedent",
+    "intent": "open_incident"
+  },
+  {
+    "text": "i want to open an incident",
+    "intent": "open_incident"
+  },
+  {
+    "text": "i wanna open a incident",
+    "intent": "open_incident"
+  },
+  {
+    "text": "I want to open a ticket",
+    "intent": "open_incident"
+  },
+  {
+    "text": "can I open a ticket",
+    "intent": "open_incident"
+  },
+  {
+    "text": "pls help me open tix support",
+    "intent": "open_incident"
+  },
+  {
+    "text": "ticket support incident open now can you do that for me",
+    "intent": "open_incident"
+  },
+  {
+    "text": "I need help",
+    "intent": "help"
+  },
+  {
+    "text": "what can you help me with",
+    "intent": "help"
+  },
+  {
+    "text": "can you help me",
+    "intent": "help"
+  },
+  {
+    "text": "what can you do",
+    "intent": "help"
+  },
+  {
+    "text": "I need some help",
+    "intent": "help"
+  },
+  {
+    "text": "help me",
+    "intent": "help"
+  },
+  {
+    "text": "can you please help me",
+    "intent": "help"
+  },
+  {
+    "text": "problem",
+    "intent": "help"
+  },
+  {
+    "text": "big problem",
+    "intent": "help"
+  },
+  {
+    "text": "How can you help me",
+    "intent": "help"
+  },
+  {
+    "text": "How you help me?",
+    "intent": "help"
+  },
+  {
+    "text": "What are my options",
+    "intent": "help"
+  },
+  {
+    "text": "What are you able to do?",
+    "intent": "help"
+  },
+  {
+    "text": "What can I ask you?",
+    "intent": "help"
+  },
+  {
+    "text": "What can I do?",
+    "intent": "help"
+  },
+  {
+    "text": "What can you demo",
+    "intent": "help"
+  },
+  {
+    "text": "What can you do for me?",
+    "intent": "help"
+  },
+  {
+    "text": "What can you do?",
+    "intent": "help"
+  },
+  {
+    "text": "What can you tell me?",
+    "intent": "help"
+  },
+  {
+    "text": "What do you do",
+    "intent": "help"
+  },
+  {
+    "text": "anything els",
+    "intent": "help"
+  },
+  {
+    "text": "are there any other options?",
+    "intent": "help"
+  },
+  {
+    "text": "can I ask you anything else?",
+    "intent": "help"
+  },
+  {
+    "text": "can you do anything else?",
+    "intent": "help"
+  },
+  {
+    "text": "can you help me?",
+    "intent": "help"
+  },
+  {
+    "text": "come back",
+    "intent": "help"
+  },
+  {
+    "text": "cool! can I do something else here?",
+    "intent": "help"
+  },
+  {
+    "text": "hello what can you do for me",
+    "intent": "help"
+  },
+  {
+    "text": "help",
+    "intent": "help"
+  },
+  {
+    "text": "help please",
+    "intent": "help"
+  },
+  {
+    "text": "help pls",
+    "intent": "help"
+  },
+  {
+    "text": "help?",
+    "intent": "help"
+  },
+  {
+    "text": "hep me",
+    "intent": "help"
+  },
+  {
+    "text": "my outlook application won't open",
+    "intent": "problem_email"
+  },
+  {
+    "text": "I'm having issues with outlook.",
+    "intent": "problem_email"
+  },
+  {
+    "text": "issues with outlook",
+    "intent": "problem_email"
+  },
+  {
+    "text": "outlook application will not open",
+    "intent": "problem_email"
+  },
+  {
+    "text": "there's a problem with my email",
+    "intent": "problem_email"
+  },
+  {
+    "text": "something is broken with outlook",
+    "intent": "problem_email"
+  },
+  {
+    "text": "I can't log in to my email",
+    "intent": "problem_email"
+  },
+  {
+    "text": "can't log in to outlook",
+    "intent": "problem_email"
+  },
+  {
+    "text": "my email won't let me log in",
+    "intent": "problem_email"
+  },
+  {
+    "text": "i have a problem with my email",
+    "intent": "problem_email"
+  },
+  {
+    "text": "can't get to slack",
+    "intent": "problem_email"
+  },
+  {
+    "text": "i cant open my email",
+    "intent": "problem_email"
+  },
+  {
+    "text": "i can't able to login",
+    "intent": "problem_email"
+  },
+  {
+    "text": "I'm having trouble logging into my email",
+    "intent": "problem_email"
+  },
+  {
+    "text": "can you help me with me with my email please",
+    "intent": "problem_email"
+  },
+  {
+    "text": "what can you do about my email it's not working",
+    "intent": "problem_email"
+  },
+  {
+    "text": "can you fix outlook for me I don't know what to do",
+    "intent": "problem_email"
+  },
+  {
+    "text": "something isn't right with my e-mail",
+    "intent": "problem_email"
+  },
+  {
+    "text": "can you help me with my e-mail account",
+    "intent": "problem_email"
+  },
+  {
+    "text": "my internet mail isn't working",
+    "intent": "problem_email"
+  },
+  {
+    "text": "outlook is showing me a weird message",
+    "intent": "problem_email"
+  },
+  {
+    "text": "email isn't loading can you help",
+    "intent": "problem_email"
+  },
+  {
+    "text": "my email is test@example.com",
+    "intent": "inform"
+  },
+  {
+    "text": "my email is abraham.lincoln@example.com",
+    "intent": "inform"
+  },
+  {
+    "text": "name.name@example.com",
+    "intent": "inform"
+  },
+  {
+    "text": "it is admin@example.com",
+    "intent": "inform"
+  },
+  {
+    "text": "aileen.mottern@example.com",
+    "intent": "inform"
+  },
+  {
+    "text": "low",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "low",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "medium",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "medium",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "high",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "high",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "it should be a low priority",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 15,
+        "end": 18,
+        "value": "low",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "it should be medium",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "medium",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "escalated",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "high",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "escalate",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "high",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "super high",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "super high",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "john",
+    "intent": "inform"
+  },
+  {
+    "text": "the priority is high",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "value": "high",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "test@gmail.com",
+    "intent": "inform"
+  },
+  {
+    "text": "xyz@example.com",
+    "intent": "inform"
+  },
+  {
+    "text": "my email is ella@NeuralSpace.com",
+    "intent": "inform"
+  },
+  {
+    "text": "abraham.lincoln@example.com",
+    "intent": "inform"
+  },
+  {
+    "text": "steve",
+    "intent": "inform"
+  },
+  {
+    "text": "sara@neuralspace.ai",
+    "intent": "inform"
+  },
+  {
+    "text": "urgent",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "high",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "critical",
+    "intent": "inform",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "high",
+        "entity": "priority"
+      }
+    ]
+  },
+  {
+    "text": "what is the square root of 5",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "I want to know the weather",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "what is the meaning of life.",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "Fridge Isn't Running",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "my tv isn't working",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "I want a pizza",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "my washing machine isn't working",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "what year is it",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "order a pizza",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "I want to order a pizza",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "what is the weather today",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "what is the weather",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "how old are you?",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "add two plus two",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "Hdjejene",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "asd",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "title",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "how about the forecast",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "foolish",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "joke",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "Can I get a hamburger?",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "Can YouTube talk?",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "Can you call me back ?",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "Can you give me your datacenter's password",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "Can you give me your datacenter's password?",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "Can you make sandwiches?",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "Can you please send me an uber",
+    "intent": "out_of_scope"
+  },
+  {
+    "text": "I want to check if my ticket has been closed",
+    "intent": "incident_status"
+  },
+  {
+    "text": "what's the status of my incident?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "Has the incident been closed yet?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "Is my ticket in progress?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "What has happened with my open ticket?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "what's going on with the incident I opened?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "Do I have any open incidents at the moment?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "Can I check the status of my open tickets?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "Can I see the status of the ticket I opened?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "Check ticket status",
+    "intent": "incident_status"
+  },
+  {
+    "text": "check incident status",
+    "intent": "incident_status"
+  },
+  {
+    "text": "ok, try looking it up for abraham.lincoln@example.com",
+    "intent": "incident_status"
+  },
+  {
+    "text": "look up ticket status for abel.tuter@example.com",
+    "intent": "incident_status"
+  },
+  {
+    "text": "my ticket status",
+    "intent": "incident_status"
+  },
+  {
+    "text": "What's the status of the ticket I opened?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "what's my ticket status",
+    "intent": "incident_status"
+  },
+  {
+    "text": "how is my ticket going",
+    "intent": "incident_status"
+  },
+  {
+    "text": "an updates on my incident ticket?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "I opened an issue last week how is it doing now",
+    "intent": "incident_status"
+  },
+  {
+    "text": "can you check the status my email is sara@neuralspace.ai",
+    "intent": "incident_status"
+  },
+  {
+    "text": "has the ticket been closed yet?",
+    "intent": "incident_status"
+  },
+  {
+    "text": "is my issue still open",
+    "intent": "incident_status"
+  },
+  {
+    "text": "yes",
+    "intent": "affirm"
+  },
+  {
+    "text": "yes please",
+    "intent": "affirm"
+  },
+  {
+    "text": "yes I would",
+    "intent": "affirm"
+  },
+  {
+    "text": "please do",
+    "intent": "affirm"
+  },
+  {
+    "text": "yup",
+    "intent": "affirm"
+  },
+  {
+    "text": "yep",
+    "intent": "affirm"
+  },
+  {
+    "text": "that's right",
+    "intent": "affirm"
+  },
+  {
+    "text": "indeed",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yes, please",
+    "intent": "affirm"
+  },
+  {
+    "text": "yeah",
+    "intent": "affirm"
+  },
+  {
+    "text": "sure",
+    "intent": "affirm"
+  },
+  {
+    "text": "yes thanks",
+    "intent": "affirm"
+  },
+  {
+    "text": "That would be great",
+    "intent": "affirm"
+  },
+  {
+    "text": "YES",
+    "intent": "affirm"
+  },
+  {
+    "text": "YUP",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yea",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yeah",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yeah sure",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yep",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yep that's fine",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yep!",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yepp",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yes",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yes I do",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yes please",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yes please!",
+    "intent": "affirm"
+  },
+  {
+    "text": "Yes, I accept",
+    "intent": "affirm"
+  },
+  {
+    "text": "no",
+    "intent": "deny"
+  },
+  {
+    "text": "nope",
+    "intent": "deny"
+  },
+  {
+    "text": "no thanks",
+    "intent": "deny"
+  },
+  {
+    "text": "not that one",
+    "intent": "deny"
+  },
+  {
+    "text": "don't use that",
+    "intent": "deny"
+  },
+  {
+    "text": "please no",
+    "intent": "deny"
+  },
+  {
+    "text": "no don't do that",
+    "intent": "deny"
+  },
+  {
+    "text": "no, use abraham.lincoln@example.com",
+    "intent": "deny"
+  },
+  {
+    "text": "Neither",
+    "intent": "deny"
+  },
+  {
+    "text": "Never",
+    "intent": "deny"
+  },
+  {
+    "text": "Nevermind",
+    "intent": "deny"
+  },
+  {
+    "text": "No thank you",
+    "intent": "deny"
+  },
+  {
+    "text": "No, not really.",
+    "intent": "deny"
+  },
+  {
+    "text": "No, thank you",
+    "intent": "deny"
+  },
+  {
+    "text": "No.",
+    "intent": "deny"
+  },
+  {
+    "text": "Nopes",
+    "intent": "deny"
+  },
+  {
+    "text": "Not really",
+    "intent": "deny"
+  },
+  {
+    "text": "absolutely not",
+    "intent": "deny"
+  },
+  {
+    "text": "decline",
+    "intent": "deny"
+  },
+  {
+    "text": "definitely not",
+    "intent": "deny"
+  },
+  {
+    "text": "deny",
+    "intent": "deny"
+  },
+  {
+    "text": "na",
+    "intent": "deny"
+  },
+  {
+    "text": "nah",
+    "intent": "deny"
+  },
+  {
+    "text": "nah I'm good",
+    "intent": "deny"
+  },
+  {
+    "text": "I want a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can I speak to an agent",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "real agent please",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "real human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "chat with a live agent",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "give me a person please",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to talk to a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can you transfer me to a human?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "handoff",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "talk to a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i need to talk to a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "human please",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i need help from a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i need help from a real human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "give me a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to talk to human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want a representative",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to talk to a person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "I don't wanna talk to a bot",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "I dont like to talk to a machine",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "I want to talk to a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "I want to talk to the founders",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "are there also humans working for your company?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can I speak to a person?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can i please speak to a human?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can you forward me to your team",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can you please connect me to a real NeuralSpace employee?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can you put me in touch with a human?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "do you have human support ?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "gimme a proper human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "give me a human now",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "human handoff",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i dont wanna talk to a bot",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to speak to a real person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to speak to customer service",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to talk to someone at NeuralSpace",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to talk to someone else",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to talk to someone who is smarter than you",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i would like to speak to a person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i'd rather speak with a real NeuralSpace employee",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "id like to talk to a real NeuralSpace employee",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "let me speak with a real person please",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "let me talk to a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "let me talk to a real person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "please give me a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "service agent",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "someone from customer care",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "speak to a real person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "talking to a bot is stupid",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "that's annoying I'd like to speak to someone real",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "thats not helping, can i talk to human?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "wrong i want to speak to a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can i speak to human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can i speak to your human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to chat with human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "How do I talk to a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "talk with a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "Can i talk to a human instead",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "nevermind.... you're not human ... I need to talk to a live person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "Can you get a human to assist me?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "Can i talk to a human?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "Can I talk to a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "Can I speak to a human?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can i speak to a human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "no, i want to talk to human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can you hand a conversation over to a human?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can I talk to human?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can I talk to human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "talk to human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want human :(",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can i talk to human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to speak to human",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can i talk to a real person?",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "connect me to a real person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "I need a real person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "can i took with a real person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "let me speak to a real person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "let me speak to a real person please",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to talk to a real person",
+    "intent": "human_handoff"
+  },
+  {
+    "text": "i want to talk to a Arthur from IT",
+    "intent": "human_handoff",
+    "entities": [
+      {
+          "start": 20,
+          "end": 26,
+          "entity": "person",
+          "value": "Arthur",
+          "entityType": "pre-trained"
+      }
+    ]
+  },
+  {
+    "text": "i want to talk to a Arthur from Amazon",
+    "intent": "human_handoff",
+    "entities": [
+      {
+          "start": 32,
+          "end": 38,
+          "entity": "organization",
+          "value": "Amazon",
+          "entityType": "pre-trained"
+      }
+    ]
+  },
+  {
+    "text": "i want to return my laptop on 8th november",
+    "intent": "help",
+    "entities": [
+      {
+          "start": 30,
+          "end": 42,
+          "entity": "date",
+          "value": "8th november",
+          "entityType": "pre-trained"
+      }
+    ]
+  }
+]
