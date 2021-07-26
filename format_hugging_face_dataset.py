@@ -6,9 +6,6 @@ import json
 LANGUAGE = input("Enter the Language associated with the project: ")
 PATH_TO_DATA = input("enter the name of the data: ")
 
-main_json = []
-
-
 def create_path(PATH_TO_DATA,LANGUAGE):
     data_in = "./datasets/nlu"
     path_to_language = os.path.join(data_in, LANGUAGE)
@@ -16,8 +13,11 @@ def create_path(PATH_TO_DATA,LANGUAGE):
     dir = os.listdir(PATH_TO_DATA)
     print("There are: ", dir)
     return PATH_TO_DATA, dir
-def create_json(dir, PATH_TO_DATA, limit=3000):
+
+def create_json(dir, PATH_TO_DATA, limit=50000):
     for data in dir:
+        main_json = []
+        print(data)
         present_path = os.path.join(PATH_TO_DATA, data)
         df = pd.read_csv(present_path)
         columns = df.columns
@@ -35,10 +35,11 @@ def create_json(dir, PATH_TO_DATA, limit=3000):
                 unit_example_dict = {}
                 unit_example_dict["text"] = sentence
                 unit_example_dict["intent"] = str(label)
-                unit_example_dict["type"] = "test" if "validation" in data[:4] else data[:-4]
+                print(data)
+                unit_example_dict["type"] = data[:-4]
                 main_json.append(unit_example_dict)
-        with open(os.path.join(PATH_TO_DATA, f"{data[:-4]}.json"), 'w') as js:
-            json.dump(main_json, js, indent=4, ensure_ascii=False)
+            with open(os.path.join(PATH_TO_DATA, f"{data[:-4]}.json"), 'w') as js:
+                json.dump(main_json, js, indent=4, ensure_ascii=False)
 
 
 path, dir = create_path(PATH_TO_DATA, LANGUAGE)
