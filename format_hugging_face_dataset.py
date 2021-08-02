@@ -4,6 +4,7 @@ import pandas as pd
 import json
 
 LANGUAGE = input("Enter the Language associated with the project: ")
+data = input("enter the type of data to format: ")
 PATH_TO_DATA = input("enter the name of the data: ")
 
 def create_path(PATH_TO_DATA,LANGUAGE):
@@ -14,32 +15,32 @@ def create_path(PATH_TO_DATA,LANGUAGE):
     print("There are: ", dir)
     return PATH_TO_DATA, dir
 
-def create_json(dir, PATH_TO_DATA, limit=50000):
-    for data in dir:
-        main_json = []
-        print(data)
-        present_path = os.path.join(PATH_TO_DATA, data)
-        df = pd.read_csv(present_path)
-        columns = df.columns
-        print(columns)
-        if len(columns) > 2:
-            raise Exception("There are more than two columns")
-        else:
-            labels = df[columns[0]]
-            sentences = df[columns[1]]
-            count = 0
-            for label, sentence in zip(labels, sentences):
-                count+=1
-                if count > limit:
-                    break
-                unit_example_dict = {}
-                unit_example_dict["text"] = sentence
-                unit_example_dict["intent"] = str(label)
-                print(data)
-                unit_example_dict["type"] = data[:-4]
-                main_json.append(unit_example_dict)
-            with open(os.path.join(PATH_TO_DATA, f"{data[:-4]}.json"), 'w') as js:
-                json.dump(main_json, js, indent=4, ensure_ascii=False)
+def create_json(dir, PATH_TO_DATA, limit=100000):
+    
+    main_json = []
+    print(data)
+    present_path = os.path.join(PATH_TO_DATA, data)
+    df = pd.read_csv(present_path)
+    columns = df.columns
+    print(columns)
+    if len(columns) > 2:
+        raise Exception("There are more than two columns")
+    else:
+        labels = df[columns[0]]
+        sentences = df[columns[1]]
+        count = 0
+        for label, sentence in zip(labels, sentences):
+            count+=1
+            if count > limit:
+                break
+            unit_example_dict = {}
+            unit_example_dict["text"] = sentence
+            unit_example_dict["intent"] = str(label)
+            print(data)
+            unit_example_dict["type"] = data[:-4]
+            main_json.append(unit_example_dict)
+        with open(os.path.join(PATH_TO_DATA, f"{data[:-4]}.json"), 'w') as js:
+            json.dump(main_json, js, indent=4, ensure_ascii=False)
 
 
 path, dir = create_path(PATH_TO_DATA, LANGUAGE)
