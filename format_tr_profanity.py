@@ -12,7 +12,8 @@ for row in train_ds.iterrows():
     train_x.append(
         {
             "intent": str(row[1]["subtask_a"]),
-            "text": row[1]["tweet"].replace("@USER", "").strip()
+            "text": row[1]["tweet"].replace("@USER", "").strip(),
+            "type": "train"
         }
     )
 
@@ -20,7 +21,8 @@ for row in test_ds.iterrows():
     test_x.append(
         {
             "intent": str(row[1]["subtask_a"]),
-            "text": row[1]["tweet"].replace("@USER", "").strip()
+            "text": row[1]["tweet"].replace("@USER", "").strip(),
+            "type": "test"
         }
     )
 

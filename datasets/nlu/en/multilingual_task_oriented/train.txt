@@ -30519,4 +30519,3 @@ set:O alarm:O for:B-datetime noon:I-datetime tomorrow:I-datetime .:O <=> alarm__
 set:O the:O alarm:O to:O ring:O at:B-datetime 4.30am:I-datetime on:I-datetime monday:I-datetime <=> alarm__set_alarm
 how:O much:O time:O is:O left:O before:O my:O alarm:O goes:O off:O <=> alarm__time_left_on_alarm
 set:O the:O alarm:O for:B-datetime tonight:I-datetime .:O <=> alarm__set_alarm
-{"mode":"full","isActive":false}

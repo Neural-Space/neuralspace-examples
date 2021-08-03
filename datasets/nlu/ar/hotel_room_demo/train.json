@@ -1,0 +1,222 @@
+[
+  {
+    "text": "افتح المكيف",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "أغلق المكيف",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "إفتح المكيف المبرد",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "أرجوك إفتح السخان",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "هل بإمكانك أن تخفض الإضائه",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "علي صوت التلفاز",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "إفتح الإضائه",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "أخفض الإضائه",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "إفتح المدفئه",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "علي درجه حراراه المدفئه",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "أغلق المدفئه",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "إخفض درجه حراراه المدفئه",
+    "intent": "device_control",
+    "type": "train"
+  },
+  {
+    "text": "هل بإمكانك أن توصل العشاء إلى غرفتي ؟",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "هل ممكن أن تعطيني بعض من اماء؟",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "احتاج مخده زائده؟",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "هل ممكن أن أحصل على كوب قهوه؟",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "أحتاج خدمه غسيل الملابس",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "أحتاج ان احجز سياره تكسي من اجل صباح الغد",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "هل ممكن أن ترسل لي منيو الغداء",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "إتصل ب موضف الإستقبال",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "هل ممكن أن احصل على فوطه إضافيه",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "هل ممكن أن احصل على ثلج",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "هل الغداء مجانا ؟",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "هل ممكن ان احصل على المزيد من القهوه و السكر؟",
+    "intent": "room_service",
+    "type": "train"
+  },
+  {
+    "text": "مرحبا",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "السلام عليكم",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "أهلا",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "صباح الخير",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "هاي",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "نامستي",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "هاي",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "مساء الخير",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "مساء الخير",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "صباح اخير",
+    "intent": "greet",
+    "type": "train"
+  },
+  {
+    "text": "ماهو باسورد الوايفاي؟",
+    "intent": "information",
+    "type": "train"
+  },
+  {
+    "text": "إلى متى البار مفتوح ؟",
+    "intent": "information",
+    "type": "train"
+  },
+  {
+    "text": "هل الفستق في الثلاجه مجاني ؟",
+    "intent": "information",
+    "type": "train"
+  },
+  {
+    "text": "ماهي أوقات المسبح؟",
+    "intent": "information",
+    "type": "train"
+  },
+  {
+    "text": "إلى ساعه كم تقدمون الفطور؟",
+    "intent": "information",
+    "type": "train"
+  },
+  {
+    "text": "هل هناك سبا في الفندق؟",
+    "intent": "information",
+    "type": "train"
+  },
+  {
+    "text": "ماهو وقت التشك أوت؟",
+    "intent": "information",
+    "type": "train"
+  },
+  {
+    "text": "ماهي بعض الأماكن الجيده ل الزياره هنا؟",
+    "intent": "information",
+    "type": "train"
+  },
+  {
+    "text": "هل هناك بحر قريب من هنا ؟",
+    "intent": "information",
+    "type": "train"
+  },
+  {
+    "text": "هل عندكم طعام نباتي؟",
+    "intent": "information",
+    "type": "train"
+  }
+]
