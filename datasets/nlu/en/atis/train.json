@@ -3591,6 +3591,25 @@
         ]
     },
     {
+        "intent": "atis_restriction",
+        "text": "what are the air restrictions on flights from pittsburgh to atlanta for the airfare of 416 dollars",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "pittsburgh",
+                "start": 46,
+                "end": 56
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "atlanta",
+                "start": 60,
+                "end": 67
+            }
+        ]
+    },
+    {
         "intent": "atis_flight",
         "text": "find me a flight leaving boston at 12 o'clock",
         "type": "train",
@@ -6813,6 +6832,339 @@
             }
         ]
     },
+  {
+        "intent": "atis_airline;atis_flight_no",
+        "text": "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "new york",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "toronto",
+                "start": 62,
+                "end": 69
+            },
+            {
+                "entity": "depart_date.date_relative",
+                "value": "same",
+                "start": 77,
+                "end": 81
+            },
+            {
+                "entity": "depart_date.day_number",
+                "value": "seventeenth",
+                "start": 92,
+                "end": 103
+            },
+            {
+                "entity": "arrive_time.time",
+                "value": "noon",
+                "start": 136,
+                "end": 140
+            }
+        ]
+    },
+  {
+        "intent": "atis_airline;atis_flight_no",
+        "text": "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "new york",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "toronto",
+                "start": 62,
+                "end": 69
+            },
+            {
+                "entity": "depart_date.date_relative",
+                "value": "same",
+                "start": 77,
+                "end": 81
+            },
+            {
+                "entity": "depart_date.day_number",
+                "value": "seventeenth",
+                "start": 92,
+                "end": 103
+            },
+            {
+                "entity": "arrive_time.time",
+                "value": "noon",
+                "start": 136,
+                "end": 140
+            }
+        ]
+    },
+  {
+        "intent": "atis_airline;atis_flight_no",
+        "text": "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "new york",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "toronto",
+                "start": 62,
+                "end": 69
+            },
+            {
+                "entity": "depart_date.date_relative",
+                "value": "same",
+                "start": 77,
+                "end": 81
+            },
+            {
+                "entity": "depart_date.day_number",
+                "value": "seventeenth",
+                "start": 92,
+                "end": 103
+            },
+            {
+                "entity": "arrive_time.time",
+                "value": "noon",
+                "start": 136,
+                "end": 140
+            }
+        ]
+    },
+  {
+        "intent": "atis_airline;atis_flight_no",
+        "text": "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "new york",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "toronto",
+                "start": 62,
+                "end": 69
+            },
+            {
+                "entity": "depart_date.date_relative",
+                "value": "same",
+                "start": 77,
+                "end": 81
+            },
+            {
+                "entity": "depart_date.day_number",
+                "value": "seventeenth",
+                "start": 92,
+                "end": 103
+            },
+            {
+                "entity": "arrive_time.time",
+                "value": "noon",
+                "start": 136,
+                "end": 140
+            }
+        ]
+    },
+  {
+        "intent": "atis_airline;atis_flight_no",
+        "text": "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "new york",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "toronto",
+                "start": 62,
+                "end": 69
+            },
+            {
+                "entity": "depart_date.date_relative",
+                "value": "same",
+                "start": 77,
+                "end": 81
+            },
+            {
+                "entity": "depart_date.day_number",
+                "value": "seventeenth",
+                "start": 92,
+                "end": 103
+            },
+            {
+                "entity": "arrive_time.time",
+                "value": "noon",
+                "start": 136,
+                "end": 140
+            }
+        ]
+    },
+  {
+        "intent": "atis_airline;atis_flight_no",
+        "text": "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "new york",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "toronto",
+                "start": 62,
+                "end": 69
+            },
+            {
+                "entity": "depart_date.date_relative",
+                "value": "same",
+                "start": 77,
+                "end": 81
+            },
+            {
+                "entity": "depart_date.day_number",
+                "value": "seventeenth",
+                "start": 92,
+                "end": 103
+            },
+            {
+                "entity": "arrive_time.time",
+                "value": "noon",
+                "start": 136,
+                "end": 140
+            }
+        ]
+    },
+  {
+        "intent": "atis_airline;atis_flight_no",
+        "text": "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "new york",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "toronto",
+                "start": 62,
+                "end": 69
+            },
+            {
+                "entity": "depart_date.date_relative",
+                "value": "same",
+                "start": 77,
+                "end": 81
+            },
+            {
+                "entity": "depart_date.day_number",
+                "value": "seventeenth",
+                "start": 92,
+                "end": 103
+            },
+            {
+                "entity": "arrive_time.time",
+                "value": "noon",
+                "start": 136,
+                "end": 140
+            }
+        ]
+    },
+  {
+        "intent": "atis_airline;atis_flight_no",
+        "text": "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "new york",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "toronto",
+                "start": 62,
+                "end": 69
+            },
+            {
+                "entity": "depart_date.date_relative",
+                "value": "same",
+                "start": 77,
+                "end": 81
+            },
+            {
+                "entity": "depart_date.day_number",
+                "value": "seventeenth",
+                "start": 92,
+                "end": 103
+            },
+            {
+                "entity": "arrive_time.time",
+                "value": "noon",
+                "start": 136,
+                "end": 140
+            }
+        ]
+    },
+  {
+        "intent": "atis_airline;atis_flight_no",
+        "text": "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "fromloc.city_name",
+                "value": "new york",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "toloc.city_name",
+                "value": "toronto",
+                "start": 62,
+                "end": 69
+            },
+            {
+                "entity": "depart_date.date_relative",
+                "value": "same",
+                "start": 77,
+                "end": 81
+            },
+            {
+                "entity": "depart_date.day_number",
+                "value": "seventeenth",
+                "start": 92,
+                "end": 103
+            },
+            {
+                "entity": "arrive_time.time",
+                "value": "noon",
+                "start": 136,
+                "end": 140
+            }
+        ]
+    },
     {
         "intent": "atis_flight",
         "text": "what is the cheapest coach flight between dallas and baltimore leaving august tenth",
@@ -6952,6 +7304,12 @@
                 "end": 34
             }
         ]
+    },
+    {
+        "intent": "atis_restriction",
+        "text": "what is restriction ap80",
+        "type": "train",
+        "entities": []
     },
     {
         "intent": "atis_restriction",
@@ -10614,6 +10972,161 @@
         ]
     },
     {
+        "intent": "atis_meal",
+        "text": "is there a meal on delta flight 852 from san francisco to dallas fort worth",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "meal",
+                "value": "meal",
+                "start": 11,
+                "end": 15
+            },
+            {
+                "entity": "airline_name",
+                "value": "delta",
+                "start": 19,
+                "end": 24
+            },
+            {
+                "entity": "flight_number",
+                "value": "852",
+                "start": 32,
+                "end": 35
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "san francisco",
+                "start": 41,
+                "end": 54
+            }
+        ]
+    },
+  {
+        "intent": "atis_meal",
+        "text": "is there a meal on delta flight 852 from san francisco to dallas fort worth",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "meal",
+                "value": "meal",
+                "start": 11,
+                "end": 15
+            },
+            {
+                "entity": "airline_name",
+                "value": "delta",
+                "start": 19,
+                "end": 24
+            },
+            {
+                "entity": "flight_number",
+                "value": "852",
+                "start": 32,
+                "end": 35
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "san francisco",
+                "start": 41,
+                "end": 54
+            }
+        ]
+    },
+  {
+        "intent": "atis_meal",
+        "text": "is there a meal on delta flight 852 from san francisco to dallas fort worth",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "meal",
+                "value": "meal",
+                "start": 11,
+                "end": 15
+            },
+            {
+                "entity": "airline_name",
+                "value": "delta",
+                "start": 19,
+                "end": 24
+            },
+            {
+                "entity": "flight_number",
+                "value": "852",
+                "start": 32,
+                "end": 35
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "san francisco",
+                "start": 41,
+                "end": 54
+            }
+        ]
+    },
+  {
+        "intent": "atis_meal",
+        "text": "is there a meal on delta flight 852 from san francisco to dallas fort worth",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "meal",
+                "value": "meal",
+                "start": 11,
+                "end": 15
+            },
+            {
+                "entity": "airline_name",
+                "value": "delta",
+                "start": 19,
+                "end": 24
+            },
+            {
+                "entity": "flight_number",
+                "value": "852",
+                "start": 32,
+                "end": 35
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "san francisco",
+                "start": 41,
+                "end": 54
+            }
+        ]
+    },
+  {
+        "intent": "atis_meal",
+        "text": "is there a meal on delta flight 852 from san francisco to dallas fort worth",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "meal",
+                "value": "meal",
+                "start": 11,
+                "end": 15
+            },
+            {
+                "entity": "airline_name",
+                "value": "delta",
+                "start": 19,
+                "end": 24
+            },
+            {
+                "entity": "flight_number",
+                "value": "852",
+                "start": 32,
+                "end": 35
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "san francisco",
+                "start": 41,
+                "end": 54
+            }
+        ]
+    },
+  {
         "intent": "atis_meal",
         "text": "is there a meal on delta flight 852 from san francisco to dallas fort worth",
         "type": "train",
@@ -63392,6 +63905,101 @@
         ]
     },
     {
+        "intent": "atis_restriction",
+        "text": "what are the restrictions on the cheapest one way fare between boston and oakland",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "round_trip",
+                "value": "one way",
+                "start": 42,
+                "end": 49
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "boston",
+                "start": 63,
+                "end": 69
+            }
+        ]
+    },
+    {
+        "intent": "atis_restriction",
+        "text": "what are the restrictions on the cheapest one way fare between boston and oakland",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "round_trip",
+                "value": "one way",
+                "start": 42,
+                "end": 49
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "boston",
+                "start": 63,
+                "end": 69
+            }
+        ]
+    },
+  {
+        "intent": "atis_restriction",
+        "text": "what are the restrictions on the cheapest one way fare between boston and oakland",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "round_trip",
+                "value": "one way",
+                "start": 42,
+                "end": 49
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "boston",
+                "start": 63,
+                "end": 69
+            }
+        ]
+    },
+  {
+        "intent": "atis_restriction",
+        "text": "what are the restrictions on the cheapest one way fare between boston and oakland",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "round_trip",
+                "value": "one way",
+                "start": 42,
+                "end": 49
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "boston",
+                "start": 63,
+                "end": 69
+            }
+        ]
+    },
+    {
+        "intent": "atis_restriction",
+        "text": "what are the restrictions on the cheapest one way fare between boston and oakland",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "round_trip",
+                "value": "one way",
+                "start": 42,
+                "end": 49
+            },
+            {
+                "entity": "fromloc.city_name",
+                "value": "boston",
+                "start": 63,
+                "end": 69
+            }
+        ]
+    },
+    {
         "intent": "atis_flight",
         "text": "i want a flight between oakland and boston that arrives before 5 pm",
         "type": "train",
@@ -66306,6 +66914,136 @@
         ]
     },
     {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
+        "intent": "atis_cheapest",
+        "text": "show me the cheapest fare in the database",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "cost_relative",
+                "value": "cheapest",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+  {
         "intent": "atis_cheapest",
         "text": "show me the cheapest fare in the database",
         "type": "train",
