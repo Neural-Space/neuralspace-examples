@@ -33993,37 +33993,6 @@
         ]
     },
     {
-        "intent": "atis_aircraft;atis_flight;atis_flight_no",
-        "text": "i want to fly from detroit to st. petersburg on northwest airlines and leave around 9 am tell me what aircraft are used by this flight and tell me the flight number",
-        "type": "train",
-        "entities": [
-            {
-                "entity": "fromloc.city_name",
-                "value": "detroit",
-                "start": 19,
-                "end": 26
-            },
-            {
-                "entity": "toloc.city_name",
-                "value": "st. petersburg",
-                "start": 30,
-                "end": 44
-            },
-            {
-                "entity": "airline_name",
-                "value": "northwest airlines",
-                "start": 48,
-                "end": 66
-            },
-            {
-                "entity": "depart_time.time",
-                "value": "9 am",
-                "start": 84,
-                "end": 88
-            }
-        ]
-    },
-    {
         "intent": "atis_flight",
         "text": "cheapest flight from memphis to miami",
         "type": "train",
@@ -68599,19 +68568,6 @@
                 "value": "boston",
                 "start": 43,
                 "end": 49
-            }
-        ]
-    },
-    {
-        "intent": "atis_ground_service;atis_ground_fare",
-        "text": "what ground transportation is available from the pittsburgh airport to downtown and how much does it cost",
-        "type": "train",
-        "entities": [
-            {
-                "entity": "fromloc.airport_name",
-                "value": "pittsburgh airport",
-                "start": 49,
-                "end": 67
             }
         ]
     },

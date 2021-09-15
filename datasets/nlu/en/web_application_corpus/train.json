@@ -1201,19 +1201,6 @@
         "type": "train"
     },
     {
-        "text": "Why can't I change my password and login with Skype?",
-        "intent": "f",
-        "entities": [
-            {
-                "entity": "WebService",
-                "value": "Skype",
-                "start": 46,
-                "end": 51
-            }
-        ],
-        "type": "train"
-    },
-    {
         "text": "Change subject line in new Gmail compose window",
         "intent": "None",
         "entities": [
@@ -1382,19 +1369,6 @@
                 "value": "Gmail",
                 "start": 31,
                 "end": 36
-            }
-        ],
-        "type": "train"
-    },
-    {
-        "text": "Stopping spam emails in Gmail by pattern",
-        "intent": "f",
-        "entities": [
-            {
-                "entity": "WebService",
-                "value": "Gmail",
-                "start": 24,
-                "end": 29
             }
         ],
         "type": "train"
