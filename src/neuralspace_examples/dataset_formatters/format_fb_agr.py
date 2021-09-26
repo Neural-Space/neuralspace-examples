@@ -161,6 +161,7 @@ for row in phrases_ds.iterrows():
     phrases.append(row[1][0])
 
 
-json.dump(train_x, open("../../../datasets/nlu/hi/facebook-post-aggression-identification/train.json", "w"), indent=4, ensure_ascii=False)
-json.dump(test_x, open("../../../datasets/nlu/hi/facebook-post-aggression-identification/test.json", "w"), indent=4, ensure_ascii=False)
+json.dump(train_x, open(
+    "../../../datasets/nlu/multilingual/hinglish/facebook-post-aggression-identification/train.json", "w"), indent=4, ensure_ascii=False)
+json.dump(test_x, open("../../../datasets/nlu/multilingual/hinglish/facebook-post-aggression-identification/test.json", "w"), indent=4, ensure_ascii=False)
 json.dump(phrases, open("datasets/nlu/hi/facebook-post-aggression-identification/abusive_phrases.json", "w"), indent=4, ensure_ascii=False)
