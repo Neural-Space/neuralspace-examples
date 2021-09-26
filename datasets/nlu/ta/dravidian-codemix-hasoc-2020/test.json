@@ -15746,12 +15746,12 @@
     },
     {
         "text": " Daily likes & views pakka vanthavaga ellarukum vanakkam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 25 k dislikes ethuku da intha trailerku poi apdi ungalukku entha trailer tha pidikum",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -15761,117 +15761,117 @@
     },
     {
         "text": " It looks like Hindi movie amitab bachan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaivarukku nejamavey vayasaagiduchu... sivaji than thalaivaroda peak!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " THALA nu Sollu THALA  nemirinthu nillu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pink original version pathavikaluku this trailer old maritha irukum.... Pakathvigalukutha all scenes um new ah irukum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera levellllllllllllll all the best shankar sir ur a legend",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " H Raja reference kandupudichavangalam like pannunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Massssss thalivaa  Vera level energy petta parak",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nadakkadhu, nadakkakoodathu, nadakka vidamattaen! Who expected that line?",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nerkonda parvai CONTINUE 5 days IN (ALL TEATER)  IT WILL BE BLOCK BUSTER MOVIE YES=LIKE NO=COMMENT",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " பவர்கட் இனி இல்லை!\\r Sijlee energy solutions pvt ltd\\r sijlee.com\\r 044-48684268,9789082241\\r Emi available\\r Chennai",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " HELLO YOUTUBE TRENT ON1 BUTTON YOUR SOFTWARE DEATH AH",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Ultimate star Ajith Kumar THALA THALA THALA",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Unmaiya thala fana irrutha like poduga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaiva superstar Rajinikanth number one mass Hero",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Makkal selvan fans hit like here....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super star  Marana mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Am sasikumar big fan so i like the move",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Superstar Rajnikant Fans Hit Like  2K Likes    Petta This Pongal Pakka Blockbuster",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Siruthai siva Apdiye DIRECTOR odadha vaangi madakku madakku nu kudi unnaku DIRECTION varudhaanu paapom",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thala thala pesunaa anilu ammaiyan vjmaaa Ku tharama sembavam irrukku daaaa anilu Vick sorry kotte pathy",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yenapa hollywood movie madiri trailer iruku chiyan rocks kalakitaru getup vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " BGM Vera level going hike ghibran......",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Eppadina bigil trailera namma views reach aga koodadhu adhe",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -15886,12 +15886,12 @@
     },
     {
         "text": " Bro ellaarum 1M likes ethukunga.... vidaathinga...I'd create pannunga....fast",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala madhiri thuiya Tamil pessi nadikka mudiuma thala tamilan da",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -15901,37 +15901,37 @@
     },
     {
         "text": " Yaarellam Oct 4 Ku Verithanama wait Panreega Hit Like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " thalapathy fan .like thala ni vaa thala nanga erukkom",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " enna da trailer kannapundai madiri iruku",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " enathaku da dislike pannringa. Edhoda oru gethu trailer irukka vaipae illa!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Anil Kunjunga Romba kadharranga  Idharku ore Theervu Arali vedhaya sappuradhu dhan .",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Agalathey paatu kku aprum vanthavanga like aa pottu viduunga nu comment panna vanthavanga oru like a podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailers semaaaaaaaa i am waiting release big screen",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -15941,52 +15941,52 @@
     },
     {
         "text": " Luv u Karthik  real fan made film",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " thala vera level in ner konda paarvai",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Manitha kadavul ajith kumar  Kadhal mannan Ajithkumar  Ultimate star  ajithkumar",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Daily intha trailer ah pakuravanga ....?",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super raa ya eriku trailer  Movie UK whiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Eanga chiyan vikaram yappo maa mass da",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer Nalla erukku pengal ku nadakkura kodumaiya eduthu solra kadhai ...sema  #Thalapathy fan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vijay sethupathi Anna bayangara mass said irukaru",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Final dialogue and previous dialogue mass.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Happy Diwali guysss.... If vijay fans here means enjoy ur sarkar day......",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -15996,17 +15996,17 @@
     },
     {
         "text": " Valimai aana aamai inathin thailvan ajith kuthi punda mavan valga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Sk anna nenga vera level aduthu aduthu munari poitairukinge anna always love u anna",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Hit like ithu onnu than Inga comments aa irukku🤣",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16021,67 +16021,67 @@
     },
     {
         "text": " Am waiting... For thala in Nerkonda parvai...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Rajini kanth sir fans like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Guyzz night kulla 11m views 800k likes podanum...speed upp dudes",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Hero already looks like a Zero",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Rmba nerama 467k la mattume iruku🤔 thala mass views pakalanu patha  ithu vera sathi pannuthu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Mathavanga mari bandha katti nadikama karthulla padam choose panni nadikirau love u thala hats off",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trending no 1 in Singapore Steady la",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " FATHERS DAY SPECIAL Paarungu.. awareness share pannungu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Indheee oru padam poodhum thalaivaaaa.... Naaan ungaleee marupadiyum parthutheeee.....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Why 4.3k dislike?what they understand....plese tell me dislike persons",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Waiting for kaappaan .suriya fans like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaivar than super star Vera evarum kidaiyathu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Asuren Vettai arambam ........ .., am Dhanush . Anna veriyan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16096,17 +16096,17 @@
     },
     {
         "text": " Will it get 1 million likes",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " ithu tamil nadu ella ithu enga thala nadu daa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Epd Unga combo(vetri+dhanush) nala  matum ipd realistic.a kondu Vara mudyuthu.... Semmmma Pa...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16116,27 +16116,27 @@
     },
     {
         "text": " wowww amaizing bgm nammakita kaaadu iruntha eduthupanga kasu iruntha pudingikuruvanga padipa mattum eduthukave mudiyathu chithambaram. superb",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Adichu underwear oda voda vitturuven",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Pakathana pora pongalugu inntha kalliyoda attatha",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Indha Diwali kaidhi Ku bigil (visil)  podu..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " adutha vaaram thaan indha maanam ketta padathuku 10m views varumnu nenaikiravanga like podunga.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16146,27 +16146,27 @@
     },
     {
         "text": " Koja different aana movie  interesting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Oruthar meala viswasam katura naala inu oruthara yen asinga paduthuringa thala vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kola Verithanam Trailer   Award Kandipa Kedaikkun",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Rajini + sankar + ar rahman = vera level.. intha combo kkaaga tharalaama paakalam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kola gaandula iruken, Mavane kollama vidamaten antha 39K dislike panninavangala.",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -16176,7 +16176,7 @@
     },
     {
         "text": " Kaasu Kodhuthu Vikku Mudiya Vangalam . Ana Kaasu Kodhuthu Tholapathy enra Title Vangalaama ?????!!!!!!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16201,32 +16201,32 @@
     },
     {
         "text": " Thalaivaaaa ur one and only super star pettaaaaa marana maaaaasss I will be in FDFS at trichy",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vikram look Vera level. Making la pakumbotheya veriya irruku. Kasa thaniya vari erachi irrukanga pola.trailer semma mass dha.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Therikka Vda Vantaanga.. Thalaivar and Team!!!!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala ajith kumar Yuvan shankar raja H. Vinond Uff",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Chiyan விக்ரமோட   fans lam like button ah adichi thookunga paaklaamm........",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Bgm nice but onum solra maari Illa.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16236,47 +16236,47 @@
     },
     {
         "text": " KGF chapter 1 - like  Kaithi - like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 16 ON TRENDING! OMG WOWW  love rajinikanth",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " nangalum kola kanda la than irukom oda vidroma illayanu parru",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " G v p Kumar music Vera leval bgm",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " chiyan ninga fast& furiors laye nadikalam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 16 million innum 3 days kulla varanum friends keep watching",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Mirattal ah irukku boss... Siva anne sema..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dai 600 kodi thevaiya Intha movieku varumaiyil vazum eazakku seru potta.....la. natu munnerum....",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " dai pandey thala ya vey yethirthu pesuriya goyala theater pakkam varuvala va............",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16286,17 +16286,17 @@
     },
     {
         "text": " Ethana padam vanthanu SALT AND PEPPER Mattum than..THÃLÃ🤩🤩",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Namakku thevayandhu namaa DHA adichu vanganum.. Semma punch ..D.. killing trailor dudes",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " diehard fan of chiyaan vikram",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16306,47 +16306,47 @@
     },
     {
         "text": " Nerkonda Parvai Blue Sattai Maran Review",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Next bigil movie  Ku waiting pantravanga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Trailer Bangam Talented film maker lokesh ganagaraj",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Theatre padam pakkanum solli veriyilla erikken....evanavadu piracy solli net la padaththa vitta.......thalavaroda kolaveriyan mavane koluththama vidamatten.....",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Malayalam movie chindhamani kolakes copy ajit vest",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " THALA padama ITHU koothi maari iruku trailer....... Padam punda mathiri irukum pola",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Back to youth Rajini... Thalaiva marana mass .....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " i cant believe he is 69.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Appu, ithu enna telegu padam matri iruku. !  Tamil padam yedugeda!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -16361,7 +16361,7 @@
     },
     {
         "text": " blockbuster but not as like bahubali 2",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16371,7 +16371,7 @@
     },
     {
         "text": " Thalaivar masss ah irukarupa nu sonnavangala hit likes",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -16381,22 +16381,22 @@
     },
     {
         "text": " Thala tharisanam marana waiting in big screen",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pakarathuku Chinna paiyan maathiriya ???? poi sonnalum oru nayam venamada !!!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " #Die hard fans of #Ajithkumar hit like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Sethupathi anna va innum konjam mass ah kaatirukalam.  Padathoda edhiriparpu Innum adhigama irundhirukum.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16406,37 +16406,37 @@
     },
     {
         "text": " Siva mela viswasam kaaati yen yengala asinga paduthureenge. Thala climax vera level .",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dei, ennada,.. 'CONAIR' padatha kavuthi pota madiri iruku unga 'KAITHI' thiruttu payale Lokesuh????????!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " REMAKE OF PINK, A CLASS MOVIE.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Zero is better hit like if agree",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " samaaaaaa........... damnnnnnnnnn vfx ah kora sonavanuga..parugada ipa indha trailerah ..thalaiver dialog pah..vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera vera vera level thala top takker",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ennada naduvula viswasam bgm pottu vachirukkinga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -16446,7 +16446,7 @@
     },
     {
         "text": " Ithu padama illa(pandaylaanirukaru)news sa🤔🤔🤔Thalaki yaytha look illaya",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16456,42 +16456,42 @@
     },
     {
         "text": " Manju warrier uh adhu , na kuda Anushka nu nenachen",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ek building aur ek field..pe hi puri film dikha diya..lol",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Dhanush's Swag Just Awseome .. Nammaku thevaiyanathu naamatha aaduchu vaanganum ..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Hollywood kaaranalatha mudiyumnu illa tamilanaalayum mudiyum da example shankar sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalapathy fans here for lokesh kanakaraj #THALAPATHY64",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Appudila nadakathu.... Nadaka kudathu....             Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am jayam ravi anna fan.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala look ....Vera level...Nice Bgm.....u1 supar......Movie supar......",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16501,37 +16501,37 @@
     },
     {
         "text": " Superstar yaarunu Karthik subburaj ta kaetu therinjukonga ba.unga jaathi veriku en thalaivara Bali aakathinga.",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thalaivaaaaa ur great.. By Vijay fan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Padam  kandipa thokuradhukana 10 thagudhiyum pakkava iruku",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Ultimate acting thala ennna dialogue delivery chance eh ilaaa luv u thalaaaaaaaverrraaaa level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1st trailer looked stupid this looks dumb",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Ennda ithu appdiyea vada chennai mathiri trailer iruku",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Pandey va cinema kulla kondu vandhuteengala! Mass dha",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16541,37 +16541,37 @@
     },
     {
         "text": " Massssssssssss looooookkkk thalaaaaaa vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala vera level  Kerala Vijay Fan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " After see movie and see trailer ...hit like...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " First view and first like by selvam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kala pathamadhiri irukku solra alavukku illa",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " I sense amy jackson as a villain",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Hats off to dhanush sir...sirantha nadipu...padipu mattumae oru nabarai uyaruthum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16581,57 +16581,57 @@
     },
     {
         "text": " Petta la thalaivar totally different ta irukukaaru acting um thaaan .....sirapu sambhavaM thirkaaka waiting !",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Hit likes nu picha edukathavanga like pannunga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " maaasss thalaiva unna vitta vera yaaralum intha acting varathu unga style paakave 10 time movie paaka varlam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vada chennai 2mari irukkum  jolly",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ippadi neraya neraya neraya.......manda fulla narachu pochu...idula punchu...vera lvl trailer",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Asuran climax la dhanush soldra dialogue ah ,Arjun modify panni sonna maadri yennaku mattum dha thonnuda",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Vera level Vfx just killing it",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thalavia neenga veera level boss and neega thaan marana mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Cool  old rajni return s",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super star fan from Kerala like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " neraya neraya neraya ...vaaila tha kudukanum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16641,12 +16641,12 @@
     },
     {
         "text": " Lots of love from Karnataka   Hit like karthi fans",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 1m likes varuma  hit here..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16656,32 +16656,32 @@
     },
     {
         "text": " Mokka mokka mokka trailer டா அஜித் fans பாவம் டா",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " dai ajith kelatu naaye intha madri films nee panite vantha ommala kamal Hassan madri neeyum kaanama poiduva da",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Verum Buildup um Bgm um vachi Hitu kodukuravanga mathiyila... indhamaaari oru movie kodutha vetrimaran sir ku..Hattsoff..Dhanush sir..act...worth to watch...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Paakradhuku Chinna paiyan Maari style ah irukeenga....... How true ?",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " ANY YUVAN SHANKAR RAJA FANS HERE ?",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala thalaa masss fan from karnataka",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16691,17 +16691,17 @@
     },
     {
         "text": " Thalaivaaaaaaa yen kadavulaaaeess Proud to be ur fan",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Next time teacer edhir parkura angali pangalinga comment pannunga because nama Trailerke gethu katrom tecera irundha",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nanga oruthan kittah matikittu irukom avan yeanatha pannah porano",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16711,42 +16711,42 @@
     },
     {
         "text": " Petta >>>>>> Viswasam(same old story like veeram)",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Seeing Prakash Raj after long time...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ajitj as a lawyer first time",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " neraya neraya neraya neraya neraya neraya.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera level la erukku trailer  Stunt pathi solla varthaiye ila ba🤩",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaivaaa ...last la andha dance semma",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer la nala iruku.. Ana sivaku match agala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enna Thalaivar trailer ivlo nal kaluchu trending varuthu🤔🤔",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16756,12 +16756,12 @@
     },
     {
         "text": " Yuvan bgm semaya iruku...romba naal kalichu thala kuda join panadhu romba happy iruku...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am Chiyaan Vikram sir fan...  But I love Ajith Kumar sir.....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16771,32 +16771,32 @@
     },
     {
         "text": " I m from telangana, jai rajini, jai thalaiva 🤘 🤘 🤘 🤘 🤘",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Apdiye Aaluma doluma song paathutu adhuku oru like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dhanush-Vetrimaaran innum ethana padam sernthu pannaalum elaamae sorgam thaan cinema lovers ku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ajith last aha sonna varthai mattum supprrr",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dhanush anna fans mattum like panega",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pink movie se jyada maza aayega...reason- THALA...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16806,77 +16806,77 @@
     },
     {
         "text": " Trailer kidu appo padam kandechu varaam   THALA",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " WHO IS BADLY WAITING FOR THIS MOVIE?",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Ajith fans like here  Kaithi",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 1:56 thalaivar Oda dialogue Vera lvl",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Chindamani kolacase movie orma vannavark ivide like adikkam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Atleast indha super hero padamachu makkal support panuvaanganu nenaikuren....sk at his atmost best..alwayss masss",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ciyaan  vikram i love  you",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Apadila nadakathu. . Nadakoodathu. . Lines for woman’s . . Super thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1:06 gibran Vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kola gaandla irukan mavana kollama vida maattan.....",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Just 2k likes away from passing vivegam trailer likes",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala Thala Tamil naatuku ore Thala🤩",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Waiting...... To see vekkai novel real version.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super maass movie.. love you thalaivar",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1million like varala all thala fans like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -16886,97 +16886,97 @@
     },
     {
         "text": " Mokka padama irukalam .. may be ajith kaga hit agalam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Allam ok super than but.. Trailer mokkaye.....",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 1.37 you kena tunggu lebih lama lagi untuk tahu saya.. meaning you need to wait more to understand me!!..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Singa thoda mudi narajita ade singa illane aidada",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Vera level anna i am marana waiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Idhu dhan ya unmaiya na verithanam....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Superstar and sankar combination always pakka.......",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 43 varudam ivar naarkalii ku aaasaipaadatha aatkal ilaai indru varikum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Come on dude come in dude",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pink remake, Tamil la nalla illa Thala thairiyama diwalikku vaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " enga thala thaanda eppavume gethu meethi ellaarum vethu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " never put ur phone in airplane mode",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Mass.. Thalaivar ah nijama chinna paiyana pakra maari eruku. Athe style athe RAJINI",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " thatta da. aamai porumaiya poittu irukku.  innum oru 10 naal aagum 10m views ku.",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Last la vara Black Dress.. pa chancey illa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Did you get it? It's Pink movie.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Apdiye poiru kola kandula irukan mass thalaivasweet sapda poro",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Ithu rajini padam... ithu thaan rajini padam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Neraya neraya neraya... Veri yethuraruba namba thala... Phaa suma odambu pullarichiruchi..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17001,67 +17001,67 @@
     },
     {
         "text": " Sweet sapda poromnu unga kelavan sonnan paarthu sugar vanthu sethuraama",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Yarellam teejay ah vaa pathu excite aanginga?",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Apdilam nadakkathuthu..,, nadakka koodathu...  ,,,",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " oruthar mela viswasam katta mass thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yanda pasangala chi pongada nengalum cinemavum unga ennam ci",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Yo ghibran ennaya epdi bgm podura",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Marana waiting for you Thalaivaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Simran enabha trishava katlum younga iruku. Wow",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thalapathy Rasigana .. Dhanush Ku oru #Like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enna da inum 1m kuda varla 🤣",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thalaiva ..... Idhe podhu Thalaiva  Pongal varaikum thaangum...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Make it 8 Milion views",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dei, ennada,.. 'CONAIR' padatha kavuthi pota madiri iruku unga 'KAITHI'\\r thiruttu payale Lokesuh????????!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -17071,12 +17071,12 @@
     },
     {
         "text": " Ajith sir carrierlaye idhu vidhyasamaana padamnu solravanga cmt pannunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vara level Thala luv u so much Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17086,12 +17086,12 @@
     },
     {
         "text": " 90% Cmnts are hit like cmnts.... Romba mosam da dei🤦‍",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thangam nee sonna sari solluti sellam.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17101,12 +17101,12 @@
     },
     {
         "text": " vayasuanalum style um alagum maraveillahh thalaivaaa...hats off",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dai ithu velayutham Padam Da Yaara yeamaathringa ??",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17116,22 +17116,22 @@
     },
     {
         "text": " Ealam ok bgm than engayo ketamariye iruku",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Neraya neraya neraya  After hearing tis sapadu nyabagam vandhuruchi",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yaaro oru group ..Padam flop dhan konja naalu ku .Munadi ..koovitu irundhanga ..Avanga laam konjam line la vanga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Over seenu odabuku agathu thambi mukkunalum thalapathy pola varathu",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -17146,27 +17146,27 @@
     },
     {
         "text": " Adichu pudichu,mutti modhi munnukku varathuna Ethuthan.. #Trending #1....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ippo yenna panna porom??? suweet sapida poram",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 90 s kids love  vijaysethupathi",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Gommala flopu daa...poi elarum asooth poola oombunga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Pakka thane pore indha KAALI ude aattatheThalaivar roks",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17176,27 +17176,27 @@
     },
     {
         "text": " I am  vijay anna fan. Its amazing. Semma  thala sir.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Last dialogue ok but naadagamaari irukku trailer",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 380 k view and 200k like awesome",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Wait panathuku sema waita vara poguthu pola trailor ayooo...sema mass creater shankarji..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 340,967 views.....ya allah , ya allah...",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -17206,22 +17206,22 @@
     },
     {
         "text": " Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala masssssss",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Bgm sema .......thala oada expressions",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " That swag @0:30, Rajini is Rajini!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ayyayooo Thala. Goosebumps. Ethir paakave illa.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17236,12 +17236,12 @@
     },
     {
         "text": " No lip sync for Kalyani! AGREE?",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Iyoooooo mudilaya waiting ub............eppo than intha padatha papanoooo.....thalaivar thalaivar than ya......",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17251,37 +17251,37 @@
     },
     {
         "text": " Innum 1 hour la 1m like varanum thala bloods",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dai thevidiya bullaye niranjan soorappan unaku theriuma peasatha da badu yen komavula erukiya da thevidiya baiya",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Vera level  oruthar mela viswasam kata innorutara yen asinga paduthireenga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Shankar sir avenger trailer patha pola irukku Hollywood rangekku irukku superoooo super sir varthaye Illa Vera Level sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaiva super .vazhdukkal sangkar sir .&  2.o team",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Padam release agurakulle 2.5 likes 40m Views 200k comment conduvaranu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nalaiku thala ya pakaporom....marana waiting....for Thalapathy fans",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17291,7 +17291,7 @@
     },
     {
         "text": " Sathiyama soldran ivarku vasayae agala...ena oru energy at this age...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17301,37 +17301,37 @@
     },
     {
         "text": " sirappana tharamaana sambavangala pongal ku dha paaka poringa....varardhu thalaivaru petta paraakk.....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Hotspot on pannunga Da trailer paaka mudila net slow ahh iruku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " jithu kaha wait pandravanga hit like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 8m views varavae innum oru vaaram aagum pola. ha ha. Vandu muruganukku vandha sodhanai.",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " in srilanka trending #1  THALA SUPER",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ennappa ponagakuku release panrentu january 10 release date solreenga.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer na ippadi irukkanum enna mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17346,82 +17346,82 @@
     },
     {
         "text": " Intha Movie SK career la Ramba Important ana Movie ah irukumnu nenaikaravanga Oru Like podunga...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nellai chiyaan Vikram veriyargal Vara level Thalaiva chiyaan Vikram பக்கா மாஸ் கோல மாஸ் I am writing Your movie",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pakka thana pora intha kaali oda aattatha Thalivar Vera level only one super one",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Padam pathavanga like pannunga.. sema movie",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " I like you vikram and i love vikram 🤔   Semma mass thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " i think vaseegaran will die in this movie!!!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Nenga sonna varthaiga wait pandrom thala ungala mari amaidhiyaaaaaaaaaaaaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera Level Trailler     Hit Like For Trailler",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera level trailer marana waiting movie ku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Action king Arjun fans like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Oo Thookudurai ipo lawyer ra seri seri... Director Siva illa apo padam nalla dha irukum.. Trruku thakida trruku thakida...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " That dialogue  oruthar mela irukra viswasthukaga!! Inoruthara yen asinga paduthuringa? THALA special Yuvan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Bangam semmaya irukku hit aaga vaazhthukal",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaiva vaa thalaiva get rajinified semma wow",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Karthi Anna fans like I am fan of karthi anna I like him",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " When 2:30 comes.. I felt like sivakarthikeyan.. (mass ka bap rajani sir)",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17431,12 +17431,12 @@
     },
     {
         "text": " Sahoo pada titile slogan ah suturukange",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Expect pannadhu da.... Kamiya thaan irruku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17446,7 +17446,7 @@
     },
     {
         "text": " ellathukkum padam edukkuringaleh sir kudikkira appakalala avashttha padura pettha ponnunga avashttha paduratha ea oru padama edukka mattakkuringa",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -17456,57 +17456,57 @@
     },
     {
         "text": " GV prakash phhhhh BGM vera level thalaivaaaaaaaaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " En da movie name sangatamilan  titlecardlaya vijaya movies hindila varuthu da what raaaa",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 1:04 I'm chitti! Reloaded... Version 2.0",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Enna da Onnume puriyala enna da nadakkuthu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala and Yuvan => Mega Mass !",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vikram he to best hi hogi..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 10 varusham ula iruntha thana sir theriyum athuku munadi Ena panitu irunthanu theriyathula",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " purinchukkanga bosss oruthar mela visawasam katta inooruvarai asinkapadutateenga..thalaye sollittar",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dhanush + vetrimaran....vera inna venum padam blockbusternu solrathuku.....#Asuran",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Goosebumps at 1:40 awesome மாஸ் look my தல",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ayyyoooooo thalaivaaaa final scene semmmmaaaa  Love u",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17516,47 +17516,47 @@
     },
     {
         "text": " Waiting for big screen thalaivaaaaa 🥰🥰🥰🥰",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pink movie remake... Amitabh, tapsee pannu remake",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Somehow it look like Telugu sri mahalaxmi movie",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 1:30 PUBG la loot adikravana sudra mathri irukuj",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Verithanathuku maru peyar thalaivar Hit Like Thalaivar Verians",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaivaaa, thank you karthik sir to gv us old rajinikanth",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am big thala fan!! Thala kita irrukura hardwork dedication ella chiyan vikram sir kitta so avara romba pidikum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " U1 BGM Vera Leval Thala Masss",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ennpa G.V Nkp Bgm Manasula Vanthutu pokuthu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17566,87 +17566,87 @@
     },
     {
         "text": " Superb Shankar and super star rocks",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Pink.... Tapsee panu and Big B",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kamal'kaga ellam illa.. only chiyan.. chiyan Vikram",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ada kilada 35 vayasuku kondu vanthutaanga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Vere Level { Ultimate Star  }",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dislike panavangaluku last la varum dialogue Dan correct",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Congrats Vikram sir... From SURIYA fans",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enaku enamoo doubt ah dhan eruku 🤔",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala thala dhan Paa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " BIGIL BIGIL BIGIL BIGIL BIGIL",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super movie and kamala kalasa samma",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala fans enti active ga leru....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Antha paiyanugu payam illa pollathavan aruran",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Avara control pannunga pls( evan vanthalum mudiyathu)",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Idhu madhiri innu neraya neraya neraya maass kaatuvaru enga thala!!!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Awesome trailer ...bro   Final dialogue is    Saaguradhaa irundhaalum sandai pottu saganum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Aug 10 varaikum wait panna mudiyathunu ninaikiravanga.. oru like podunga..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17656,17 +17656,17 @@
     },
     {
         "text": " Kk for kadaaram kondan. Chiyan mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ...... Vera... Leval Any Sk fans here....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Semma chiyaana kannukku kulurchchiya paaththen ,chiyaanism",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17676,22 +17676,22 @@
     },
     {
         "text": " Kettukanga Thala fans... oruthar mela katra visuvasathula matha vangala kevala paduthathinga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Tribute to 2.0 Support us #2.0 #shankar sir #Rajani sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yen Manathuku ethamaga erukum song vaanil irul soolum pothu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ayyo Thalaiva kolriye...., Ummmmmmma love you Thalaiva",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17701,57 +17701,57 @@
     },
     {
         "text": " Antha aalu ethai thottaalum vetry'than super star",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thanks to karthick subbaraj. Kalakitinga...thalapathy movie la thalaivar patha mathri iruku.🤩",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ennada ithu Marana masssss ah iruku........",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Waiting for petta and peranbu.  Mammookka rajini.. THALAPATHY..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " BGM marana mass.    Dhanush fans like panunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Inniki trailer pakravanga like pottu ponga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera level teaser u1 bgm semma",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Awesome.  Looks like Hollywood trailer.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Podra vediya  deepavali ku oru karumathi irukku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ithaiyum dis like Panna epdi da manasu varathu...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " my kadavul tharisanamlove u thala ....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17761,47 +17761,47 @@
     },
     {
         "text": " Oruthar mela irukkura viswasathila aduthavara ean asinga paduthireenga..... Sema sema thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala & U1 combo mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thaa eduthu vainga da adutha national award ah",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalapathy fan ah soldrean kandippah  NATIONAL AWARD win pannum...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera leval    waiting thalaivaaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thank you Karthick subhuraj sir, because thalaivar...vichi kallakitinga.mass marana mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 2:01 did rajini turn into akshay",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Wowwwwwwwwwwwww........ danush annaaaaaaa love u so much...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Intha padam aachum Vjs ku hit agatum...valthukal bro",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17811,17 +17811,17 @@
     },
     {
         "text": " Any kusuvasam fans here...hit like button...",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thalaivaaaaaaaaaaaa ........Namaku thevayaadha nama dhan adichi pudunganum thalaivaaaaaaaa verithanammmmm🤩🤩🥰",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Bahubali records out of signal  shankar daww rajini daww arr dawww vfx daww old is always gold.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17831,12 +17831,12 @@
     },
     {
         "text": " Thalai kaaga wait pannavanga like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " தல அஜித் 60 movieku   Evlo per wait panrega.??",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17846,7 +17846,7 @@
     },
     {
         "text": " Wow wow wow  is awesome",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17856,7 +17856,7 @@
     },
     {
         "text": " Santhosh Narayan music pottu iruntha innum nalla irunthu irukum .",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17866,12 +17866,12 @@
     },
     {
         "text": " asuran padam pathavanga like podunga  next big screen bigil",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Shankar sir ungaloda imagination Vera level.. but  CG Ok than",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -17881,127 +17881,127 @@
     },
     {
         "text": " Inum neraya neraya neraya neraya neraya Likes and views varanum.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Bigiil mokka padam .. kaithii awesome",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Sirapana tharamana sambavam la intha padathula dha iruku each and every scene goosebumps",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Lena n Vikram Kidu combination  I'm waiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Evanda dislike pottan paithiya karan ,stupid",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ithu vera mathri padam masala padam illa thala luv thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " more like a games trailer :p",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kajal  Fans Subscribe",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " THALA block buster movie in 2019  viswasam , NKP",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vetri maran thalaiva neenga eduthale vetri thannnnnnnn",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Idhu Hollywood madhiri irukunu solravangalan indha cmnt ta like pannunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer na athu ethu than",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " So many many many many many",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Indha movie la edho oru periya message irukku.super",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ending la teaser bgm la vara ending vacha inum mass irkum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Wowww Thalaivaa Kalakitega Sure Pongal Winner dhan neenga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yarellam padam paarthaachu??? Arputhamaana padam...don't miss it...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Innum naraya naraya naraya naraya thadava pakkanum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaiva aaaaaaa final seen mine god",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super style thalaivaa neenga Vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Rajni turn into akki in last",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Neenga vilayaadunathu engita illa Eman kitta chiyaan rocks",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thalaiva.. looking good even at 70..semme",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Unofficial sequel of vada chennai  (note : it's not vada chennai)  Vetrimaaran DAWWW",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 0.52 & 0.55 semmma super chance a ila.....",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -18011,12 +18011,12 @@
     },
     {
         "text": " Engineering aaganum miss.... Athalaaaam oru kaalam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Next Aadukalam Is Loading. Ha..?? 🤩",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18026,32 +18026,32 @@
     },
     {
         "text": " Eppa kutti moonji... ALL THE BEST. Unakenna pa big screen le la varuva, naanga apdiya...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enna ba Netflix web series maari feel aaguthu ...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ipdi neraya neraya neraya padam nadikanum thala nee",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super star   Super film",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " savaratha iruntha kuda sanda pottu savanu sir payanthu Kalla vilunthira kudathu Karthi is back in action",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " cmt 71111 enna fans da samy thala vera tha",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18066,42 +18066,42 @@
     },
     {
         "text": " All the best to Thalaivar Rajinikanth Sir, from Malayalam superstar Prithviraj Sukumaran fans",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Telugu fans need thalaivas PETA Telugu trailer",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kaasa micham panna paatha  Sathiyama music nalla irukkadhu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " мaѕѕ  waιтιng ғor  ԹҽԵԵɑ",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Feeling the vintage thalaivar...annamalai arunachal basha padaiyapa elathiyum sethu vechu paakura matiri iruku...sema. anyone feels the same???🤗",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pakkaa Mass.. Rajni and Akshay sema mirattal..",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Neraya neraya nerayaaaaaaa peru waiting thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer lam Nalla Than pa iruku..... Unkita Finishing Sari illaye pa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18111,12 +18111,12 @@
     },
     {
         "text": " Kolakandla irruka pudichavanga like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Last few seconds music & video vera levelllll GV da",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18126,22 +18126,22 @@
     },
     {
         "text": " Sama dailogue.... Namaloda padipa mattum yevanalayum yeduka mudiyathu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Gate opening sceen like Rajinis first movie... Yarulam Gavanichinga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Va thala vaaa orthar Mela visuvasam katturathukaga innoruthara Yan acigam paduthuriga ogga nikiraru yanga thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1:41 mmmm... Ok          SUPER",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18151,42 +18151,42 @@
     },
     {
         "text": " Chinna payyan mathiri stylaa irukke With love from Kerala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Adei.. Ivar pesaura ella dailogue um Kusuvasam ku daan dedicate pola",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 1:19 tee jay va paathingala  Va ji va ji unakkudha waiting ji dhanush ku da movie ya",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Last dialogue Thala & thalapathy Rendu perukkum Tha thala pesirukkaru",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Want to see Ajak mama in underwear",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " thala na mass . mathavanga ellam thala munnadi duss",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " thala always  thala dha da",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Oruthar mela irruka viswasathukka mathavangala en asinga paduthiringa.  Thala Thala Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18196,27 +18196,27 @@
     },
     {
         "text": " Thala and Thalabathi avanga fans ku solla asapadradhu ithu thaan.. Piurinjukonga da deiii.  1:55",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaivaaaaa 68+ vayasilayum Padam nadikkuradhu satharanamana vishayam illa SUPER STAR RAJINI THE LEGEND India Cinemavin Pokkisham",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kolai gandula iruken kollama vida maten......wat a mass n stylish man yar....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Part 2 venum ngravanga like pannunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Mass of massa Tamil cinima to Hollywood level Vara level Shankar rajinikhanth tamilandaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18226,32 +18226,32 @@
     },
     {
         "text": " Appa Oru vazhiya Thrisa n Simran kooda jodi pottaachi",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ama vadivela en da asingam paduthuringa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super super super super super super",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Maranam maranam maranam maranam maranam maranam maranam maranam maranam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Range rajan sir mmm super. Enga thalakuda wow",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaiva coollip ah thuppitu pesu thalaiva vasanamae puriyala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18261,12 +18261,12 @@
     },
     {
         "text": " Na vijay fan thAn irunthalum ajithuku likoooooooooooooooooo like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala look yeh Vera maaari irukku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18281,17 +18281,17 @@
     },
     {
         "text": " Hollywood movie eh tuff kudikum poliea indha movie",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Waiting  king of BGM  U1 Yuvan Shankar Raja",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala mass - yuvan BGM mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18301,7 +18301,7 @@
     },
     {
         "text": " Chitti vs chittu kuruvi story 🤣",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18311,7 +18311,7 @@
     },
     {
         "text": " Pink movie remake .....but nice one",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18326,7 +18326,7 @@
     },
     {
         "text": " Paravala etho teaser oda trailer pakkala 1time",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18336,32 +18336,32 @@
     },
     {
         "text": " Nerkonda paarvai trailer as 8d version:",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1millon  like kaga wait pandra",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ena pa ipdi iruku Vera level..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala தமிழ் pesina samaya iruku   Thala thala thaan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vayasaanaalum style apdiye iruku ya ....wow sema",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala semma semma , congratulations from #kanyakumari #Simbu #fans",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18371,52 +18371,52 @@
     },
     {
         "text": " Maranam...massu maranam.toughu tharanaum...adhuku avan dhaan porandhu varum....semma thalaivaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Headphone la yuvan bgm summa therikkuthu Yuvan bgm vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala mass bgm mass maran mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " my favorite hero THALA biggest movie God bless",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala Ajith Kumar  Tamil Cinema Mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 100 ajithu, 100 Vijay vanthalum, rajini ya onum panamutiyathula,  only one supar one rajini",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " ivuru ippathaan oru nalla padathula nadikararrunnu nenaikareen...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Tamil cinema va vittu velila vanthu edungada",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thalana summa va. Vera evanukum setagaathu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Moka to Ivana yevan padam nadaika sonnan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18426,22 +18426,22 @@
     },
     {
         "text": " We're. Gonna see vera level. Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " kaali coming .. Hit Like if u are a kaali veriaan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " vera maathiriyaana thala....padathuku marana waiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dae ennangada nanae 15 times mela paathutae view's koodavae maatudhu zee music south correcta views & likes podungada",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18451,27 +18451,27 @@
     },
     {
         "text": " Unakkennappa kutti moonji @ 0:45  seconds",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am VIJAY fan.. but i like THALA so much.. sama masa irukku..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " PINK Hindi Movie Remake Da , Yea thala eppidi pannitinga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Dai yeppa samii...vivegam la vachaaa madri twist vachiradingaa da......thalaaa ooir rasigan da ...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1:03....rajini appa unga stylukku innnnnnnaaaa kuratchaal...ever stylish ...no one can beat you style.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18481,27 +18481,27 @@
     },
     {
         "text": " I am from karnataka ajith boss fan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " THIS  IS  SUPER  STAR.....  MAAAS",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super Hit Trailer Small Fan LovE From Pakistan ((( Vikram Sir ))) Fans Hit LikE Here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ajith in veeram padam madhiri irukku🤔🤔🤔",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Verithanam BGM   G.V ...  ......",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18516,22 +18516,22 @@
     },
     {
         "text": " Thalaya control panna yaralom modiyathu thala massss",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " It looks like telugu movie rangasthalam",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 1M Likes Ku Wait Pandravanga Oru Like eh podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Reviews pathutu vanthavanga yarrellam  August 8 ku waiting  Bharath Subramanian entry (Thala name in NKP)",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18541,7 +18541,7 @@
     },
     {
         "text": " pangaaligala intha vegam patthathu innum vegama views ah therika vidunka",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18551,17 +18551,17 @@
     },
     {
         "text": " Oruthar mela Viswasam kaatrathukkaga..innoruthara yen Asinga Paduthuringa?? #Thala #Thalabathy #Fans #Fight",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dei ennada sukran padam mari eduthu vechutukenga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pink ka remake lg rha h...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18571,12 +18571,12 @@
     },
     {
         "text": " Bgm Vera leavel  தலா marana wetting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " sard dard ho gya h ... need to watch badhai ho again !!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -18586,42 +18586,42 @@
     },
     {
         "text": " Kartik film very super.. From telangana",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Verithanam ah irukku waiting fdfs thatra like ah",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " namba kita irunthu padhipa mathum edhuka mudhiyathu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pink la fight lam varaliyae.. aana idhala fight at 1:35",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " niz vera leval trailer supper edit supper",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " naan video paakamaye like potutenlike pota 1 hr kalichu ipo dhan trailer full ah paakurenThala masss",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalivaaa nee vera level  padam parakum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ayoo Thalaiva un Nadippukku Thala Vananguren",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18636,32 +18636,32 @@
     },
     {
         "text": " Vada channei oda super ra erukum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1:53  Rajini sir Happy Diwali folks nu solittu shoot panna vera levelah irukkum  Enthiranla sonna mathiri",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Mass trailer makkal selvan VJS Rocking",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1.08 chiyaan ppha pichuteenga pakkamass goosebumps...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Love you rajinikanth sir super star",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Anga padraa anga padraa Thala enna ma argument panraruuu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18671,22 +18671,22 @@
     },
     {
         "text": " Thalaiva nee vaa Thalaiva pongal unaguthaa pakka celebration Thalaivar parakh",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yaaru rajinikanth fan o oru like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nan yen murugan god a va da nu than solluvan Ana unkala sollamudila thala Anna...yen nenga yaru yengaluku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thooku oru bhooku...nii va thalaivaa,pongal nambalathu thaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18696,12 +18696,12 @@
     },
     {
         "text": " 2M likes varumnu solravanga Like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Petta vs viswasam (who will win)  Petta na  like pannunga  viswasam na comment pannunga...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18711,32 +18711,32 @@
     },
     {
         "text": " Yethuku Gv Nerkonda parvai Theme potu irukuraru🤔🤔??",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Gentleman 1993 Hero           2019",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Starting to end vara pramandam than... Paaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Don't bother about 43k dislike Always terror in 523k+ rocking THALA Likes....! Oruthar mela neenga vishvasam katruthukaga innoruthra yen ashinga paduthiringa....?",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera level thala marana mass thala I am waiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 11 naal aana pirakum 'semma mass'a pokuthu nkp trailer bigil ootharathu romba difficult",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18746,17 +18746,17 @@
     },
     {
         "text": " Its again Vetrimaaran, dhanush& gv",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vikram fanzz kamal sir fanzz vanthu ennoda channelila red button click pannke",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Marana masssssssssssssss eanga thalaivar yaru vayasu ayeduchu mavena parunga enga marana masssssssssssssss eanga thalaivar",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18766,22 +18766,22 @@
     },
     {
         "text": " #Enaya pandrika thala trailer views ha low VA iruku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thevadiya luku porantha Pundachi magan tha dislike kudikuran.... Dislike ku  porantha paiyagula...",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Hit like for Rajni sir and akki sir",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Trailer Vera level, especially BGM , ipovachum othukonga Veeram, vivegam ellam kuppa padam nu",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -18791,32 +18791,32 @@
     },
     {
         "text": " Adai last shot Ena da ipdi iruku  Ulti",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 200k like ah podunga thala blood's 1m varaum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Rajni style engeyum pokamatte makayali thalaivar fan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Tapsee pannu yave vechu eduthu irundha nalla irundukko.. #pink movie in Hindi",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Comments laan padika rmba happy ah irukuuu thalaivaaaaaaaaa marana waiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaivaaa vera level pannitinga ponga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18826,12 +18826,12 @@
     },
     {
         "text": " Entha padathuku wait panuratha vida blue satai maran reviewku than wait panuran",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Daily vanthu views likes check panravan oru like a pottu po  #thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18841,27 +18841,27 @@
     },
     {
         "text": " Kerala trending #3 make it  first #1",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Seems it will be Mokka moive",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Kaithi ivla spr airukk thalapathy64 yevla mass airukku nenatchu parnge",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Suyama sintikka therinjavan than super Hero",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pongal ku sirappaana tharamaana sweet saapada porom pola",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18876,22 +18876,22 @@
     },
     {
         "text": " INDIA'S BIGGEST MOVIE! INDIA'S BIGGEST STARS! SUPER STAR RAJINI KANTH SUPER STAR AKSHAY KUMAR",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Die hard thala fans hit like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 25k dislikes?? Thaa ungalukku ellam puli maari padam daan da pudikkum..",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Rightuuu  Yuvan oda aaga sirandha sambavam kaathirukku!!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18901,32 +18901,32 @@
     },
     {
         "text": " 10 times mela paathavaka like pannuka",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Podu thakida thakida trending no 1",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " We want more vjs scene in petta",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " That Connection between maari 2 and petta , in maari 2 dhanush son named kali !!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Mass mass mass mass mass mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yaarellam padam paatha aprom trailer paakura",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18936,32 +18936,32 @@
     },
     {
         "text": " Evlo periya padam ah irundhalum tr ku 600mb dhan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Jai Thalaiva I love Rajini sir fan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " படம்தான் vegama ponum na பாத்தா tailor ivlo vegama poguthu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " All Thala die hard fans hit like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ipdi oru Rajini film tha expect panninom ellarum..  naanga expect pannina pazhaya Rajini",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Periyar selai, Thiruvalluvar selai Ellam udainga da , Anna sithanthatha ...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -18971,52 +18971,52 @@
     },
     {
         "text": " Petta and viswasam rendu movieum success aaga vaalthukal",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Action Movie chiyaan sir .......... super.......",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Peru onne pothu ..... Mgr sivaji rajini Kamal Vikram Surya vjs nu emblem irukkum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enada Trailer Vidra tha pathi oru pechum illa  திகிர் திகிர் விடுறாங்க!!  #NKP Mass!!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I'm Thalapathy Veriyan  Asuran trailer kola mass  Vertimaran Marana Mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enna manusanya,acting parthalle pullarikkuthu.. Danish  fan from srilanka",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Shankar kalakittaru ila ila merattitaru !!!! Diwali Ku release panni irukkala.. this diwali no good  movie released",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Omg Thalaaaaaaaaaaaaaaaaaaaa love you so much..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Andhar panita thala Un uyir naadi naan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " SUPER STAR RAJINI MASS ...SHANKAR & TEAM , GOOD WORK..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19026,57 +19026,57 @@
     },
     {
         "text": " Yuvan Arjun sir trademark dialogue : dai thearikke",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Rajani fan da.......sethu pathi hart da",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Love you thala you are verra level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dislike podura alavaku intha trailer yathum illa so 🤩",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaiva I love you so much semmaaaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Hit like if you like to hit",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Marana waiting in malasiya. Thala fans",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ASURAN MEGA BLOCKBUSTER ILAYA SUPERSTAR DHANUSH",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Marana mass i love u thalaivaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Frndzzz video share panna venam link Matty share pannunga bro",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " pandey nee enaa da indha pakkam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19086,7 +19086,7 @@
     },
     {
         "text": " Bgm super vetrimaran movie na vera levela padam irukum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19096,17 +19096,17 @@
     },
     {
         "text": " Trailer ah nerya nerya nerya nerya nerya thadava paathavanga like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dei...yaarra andha 3.4k haters.... ungala paatha sirippu dhan varudhu...thalaivar... promoted to GOD LEVEL...PETTA PARRRRAAAAAK!!!!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Starting eh vetri maran flavor teridhu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19116,17 +19116,17 @@
     },
     {
         "text": " Commercial padam so kandippa blockbuster thaan ......",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Gv.prakash nee vaaya music director ah ungala romba miss pandren",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " saaho 9m views. 8m le aamai odittu irukku innum.",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -19136,27 +19136,27 @@
     },
     {
         "text": " Bgm vera level Sam cs nee vera level vara pora",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ennaa style ennna mass thalaiver vera level... Petta pongal parak",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Bhigil pans.....Kaithi sunniya pudichi umbunge da",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Twitter la trending la therikaa vidrom",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dei dummy Sk pans trailer na ippadi irukanum da..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19166,37 +19166,37 @@
     },
     {
         "text": " director thalapathy 64 gangster padamaa podunga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Innum ippadiye padatha patthe katthitorngada paithiyakarangala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am Vijay fan.but super THALA",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Is peta realising in Kannada language",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Viswasam, ner konda parvai, family  audions pidichidaru Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " God I want pongal ASAP!!... Rajini sir !!! ... 🤤🤤🤤🤤🤩🤩🤩🤩🤩🤗🤩🤩",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " U1 BGM pudichavanga like pannunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19216,12 +19216,12 @@
     },
     {
         "text": " Palaya thalaivara pakra maari irukunu solravanga mattum like pannunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enapa gangster padam nu nenacha clg, students, protest, old age love scene la katrenga, kabali madere la irukadea...",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -19236,42 +19236,42 @@
     },
     {
         "text": " Rajni pakka maaaassssssss vera level maaaasssooo maaassssssssssssss",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I love u my god rajni sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Villainkuuu  mass dialogue irrundha  Padam hit uu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala and vinoth combo sema mass nu soldravanga oru like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Like paaka apopo varravanga like ah podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Haters tommorow evening Sambavam irukku Kaathirunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " super boss karathik subaraja film super hit",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " REMAKE OF HINDI MOVIE PINK . AJITH IS DOING AMITABH'S ROLE.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19286,7 +19286,7 @@
     },
     {
         "text": " B G M  Mega hit",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19296,57 +19296,57 @@
     },
     {
         "text": " Awesome Shankar sir...its standard like  Hollywood movie...superb.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Were is Hindi Trailer ??",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Marana Mass Petta Trailer. Pongal Petta Paraak.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kalla + Kabali = Kalli in petta",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Oruthar mela neenga viswasam kaatradhu kaaga innoruthara yen asinga paduthirunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I’m from kannadigaa u r Big fan sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " movie kandipa kaevalama tha erukuminu trailorlayae theriyuthu...",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Kutti moonji vivek intha movie la irukaaraa illa enakku mattum trailer la irukkura maathiri thonuthaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " PINK  Hindi movie maadri teriyidh",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalai viduthali paaradaw .. like that tone",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -19356,12 +19356,12 @@
     },
     {
         "text": " Ye kya raita bana diya bhai..  isse achha animation movie bana dete",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Perfect dialogue oruthar mela neenga kaatra visvathukkaaga inoruthara yen asinga paduthringa........ Thalaaa va thala vaaa thala vaa thalaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19371,27 +19371,27 @@
     },
     {
         "text": " Remake movie to hit 17 Milion views with 850k likes",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala Kola mass  Yuvan BGM therikka vittinga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Padam pathutu trailer paaka vanthavanga irukeengala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Different ah super ah iruku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaiva...arasiyal venam thalaiva...una ipdiye kadaisi varaikum gedh ah pakkanum...varatha thalaiva arasiyal ku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19401,12 +19401,12 @@
     },
     {
         "text": " Next year  varikum  wait panamudiyathu for 90s kids",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Edai ennum koncha naalil bigil beat pannirum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19416,12 +19416,12 @@
     },
     {
         "text": " THALA PERFORMANCE PINITAARU!!!! MAVANE NAMMA NAATUKU INTHA PADAM THEVA!!!! AUGUST 10TH THERRIKKA PODHU!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Movie  National Award   vanga   THALA RASIGARGAZHIN     manamarndha  vazhthukkal",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19431,12 +19431,12 @@
     },
     {
         "text": " Bayama irukku vishvaasam enna aaga pogutho??",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Nee nadiganda nadiganda,, national award unaku thaanda...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19451,7 +19451,7 @@
     },
     {
         "text": " 0:45 Vivek unaku ennapa sivakarthikeyan padathula yellam nadikura",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19461,12 +19461,12 @@
     },
     {
         "text": " Therikkuthu trailor sema mass karthi anna Bgm  vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Indian super star RAJANI fans like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19476,7 +19476,7 @@
     },
     {
         "text": " I'm waiting Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19491,17 +19491,17 @@
     },
     {
         "text": " trailer nallave illa English film 2000 la varamari irukku graphics",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Trailer Nalla erukku But padam oduma",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Surya Anna Fans Hit Like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19516,17 +19516,17 @@
     },
     {
         "text": " thala en singama vera level  h.vinoth yuvanshankarraja boney kapoor  ajith kumar pandey on level. let's see nerkonda paarvai",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 10.5 m 3 clock kulla varuma",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Wow wow wow wow wow wow wow wow wow wah!! No words",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19536,12 +19536,12 @@
     },
     {
         "text": " Super star amazing i m waiting",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Love u viji anna Blockbuster trailor",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19556,7 +19556,7 @@
     },
     {
         "text": " Anils ku vairu eriuthu pola",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19566,17 +19566,17 @@
     },
     {
         "text": " Ghibra's mind blowing bgm...since papanasam thoongavanam saaho and now kadaram kondan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am from telugu. But i like his attitude...🤘",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Oru class + mass feel undu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19586,32 +19586,32 @@
     },
     {
         "text": " Thala looks vera level like a lion🦁",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 780k likes Waiting for 1 Million like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " No 1 trending innum Konjam nerathu la vanthurum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yepppaaaaaaaaaaaa yepppaaaaaaaaaaaa a aaa Enna massuuu enaaa maaassssu thala eppavume masss da block buster film conform",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 2k likes for 700k  Share max",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nalla iruku super but strong ah illa geatha...!!!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19621,22 +19621,22 @@
     },
     {
         "text": " Thalapathy 63 trailer ku yarula waiting pannure ga. ....like poringa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kaali attam arambam... allu silra ela odidu...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Neraya neraya neraya likes vara thalapathy fans sarbaga valthukkal..........",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " vera leval thalaivaaa`````````````` sirappana tharamana sambavangala................. inimey thaan paakka pora",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19651,7 +19651,7 @@
     },
     {
         "text": " Omg  Sankar ji muv ku marana waiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19661,42 +19661,42 @@
     },
     {
         "text": " Bhavesh Joshi enna Hindi padam mathiri irukke",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Intha trailer kum dislike poduruvan lusu koo,‍‍‍",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Entha mass rajiniyai evlavu nala miss pa.....மகிழ்ச்சி",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Neraya neraya neraya intha padaththula ethirparkuran... Thala...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " intha padam Block buster agumnu solldravanga oru like it",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " yevlo vayasu analum yen thalaivaroda stayl korayathu da athanda super star marana waiting kolagandula iruka da petai ku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " BGM         vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 4.5k unlikers just suck ma middle finger",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -19706,7 +19706,7 @@
     },
     {
         "text": " Block buster  hit pakkaa... vijayasetupati makkal selvan acting &mass king....I am from Andhra Pradesh.........",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19716,7 +19716,7 @@
     },
     {
         "text": " english padathoda tamil trailer maari irukeyy... wowwwwwww",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19726,37 +19726,37 @@
     },
     {
         "text": " Engineering sonnavan nalla varuvan pa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala no1 trading in Sri lanka",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Semaa this pongal is thalaivar pongal",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Makkal selvan fans hit like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " What a man super Thalaiva",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vijay sethupathi fans hit like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " finishing dialogue thala fanshuku shoot agum. yenna avunga avar mela viswasham kata, mathavangala asigna patuthuvanga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19766,12 +19766,12 @@
     },
     {
         "text": " Padam Vara level.. bigil trailer ah paapoom..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " hahaa 500cr vfx ? itz like a cartoon",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19781,17 +19781,17 @@
     },
     {
         "text": " Thala  Vera level  thala variyans  like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yuvan Shankar Raja Musical",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ideas super  Paraglyder ambulance  Drones using for pesticides vera level ideas",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19806,32 +19806,32 @@
     },
     {
         "text": " 90 'S. .. kids .. shakthiman.. in 2k la",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kola verila irukuravanga like pannuga - Rajinjfied",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I lv u thala...  Unna adika evanum ila...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Viswasam enna aaka pokutho...  Pongal avalavum thaanah",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ulla porathukku munnani enna pannittirdhennu therituma ?....   Vere level",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Yow verithanama iruku ma vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19841,32 +19841,32 @@
     },
     {
         "text": " Enimel unga padam la avalotha pola",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Vijaysethupathi anna voice entry maja love u vijaysethupathi anna",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 30 time mela pathuta.. ‍.. Bayamave iruku.. Yenna acting da yeppa...  #Dhanush best movie ha irukum Bgm",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ada karumam puduchavanungala PINK padatha ennada panni vechurukinga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " உன் mass avengers end game laye terinjuduchu கேவலமா இருக்கு🤮🤮🤮🤮🤮🤮",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " ....... Neraya neraya neraya neraya neraya........ Semmmmmmma",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19876,62 +19876,62 @@
     },
     {
         "text": " Thala.......... Thala......    Oruthavanga mela viswasam kaatrakku eadhukku aduthavangala asinga paduthuringa....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " GVP fans iruntha oru like ah pottuti  ponga...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pakka dane pore indha kaali oda attatha ...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ipidi Neraya  Neraya Neraya Neraya Neraya Movie la act pannugga Thala Adhutha Geththu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super movie .   ...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yellam Avan seyal . . .",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Indha padathu moolama nalla Matram varum tamil natla super thala ‍‍‍‍‍‍‍",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yenda atlest Oru laalaikku munnaiyaavadhu announce panradhu illa , trailer relaese panna porom nu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera level trailer December 20 ku waiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Tharumaru.. VFX padathula innum nalla irukkum.. 3D la Romba Nalla Irukkum...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Karthi annan massu. All the best kaithi.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaiva....    I  am waiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19941,7 +19941,7 @@
     },
     {
         "text": " Ennapa GV,  bgm viswasam matri iruku.. athukula copy adicha epudi..",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -19956,7 +19956,7 @@
     },
     {
         "text": " Vera leval thalaivaa ne epavame mass than",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19966,17 +19966,17 @@
     },
     {
         "text": " Serial la nadika vendiyavan innum film la nadichikitu irukan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Hindi padam maathiriye eduthrukkan..tamil padam saayalay illiye. ..but awesome direction",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " RIP Headphone users. Ippadi Kathuvan nu Ethirpakule, Suriya2.0",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -19986,52 +19986,52 @@
     },
     {
         "text": " Thalaiva fan from Singapore like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " GVP Again Proved <3 ! Best Wishes Dhanush Sir And Versatile Dir VetriMaaran Sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " First View & First Like By Me",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Best look chiyaan Vikram love from Bangladesh",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enga thalaivana verukave mudiyathu sema mass veral level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nee VA Thala vasanalum algum styleum ungala vittu pogala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Seems remake of Point Blank if i m not mistaken................. But point blank is awesome movie..............",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Padipehmatu yavanalu yaduka mudiyadhu. Semma dialogue. FDFS waiting.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yebbah Dei ... Nalla Padatha Keduthutingale da ... Go and Watch Pink",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Padippu mattum yaralaiyum eduka mudiyathu semma",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20041,32 +20041,32 @@
     },
     {
         "text": " Mass mass parak Pongal one only super one Rajinikanth",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Namakita kadu iruntha eduthupanga..panam iruntha pudingipanga..padipu matum eduthakve mudiyathu...dialogue sema",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I'm sk fan but vjs rombhaaaaaaaaaaaa ptikum anaaaaaaaaaaaaaaaaa ,acting Vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala Kola maasss..!!!  Ingayum sila Echa naaiga vanthu.. less views.. less likes, nu kadharitu irukanuga.. potta pasanga...",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Pink Trailer kuda appidiye copy pannitenka",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Last theme music looks like Nerkonda parvai vaa mothi paaru",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -20091,17 +20091,17 @@
     },
     {
         "text": " 1:04-1:11 mass dialogue.... Ipo Atha than panitu irrukanga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Padathulaa fight scene iruku enga illama poiyurumonu neenaichee",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ethula I think thala kami sean la tha varuvara ...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20111,107 +20111,107 @@
     },
     {
         "text": " Vera level Thala  ultimate star",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " yen thalaivan ayaz irukkana superu   nallathaan irukkum pola pa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " my hero karthi sir uyir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " We want kannada ಕನ್ನಡ  versions",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 0.51 sec bgm like #viswasam ..",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " IM DISSAPOINTED ONGALUKU EPDINU THERIYALA BUT ENNAKU SATISFY AGALA",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Sasi kumar Mass thalaivaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Only one ask for you all Tala pola varuma Talada",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1:45 Ippo puriyuthu en title Ner Konda Paarvai nu vachanganu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " This movie is telugu movie remake.  movie name sri mahalakshmi",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Trending no:1...Thala daw vera evan daaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Waiting but me Vijay Anna rasigan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " oorula unnakoru meda vaanula la unnakoru mancham  Thala nee parkum paarvai parava paarvayadaa ithu enga thalaiku thaan porunthum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enee Maye da miga sirappana sambavagella kaathirukku, petta parak",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " MERSAL , PETTA , SARKAR , VISWASAM ipadi ellam movie RECORD KANDIPA BREAK PANNUM",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Tnks fr thala mass mov ah sel panam ah ipdi oru nala scriptku act panringa. 🤗",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nethanepa nama valanumna yaravenalum kollalamnu sonna???",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " h vinoth super ji thala masssssssssss",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am waiting DHANUSH thalaivaaaaaaaaaaaa first day first show I am go I LOVE YOU DHANUSH  ANNA",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " vere level Thalaivaa... Karthik Subbaraj Sir vere maari irukk unga characterization",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ena PA padam nalla irukum polaye",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20226,12 +20226,12 @@
     },
     {
         "text": " Arjun sir like? Sk comments? Game start now",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera level yuvan BGM thala mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20241,32 +20241,32 @@
     },
     {
         "text": " Indian biggest budget film   Keep support our super star Rajini sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thoo kelatqpaiya naaye ka pecha para thoo",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Twitter ku vanga thala fans ‍‍‍‍",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Sivakumar'ah villainah potruntha innum mass'ah irunthirukkum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Family sentiment... Pondatti pullainga... Engayo link aavuthe Sun pictures nalla panringa  THALAIVAR DHARISANAM",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Namaku thevaiyanathu  awards🤘 namba tha adichi  vanganum",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -20276,37 +20276,37 @@
     },
     {
         "text": " Ayyyoooo Thalaivaa enna solradhune therla summa therikkudhu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dec 20 than enoda birthday yaru yarula hero irukingalo enaku like panunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer bakwas hae pr movie lajawab hogi. Akki Sir & Rajni Sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super talaivaa. Semma aalu  talaivaa... waiting  talaiva ponggal .. semma trailer....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " very hard work... waiting full movie 2.0",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Epidi daa veakame illama unlike poduringa...  Padam blockbuster daa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Rangaraj panday ku correct aana Role",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20316,87 +20316,87 @@
     },
     {
         "text": " Sirappaana Tharamaana Sambavangala Ineme thaan Pakka poreenga. PETTA PARAAK.......",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Remake padamna music um remake panra vanga madhiyila Thannoda own music pottathu sema ya iruku....Ellam #U1 mayam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enna da yapoda tarilera relase pannunga viwesa kameya iruku anyway semma mass tariler",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " My god....... Super Anna",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ghibran is very unique music composer",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Makkale  enga channel ah Konjam Subscribe Pannunga plzz friends  (Aai Pasanga)",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Marana mass  video song i am weiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Andha 44k dislikes panna potta pasangala yen poola vandhu oombungada",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Ajith idhe mari diff diff ana padam panna nallarkum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ethulaa over yaa 22 age yenakku oru love eilla aana 80 vayasu ullava love pannuraaga mudiyala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Asuran:hit....comment              FLOP......LIKE",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " petta is going to chase visuvasam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " chinna payye maari styla irruka  - biggest joke ever made to a 70 years old man",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ajith surya rasigar pooram oompa vantanuka",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Trisha mam alaga irukaanga..love u trisha mam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Biggest blockbuster nu solravanga like podalam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala naa Mass  Thala naa Class  Thala naa trend settar",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20416,62 +20416,62 @@
     },
     {
         "text": " BIGIL WILL EAT KAITHIMARK MY WORDS",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Padathukku  oru  national  award parcel",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " My aim is lawyer but enala aga mudiyala sila karanagala but En THALAya antha lawyerla pakkurapa romba happyyyaaaa iruku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Gommala Thala da. Verithanam",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Dei, ennada,.. 'CONAIR' padatha kavuthi pota madiri iruku unga 'KAITHI'\\r thiruttu payale Lokesuh????????!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Maranam maasu maranam tuffu tharanum athuku Avan thaan poranthu varanum....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yaralaa verithanama wait panittuerukinge 10m aguruku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pppppaaa apdi iruku semma  ethana time tha pakarathu..eagerly waiting",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Semma masso massu luv u thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Analum Thalai Ku Siva Mela romba viswasam pa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yuvan bgm sema mass vera level Goosebumps overloaded",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Rajini sirDie Hard Fans From Andhra",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20481,12 +20481,12 @@
     },
     {
         "text": " Vfx innum konjam nalla panirkalam shankar sir. 35 cr budget laye tik tik tik world class vfx.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Stylish chiyan vikram sir i love you sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20496,72 +20496,72 @@
     },
     {
         "text": " My age 18 I am rajini fan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pakistani movi na indian movi ka record tor dia salman khan b hairan open link",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Rajini maderi oru potta paiyanukku Tamil cenimavul itam kudukkakutadu",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Superstar. Vs makkal Selvan antha scene epdi irukumo",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " yoov gv enaya ipd bangam ah bgm ah potruka mass uh ya",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kaipulla Vijay Twitter la Trending agudhu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nee mothurathu enkitta illa..eman kitta..mass mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Gv Prakash music Vera level gv fans hit like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " World number one craphics...vasul vettai aarampam worldwide ...ithula Vara panam konjam tamlmakaluku help panunga ...ok",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala nerkonda paarvai look masss enga thala pola varumaaaaaa nerupu da",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala u1 erundha adhu mass dha",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enga Anna varurua Ella uthkittu enga ana Vijay setepathei",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Visvasam trailer trailer sppourt panavange yalaru edhuku pannuge",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vikram sir nadippuku vayasu agave agathu.. Hats off u..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20571,17 +20571,17 @@
     },
     {
         "text": " Thala Rasigayin sarbaga Sangathamizhan vetri adaya vazhuthukal",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ajith kumar fan like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " SAM CS. ENOUGH OF YOUR DARAA DARR DARA MUSIC BGMS. ROMBA PALASU AAGIRICHI",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -20591,7 +20591,7 @@
     },
     {
         "text": " Avengersku Tamilnadula aall selectionah.... irukara Super hero pathalanu ivaru Vera..",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -20601,52 +20601,52 @@
     },
     {
         "text": " BGM Chumma Therikkudhu Vikram Sir masss",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Get ready to rajinifieddddddd talaivan daaaaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Like poddu trailer pathaa vaingaa like",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Any Rangaraj Pandey Fans here ???",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 10 times mela pathavanga mattum like it",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Still messaging ga great yar",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Just 200k like Reach on 1m like..  Vitraathinga Like ah pottu Therika vidunga By Thala Veriyans",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Superb thala frm pavan Kalyan fans",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaivaaaaaa magnum ops Vera level electrifying mass",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Ammadiyo Thala da nadipu vera level thala fan endu solla perumaiya ituku love you Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20656,12 +20656,12 @@
     },
     {
         "text": " antha  alavu interest ah illa...fulla 3 girls ah dha katranga...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 50 times watch panavan like podu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20671,72 +20671,72 @@
     },
     {
         "text": " Nalla illa na hollywood edhuruparthen",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Podu vera level love you anna",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Mass good work    keep on rocking SUPERSTAR 2.0",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Next level to tamil cinema must like...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super super Ghibran bgm vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer Vera level Padam Mass aah irukaa pothu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala na thala than.....thala takkaru doi",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Condipa hit moviethanu solaravanga  ellarum oru like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Oruthar mele neenga viswasam kaaturthukaga innoruthare en asingam paduthuringe",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera lvl get up semma vikram anna super trailer",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Marana waiting   By thalapathi fan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " @1.10 dhanus looks remain Kamal Hassan look in virumandi.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala Ajith sir....mass konjam kammiya irukuravanga like pannunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Nallaa Thala Thala nu irukaru ajith..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20746,27 +20746,27 @@
     },
     {
         "text": " naan thala yoda thivira rasigan daa naan thirunelveli karandaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Adichi underwearla oda vittuduven = for Simon",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Like rekka.. Namma veetu Pillai .kuda vidalam.. Mass ah irukum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " i am captain fans but .paaa sema gethu ah iruku ajith sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " raijini than massmy age18 na rajini fqn",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20776,17 +20776,17 @@
     },
     {
         "text": " Intha week kulla 800k likes varanum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Youtube hang aaych views kaatamaatingith but likes increase aaykitte irukk",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 600 k like marana mass ah",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20796,7 +20796,7 @@
     },
     {
         "text": " Vj.. Nadaka vda matan seenu Thala.. Nadaka koodathu gethu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20816,117 +20816,117 @@
     },
     {
         "text": " U1 bgm is ozm ... Sema thalaivaa ..love u u1....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yella pasangalum paakkavendiya Padam Thala sonna namba pasanga keapanga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dhsnush vera leval ethana mura pathalum salipu illa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Viswasatha postponed pannuganga da",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Pakistani movi na indian movi ka record tor dia salman khan b hairan open link",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thalaiva  trailer 10 times parthuda innumu slikkal pathutte irukkanum pola irukku I love Rajini sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " thalaivar 1998il parthamathiri irukkar jan 10 epa varumnu irukku thalaiva we are all wating",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super trailar ..super star rajni rasigan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ena da idhu #Dunkirk bgm'a copy adicha mari iruku.. #hansZimmer paavam summa vidadu da...",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Last dialogue suit for all fans",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I like ayyayo ithu nala eruka dialog",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaveriyan solren... Semma mass.. Viswasam elithi vachukonga viswasam trailor ithoda mass ah irukum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ayo enga oorla 1 week ku ticket aah book panni vachitanungale... 1 ticket kooda kedakalaye...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Dai enada ithu thaarumara irukku, Vetrimaran Dhanush once again proved.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yennada padam release aana aprom TRENDING la varuthu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala Mass  kola Mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ajith sir you back ......we waiting so long for this....we do want  mass movie...we want like vaali...mugavari...p.o vassam",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " plz make it 1 million like ! thala fans make it fast",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Viswasam varum Vera level la parunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Karthi ku support pandrenka Tamil fans but Karthi ku telgu fans than pudikum Ivana Yaarum mathikathinka",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala ni vera level unna adichikka evanum illa ..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Oruthar mela vishwasam kattuvatharkaga Ennoruvarai en asigampaduthuring ...Good dialogue..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala fans ella oru like pottu ponga pa!!!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20936,47 +20936,47 @@
     },
     {
         "text": " Gorilla movie Potta Pola Bgm poduringa konjam mathinga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " 1:55 to 2:05 dedicated to all die hard fans.....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ethuku politics nadika matum seiyalam !!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " All Set To Be On Fire",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " ***thaaa  BGM vera level mass ....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " thala + yuvan = Block blaster",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pwoli pwolii . Dhanush, vetrimaaran, Manju warrier 🤘",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " It's look like 'Pink' Movie remake.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1:08   Rangrag pandeyva athu???",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -20986,32 +20986,32 @@
     },
     {
         "text": " Kaithi 2 seekaram venum..... Awesome movie.... I watched in Hotstar",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Padam paathuttu trailer paakka vandhavanga hit like Padam eppa semma mass vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Semmaya iruku ...Thalaiva nanka intha getula unkala parkurathukutha ivlo naal irunthom....Thalaiva vayasanalum unka alagum stylum maranthu...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Chance ye illa team KAITHI romba naliku aprm Nala padam patha feel",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer parka vadhavanga ellam oru like podunga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Yenda ippadi comments la like picha kekkuringa",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -21021,47 +21021,47 @@
     },
     {
         "text": " Adai thalaivara ena Da panni vachurukinga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Superrrrrrrrrrrrrrrrr Star love youuuuu so much sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer release agi inum Trending la iruku. THALAIVAR MASS vera yarukum ila",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Unna yappa screenla paponu irukan thala.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Make it 800k fast... Speed up folks",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " T H A L A  M A S S",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 12 million views for remake movie adegepaaa...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " PETTA trailer SUPER Rajnikanth Garu style we want Telugu release on January 10 Rajnikanth STYLE ADURS pakka MASS",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Shakthimaan picture uh paathathum yaarukellam goosebumps moment aacho avangellam keezha irukka button uh blue aakungha",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21071,7 +21071,7 @@
     },
     {
         "text": " I am bigger fan in Thalaivar",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21081,7 +21081,7 @@
     },
     {
         "text": " Oruthar mela visvasam kata..inoruthara en asinga paduthuringa....sema",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21101,7 +21101,7 @@
     },
     {
         "text": " Petta  Thara Local & Vera Level   Anirudh BGM MaranaMass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21111,22 +21111,22 @@
     },
     {
         "text": " atleekku soothu adikka poguthu inda padam tha verithanam",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Marana maasssss thalaiva summa allu vitruchu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ethu satha petta ella marna petta",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ithu varai ayaratha ulaippinal sinthinai VIYARVAI... Ini un vettri yai tamil nadey pesum NER KONDA PARVAI",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21136,7 +21136,7 @@
     },
     {
         "text": " Adichi underwear oda odavida porom, naam thamizhar",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -21146,7 +21146,7 @@
     },
     {
         "text": " Pangam ithupola advocate character nadika oruthanuku 10000 yugam aagum ......  Avaru seriousaah pesunale siriputhan varum",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -21161,17 +21161,17 @@
     },
     {
         "text": " Rajni sir , Vijay  and Nawajuddin in one movie. OMG...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Shankar sir Vera Vera Vera leval sir super film I am veyding 29 now",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Movie vera level.  Thala sema quote",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21181,7 +21181,7 @@
     },
     {
         "text": " Rajani sir is back   pongal on bang.....🤘🤘🤘🤘🤘",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21196,47 +21196,47 @@
     },
     {
         "text": " Stylish Star   Rajini Sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Adangappa semma tralier fight na innum thrikum 🤗🤗🤗",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera11 sk anna hollywood movie mathiri irukku love you sk anna",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Patha mass ah iruku bigli trailar alavuku worth ah iruku",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Daiiii Sun Pictures.... Ennada Fraud Pandringa.... Pogandaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Judge- Mr. Amai court la epadi katha kudathu Dala- kadupethurar my Lord🤣🤣🤣",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " summa likes ,views al luthu pa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " pettttaaaa trailor semmayo semmma.pakkkaaa massss by thalapathy fan",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Maassss thala ....ipati neraiya nerarya neraiya neraiya neraiya iruku masss speech thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21246,42 +21246,42 @@
     },
     {
         "text": " vayasanalum ungalota alagum stailum innum kurayala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ippadi neraya neraya neraya time paapen... Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Irudhiyil ivarum MGR labelil dhaanAvar Cinemavil Hero Vaazhkaiyai ottuvaara",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I think movie Vera levella irukum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super star  na adhu rajini sir mattum tha vera yarunaalayum antha patta tha vanga muditadhu da",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I think Rajnikant sir look like Iron man",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yaarellam bigil update paathutu inga vandhinga like podunga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Enn@ Kodum@y Sir Ethu . . .",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21291,62 +21291,62 @@
     },
     {
         "text": " Oru seen la kuda thala kan imaikave illa idha yarellam note panninga..hit like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " real rajini movie ..tis s want we want",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Pongal ku vara matha padangala...Thalaivar sathiyama Adichu under wear oda odavidaporaaru maanam pona thiruppi varadhu paathukonga....",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " zoom ponadhum sirichaven la like podu..!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Dhanush - Vetrimaran - GVP",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " U1 ......tharu maru.... music da yepa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yea, rajni sir movie naa ipidi irukhenom..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " All thalaivar fans.. tamil talkies maran namma thalaivar pathi thappa comment panirukan.... avana konjam vezhuthu kattunga pls....",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Thalaivar varrarru... Podiyanugkellam odidu... Adichu underwearoda oda vittiruvar pathukkonga",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Trailera Vida Padam miratala irundhuchunu nenaikravanga oru like podunga.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaivar adhiradi, good looking young and pakka mass trailer",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am thalapathi fan naane viyandhu poiten",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21356,37 +21356,37 @@
     },
     {
         "text": " 10 million views inniku 10 Mani ku...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yov  YouTube admin Views ah Upload Pannuya",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vetrimaaran Fans Like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ommalaaaa vangada eppo....ethu unmayave thalaivar pongal daa mavane...gethu",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Massss sir semma trailer eppo movie pakka poram",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ayyo thala naa ennamo ninachen aana teasrey vera level amazing acting kola mass",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Mirattal Bgm  IsaiThalaivan Bgm King",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21401,7 +21401,7 @@
     },
     {
         "text": " Kerala chiyan fans like here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21411,12 +21411,12 @@
     },
     {
         "text": " Ranjith sunnia vetti ooda vittuvom .. aprom ooka poolu ilama poidum",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Namaku thaviyanatha nama than adichi vanganum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21431,42 +21431,42 @@
     },
     {
         "text": " Vera level Vikram Anna Sama",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Anil fans irundha like podunga paa 🤣🤣🤣🤣🤣",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am Sri vegnesh thalaivar fan style",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ithu varikum 100 times pathavanga like podunga me 100 time pathachu",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ranji star marana mass thlaivaa  vijaysethupathi",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Comments eathanum adha Vida like kandipa eariyae aganum pa 1.5m cross pananum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vijay Anna I m waiting na... Mass kadrenga...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Argument scene vera level Thala vs Ponday",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21476,52 +21476,52 @@
     },
     {
         "text": " Thalaiva..... Vera level.... Tharamana sammbavam pongal ku iruku..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Semma gandle irukke mavena kollame vidamatte super thalaivare",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Iam dhanush fan but I like super star",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Career change movie #nerkonda paarvai 🤘",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " I am Surya Anna fans marana masss Thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala mass epovum pola U1 bgm",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Graphics sari illa nu solrathukune oru gang suthum parunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 10 million views in a day thalaivaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Super 2000 kits like this movie",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Polladhaboomi  song   padathula vallanu yaarallam feel Pandringa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21531,7 +21531,7 @@
     },
     {
         "text": " Mass thala.. u1 class... Therikka vidalama",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21541,7 +21541,7 @@
     },
     {
         "text": " Rajni sir is getting younger day by day ....hahha thalivan..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21556,27 +21556,27 @@
     },
     {
         "text": " Saree saree saree saree saree saree  #bangaram",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Romba nalaiku apram thalaivar old way semma",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enna da athukulla mudichu pochu chai...  Thala ya pathutey irukanum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Intha trailer ah siva Kumar sir ku pottu kaminga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thala mirrati vidutinga ponga thala I love you Ajith sir",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21586,37 +21586,37 @@
     },
     {
         "text": " Ayayo pochu... Jan la oru sirapana sambavam Iruku....... ... Kaali coming to rock..",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vera level illa athukum mela",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Vfx ipadi sothapuringalae ba. Enga expectation thalaivara nala vfx la massa pakanum. Vfx update pannunga pls. Mokka panidathinga.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 15 hours 5 million views thala maaaaaaaasssssssssssss🤣",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " surya veriyan ni mattum enga kita matna settada mavane. ngk diaster",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailara paakkum podhu bigil nelama romba mosama irukke...",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Trailer  pakkupothellam pullarikkuthu thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21626,12 +21626,12 @@
     },
     {
         "text": " Sema sema sema sema sema sema sema sema sema sema",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Remake pe remake pe remake aakhir kitne remake tollywood",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21646,12 +21646,12 @@
     },
     {
         "text": " Perusa onumilla but movie kaaka wait panuren !",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Nada mokkaya iruk  Kaala kabali Mathiri oruk",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21661,22 +21661,22 @@
     },
     {
         "text": " Thalaivar Come back In Petta Luv Thalaivaaaaa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Karthi thalaiva....vera level....block buster aaga valthukkal🥳",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ennada ethu trailer mugamudi mari eruku",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Padam flop dhan pola, enna vijaya production logo hindi la eruku modhala adha mathungada",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -21686,12 +21686,12 @@
     },
     {
         "text": " ore super star thalaivar Vera evanum",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaiva vaa thalaiva  Sk Anna fans &  yuvan Anna fans like  Vera level #Hero",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21701,7 +21701,7 @@
     },
     {
         "text": " I am waiting for ner konda paarvai",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21711,17 +21711,17 @@
     },
     {
         "text": " ELLARUM VAIYILA VIRALA VEIKIRA ALAVUKU THARAMA SAMBAVAM IRUKKU THALA DAAA!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Itha Verithanam  Batsha Padaiyappa Arunachalam Annamalai Sivaji ...varisaiyil Oru Petta All the best for Suriya Anna fans",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Marana Wāitíñg  vetrimaran sir Fanz hit likes here",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21731,32 +21731,32 @@
     },
     {
         "text": " Thala Pola varumaaaaaaaaaaa (Our Superstar) always I'm Impressed Give Me More",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Neraya neraya neraya neraya....... Veri thanam  THALA WOW!!!",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Rajini and Akshai Marana mass trailer.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ippo naame enna seivom hatters itku seruppaale adippom",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1:48 error spotted 🧐 Siva hanging by rope.",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Muga moodi part 2 va irukka koodathu kadavulee!!!!!",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -21771,122 +21771,122 @@
     },
     {
         "text": " Intha padam nalla odanumna bigil kuda motha vendam",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Karthi anna supera erukku diwalikku  wait panra anna",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaivaaaa nee vera level.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Intha vatti Ascar award ku try panrar pola🤗🤗",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " ennada panni vachu irukinga siva va avaruku ethuku intha pomma dressla pottu comedy pandringa",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ardent Fan of RAJNI Yusss Karthik Subbaraj's Petta Parak",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enna thatha vala 1 million likes thoda mudiyallaya",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " i łövə u thąla unga thąnnambìkka yarukkum iłła thala neenga nalla walanum thala",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Namma inga summa like mattum pottu avanuku value ethi vidrom",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Ippo irukura pasangaluku intha power and fast irukumna teriala ana adutha superstar solitu thiriranga. Chinna pasanga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ennappa ennala inno namba mudiyala trailer release aayiduchunu solla kollama release pannirukkeenga.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Kadaisiya oru nalla rajini movie trailer pathachupa.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " #2.O  🤖 #2pointO #Shankar  #Rajnikanth  #Arrahman #3Ddiwali",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Hit like for Rajinikanth, Vijay Sethupathi , Simran, Trisha",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " pengalukaga intha movie....apadilam nadakathu nadakavum kuduthu thala da",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 1.38 - 1.50 BGM U1 🤙🤙🤙🤙",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Asuran hit aaganumna enaku like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Who came after movie biggest block buster",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " intha kela kuthiku over seen venuma",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Enaku mattum dhaa mokkaiya irukka illa vera yaarukavadhu mokkaiya irundha oru like podunga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Sirappana tharamana sambavangala inime thana pakaporeenga",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Usure mela poitu varuthu Thala ungala paakum pothu.....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Any Under 25 Age Rajini Fans hit Like....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Anyone watching now ?  India / Srilanka time 6.08 pm Malaysia / Singapore time 8.38 pm",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21896,17 +21896,17 @@
     },
     {
         "text": " Ponga tambi innum 1miillon viewers kutta tandala",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Ready to race viswasan vada padda vada Satta",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " 100 + times watch pannunga raise ur hand",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21921,27 +21921,27 @@
     },
     {
         "text": " Bigil ah vida 100 %. Super hit kaithi",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ellarum Ajith likers, koliwood king acting young",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Podu evalavathaan age aanalum thalaiyoda voice irukkae",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Looks promising....vivek mervin congrats.... promising talenta...And Vijay Sethupathi Anna...Mass aana movie..apa apa ipdi padamum thevai..m",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Innum 5 naal than erukku....NKP ku waiting la erukkavanga hit like... Thala....",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21951,22 +21951,22 @@
     },
     {
         "text": " Thala daa.. dislike pandravan kundi yerichal la .. gommala ungalukku laam idhavida bayangarama sambavam irukku da",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Semma thala oruther meala neega viswasam katrathukkaga innoruthara yen neega asingam paduthuringa.... Semma thala .",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ithu enna amitha bchan movie ya. But Thala ethu sonalun ethu senchalum epadi act pnalum  engaluku pudikummm",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Sarkar 10 mins la 1million views",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -21976,37 +21976,37 @@
     },
     {
         "text": " Pink Vali Feeling    Par story me dam hai",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " life time viewae 11m thaandathu pola. kodumai.",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Chiyaan verithanam  Chiyaan fans hit like",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Thalaaaaaaaaaaaa🤩🤩🤩🤩🤩🤩 who do you feel the same emotion?????",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " WHO IS WAITING FOR 500K LIKES ?? NOW",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Yenakku mattum than iru mugan movie  Maari thonudha?",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Ithu thaan da Rajini padam .Pa.Ranjith unaku paadam.",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
@@ -22016,22 +22016,22 @@
     },
     {
         "text": " Earphone la U1 Bgm kekum pothu Vera level",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Sappypathy Vijayamma bigilu ummpi get more dislikes .. targeted 500k dislikes",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
         "text": " Stylea erukana ha ha naturally",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     },
     {
         "text": " Style la irukana hahaha mass dialogue",
-        "intent": "Negative ",
+        "intent": "Negative",
         "type": "test"
     },
     {
@@ -22041,7 +22041,7 @@
     },
     {
         "text": " Naa indha trailer 30 time paathuten pakka pakka Thala maasss  Thala  dharisanam kedachirichi",
-        "intent": "Positive ",
+        "intent": "Positive",
         "type": "test"
     }
 ]
