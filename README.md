@@ -23,15 +23,15 @@ Information regarding the datasets can be found in the table below.<br> To refer
 [Hope_edi](https://competitions.codalab.org/competitions/27653#learn_the_details )| English, Tamil, Malayalam | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | A Hope Speech dataset for Equality, Diversity and Inclusion (HopeEDI) containing user-generated comments from the social media platform YouTube.|
 [Atis](https://github.com/sz128/slot_filling_and_intent_detection_of_SLU/tree/master/data/atis-2) | English | [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)|word sequences with IOB slot tags and the intent label |
 [Snips]( https://github.com/sz128/slot_filling_and_intent_detection_of_SLU/tree/master/data/snips) | English | [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)| word sequences with IOB slot tags and the intent label
-[Multilingual Task Oriented] | English, Spanish | | 
-[It Helpdesk] | English | | 
+[Multilingual Task Oriented](https://research.fb.com/publications/cross-lingual-transfer-learning-for-multilingual-task-oriented-dialog/) | English, Spanish | | 
+[It Helpdesk](https://info.rasa.com/rasa-bot-starter-packs#it-helpdesk) | English | | 
 [Allocine](https://huggingface.co/datasets/allocine) | French |[MIT License](https://opensource.org/licenses/MIT) | French-language dataset for sentiment analysis|
 [Flue]() | French|[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)| FLUE is an evaluation setup for French NLP systems similar to the popular GLUE benchmark|
 [Facebook Post Aggression Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification) |Hindi, Hinglish |[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |Dataset with 3-way classification between ’Overtly Aggressive (OAG)’, ’Covertly Aggressive (CAG)’ and ’Non-aggressive (NAG)’ over text data
 [Ilist](https://github.com/kmi-linguistics/vardial2018) | Hindi, Braj Bhasha, Awadhi, Bhojpuri, Magahi|[Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)| This datasets is introduced in a task which aimed at identifying 5 closely-related languages of Indo-Aryan language family – Hindi (also known as Khari Boli), Braj Bhasha, Awadhi, Bhojpuri and Magahi|
 [Dravidian Codemix HASOC 2020](https://sites.google.com/view/dravidian-codemix-fire2020/overview) | Tanglish, Manglish (Tamil and Malayalam written in Roman Scripts) | | The data set has been collected from YouTube comments and Tweets. Each comment/post is annotated with offensive language label at the comment/post level. |
 [Telugu News](https://huggingface.co/datasets/telugu_news) | Telugu| | This dataset contains Telugu language news articles along with respective topic labels (business, editorial, entertainment, nation, sport) extracted from the daily Andhra Jyoti|
-[Profanity]() | | |
+[Profanity](https://sites.google.com/site/offensevalsharedtask/results-and-paper-submission) |Turkish | |Annotation follows the hierarchical tagset proposed in the Offensive Language Identification Dataset (OLID)|
 
 
 # Note
