@@ -32,6 +32,13 @@ Information regarding the datasets can be found in the table below.<br> To refer
 [Dravidian Codemix HASOC 2020](https://sites.google.com/view/dravidian-codemix-fire2020/overview) | Tanglish, Manglish (Tamil and Malayalam written in Roman Scripts) | | The data set has been collected from YouTube comments and Tweets. Each comment/post is annotated with offensive language label at the comment/post level. |
 [Telugu News](https://huggingface.co/datasets/telugu_news) | Telugu| | This dataset contains Telugu language news articles along with respective topic labels (business, editorial, entertainment, nation, sport) extracted from the daily Andhra Jyoti|
 [Profanity](https://sites.google.com/site/offensevalsharedtask/results-and-paper-submission) |Turkish | |Annotation follows the hierarchical tagset proposed in the Offensive Language Identification Dataset (OLID)|
+[Banking77](https://github.com/jianguoz/Few-Shot-Intent-Detection/tree/main/Datasets/BANKING77) |English | |The dataset is based on the banking domain and has 77 intents|
+[SMP2019](https://conference.cipsc.org.cn/smp2019/evaluation.html) |Chinese | |The dataset is based on 29 domains, including: app, email...|
+[Rasa Dataset Chinese](https://github.com/FengXMGeek/rasa_nlu_chinese_example) |Chinese | |The dataset is based on rasa dataset translated to Chinese|
+[JointDSF](https://github.com/VinAIResearch/JointIDSF/tree/main/PhoATIS) |Vietnamese | |The dataset is based on ATIS dataset translated to Vietnamese|
+[Urdu Fake News](https://huggingface.co/datasets/urdu_fake_news#data-instances) |Urdu | |The dataset is based on fake news detection in Urdu taken from Hugging Face|
+[Malayalam News Classification](https://github.com/AI4Bharat/indicnlp_corpus#indicnlp-news-article-classification-dataset) |Malayalam |[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |The dataset is based on news classification in Malayalam language from AI4Bharat|
+[Marathi News Classification](https://github.com/AI4Bharat/indicnlp_corpus#indicnlp-news-article-classification-dataset) |Malayalam |[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |The dataset is based on news classification in Marathi language from AI4Bharat|
 
 
 
