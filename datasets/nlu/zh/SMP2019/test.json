@@ -1,0 +1,2402 @@
+[
+    {
+        "text": "来一个灯谜，你。",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "爆笑谜语",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "你给我说几个谜语。",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搞笑谜语。",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询大力传媒的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "平安保险的股票价格",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "永辉超市股份的价格",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询一下讯飞科大今天的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "腾讯公司的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询三一重工股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "上海能源这支股票怎么样",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "所以查学西宁特钢的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "江苏阳光的股票怎么样了",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "居然股份股票怎么样",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搜索中国移动股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询东吴证券的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询海螺水泥的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中国银行股票怎么样",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中国太保股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询洛阳钼业的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询科大讯飞的股价",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想知道科大讯飞的市值",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查下李宁公司的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "伊利股份",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "上海宝钢股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中国工商银行的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "伊利股份股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看一下科大讯飞的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "通宝能源股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查寻上海能源的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一查同方股份的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搜索蒙牛的股市行情",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "招商银行港股的股价",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "青岛海信股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "富瑞特装股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询濮耐股份的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "包钢稀土股票价格",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询一汽轿车股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查下银星能源股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中信证券股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搜索泰亚股份股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搜索中国移动的股市行情",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "讯飞科技股票价格",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "永高股份的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中水渔业的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "安徽合力股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "截止目前银鸽投资股份的市值是多少",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "科大讯飞今天的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "人福医药股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "杰瑞股份股价",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查寻科大讯飞的股",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查寻天龙集团的股票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "有上海到昆山的火车吗",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "从合肥到北京的列车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下杭州到鹰潭的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下到洛阳的高铁",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "从长沙到北京的列车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "潍坊到济南的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询柳州到昆明的列车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "列车深圳到广州",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "贵溪至泉州的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "贵阳至长沙的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "上饶到南昌的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "合肥到芜湖的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "厦门到福建建阳的火车是几点呢",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "潜山到福州的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查寻来宾到柳州的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "深圳至合肥的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下潍坊到威海的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "广州到南宁的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "后天上海到烟台的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "明天到郑州的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下南昌到南京的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "从合肥去西安的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我查一下临海到上海的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "请查询丰城到南昌的火车列车列车时刻表",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "明天广州到北京的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "去广州的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "安阳到郑州的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我查询一下温州到上海的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "杭州南站到龙游的火车有哪几班",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "北京到镇江的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下那个南京到昆明的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下苏州到洛阳的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "南京到厦门的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "明天到合肥的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询安阳到郑州的动车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查看滁州到南京的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "明天有火车到襄阳吗",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "枣庄到淄博的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "明天南京到徐州的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "温州到瑞昌的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下济南到潍坊昌乐的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "厦门到赣州的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查查一下连江到湛江的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "洛阳至西安的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "到北京的火车班次",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查下温州到杭州的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我在百度里搜一下东莞到北京的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我查一下赣州到南昌的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下合肥到淮南明天的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "宿州到北京的火车有哪些",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我查一下广州到深圳的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "到无锡到北京的火车有几趟了",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下兰州到成都的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "广州去昆明的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "明天去蚌埠的车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "去枣庄的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询宜春到南昌的火车列车时刻表",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "四月六号南宁到上海的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "深圳到开封的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我查一下洛阳到赣州的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "明天去滁州的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查一下上海到苏州的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "明天有没有洛阳到西安的高铁",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询泉州到上海的动车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我查一下苏州到上海的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "广州到孝感的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询昆明到合肥的火车",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我查一下赣州到杭州的火车票",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "CCTV8高清电视剧",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "老故事",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "央视精品节目",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "金瓶梅",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我找一找龙门飞甲",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "看中国好声音",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "智慧树",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "开心大冒险",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "看空霸",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "汉武大帝",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "蓝精灵电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "情债",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "苍狼",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我要当八路军",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "大头儿子小头爸爸",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "最美的时光",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "五号特工组",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "那么最近有什么好电影呢？",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看搞定岳父大人电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "电影中国合伙人",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "花开半夏",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查找电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "动画片",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "知青",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "给我找最新的盗梦空间",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "好无聊哇有什么好看的电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "歧路兄弟",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "想唱就唱",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查找桑拿",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搜索最近的，科幻电影。",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "忍者之路",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "爱在旅途",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "狄仁杰之通天帝国视频",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "打开节目搜索",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "请帮我放一下剩女保镖",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "美国恐怖电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "来一个选秀节目",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "帮我打开步步惊心",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "最近有什么好看的电视连续剧武打的。",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看大武当电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "小兵张嘎电影儿",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "要看名侦探柯南",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "播七龙珠",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "满秋",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "请帮我查找一下奥特曼大电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "动画片巴啦啦小魔仙",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "好看足球比赛",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "北疆战士",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "女子特警队之火凤凰",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "当婆婆遇上妈",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "爱情公约",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "高清动作电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看周星驰的喜剧电影[喜剧](tag)之王",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "魔幻手机",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "幻影忍者",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "古惑仔",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "电影私人定制",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "看东方",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "看乡村爱情",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想要看很火的电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "妖精的尾巴",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "杨三姐告状",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "情景剧电视剧",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搜索国外大片",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "赛罗奥特曼",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看变形金刚三",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "看上周五的爸爸我去哪儿",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我的爱金枝玉叶",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "妈妈的花样年华",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我要看李连杰的电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "狸猫换太子",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "老版红楼梦",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "一个鬼子都不留",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看爱情闯进门",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "最近有什么好看得",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "命运派对",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "胜者即是正义",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "文娱播报",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "找一下詹姆斯卡梅隆拍的电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看喜羊羊",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搜索电影晚秋",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "江山",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "独立纵队电视剧",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "胜女的代价电视剧",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "查询神鬼认证",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "换到米老鼠",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "半夜不要照镜子",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "铁甲钢拳",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "读心专家",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "电视剧火凤凰",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "有你才幸福",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "推理动漫",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看珍珠港",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "2013年的警匪电视剧",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "播放特种兵之利刃出鞘",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看变形金刚哦",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "播放神话",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "地心历险记二",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搜索下绿巨人",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "美国热门的恐怖电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "青春期撞上更年期二",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "正者无敌",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "武间道",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "欧阳震华的罪案电视剧",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "看动物卡通",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "13年的电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "康熙大帝",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "刑侦电视剧",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "薛平贵与王宝钏",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "钢铁侠三",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "福尔摩斯",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "英雄本色电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "生活大爆炸",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "宫崎骏动画电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我想看电影超人",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "新扎师妹",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "猫眼三姐妹",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我是说我要看一起又看流星雨",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "贺岁片",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "天机富春山居图",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我是特种兵二",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中国合伙人",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "智取威虎山",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "下半年的电视剧",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "韩国电视连续剧老大",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "甄嬛传高清",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "陈真",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "影视流星花园",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "热血动漫",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中国新声代",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "你好我想看电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "捍卫者",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "我的幸福",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "美好的时代",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "最近有什么科幻电影？",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "铁甲威虫",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "请播放一下举起手来",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "播放法制进行时",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "刘三姐",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "搜王菲演唱会",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "心术电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "海棉宝宝",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "请打开电影",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "看电影啊",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中国最强音",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "你好请问一下明天广州的天气如何",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "合肥明天的湿度如何",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "九阴真经",
+        "intent": "QUERY",
+        "type": "test"
+    },
+    {
+        "text": "看一下中式传媒股票的涨跌幅",
+        "intent": "RISERATE_QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中国银行是跌了还是涨了",
+        "intent": "RISERATE_QUERY",
+        "type": "test"
+    },
+    {
+        "text": "中国石化的股票是涨还是跌",
+        "intent": "RISERATE_QUERY",
+        "type": "test"
+    },
+    {
+        "text": "陈娴TCL股票是涨还是跌了",
+        "intent": "RISERATE_QUERY",
+        "type": "test"
+    },
+    {
+        "text": "宏达高科的股票跌了没有",
+        "intent": "RISERATE_QUERY",
+        "type": "test"
+    },
+    {
+        "text": "代码000800的股票涨幅是多少",
+        "intent": "RISERATE_QUERY",
+        "type": "test"
+    },
+    {
+        "text": "拨打张月华的电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打给曾玮文",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "给小鱼打电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "呼叫鹏鹏",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "我想打电话给李四",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给之山",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打打给胡磊",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "呼叫广岁",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给大哥",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给艾背",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给王安娜",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给小女儿",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给my god",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "拨打电话给庄开森",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "帮我打电话给港铁轮",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给摩托老师",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给奥巴马",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打一下公司张总的电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "呼叫徐媛",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "拨号曹兴发",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给魏文强",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给郑艺红",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "给高兴打电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话陈雪莉",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给陈雷",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "给张张打电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "给吴方婷打电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给美华",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "给万结打电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给潘立长",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "给王涛打电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给阿敏",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "给金华打电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "拨打陈艾电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给丹丹移动",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给李新颖",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "呼叫a 二小姐",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给胖头",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打石宝电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "给木九超打电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给王宇婕",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给张志国",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话到飞云",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给大培",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "你给朴叔打电话",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给三路店",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "打电话给卢静",
+        "intent": "DIAL",
+        "type": "test"
+    },
+    {
+        "text": "很高兴认识你英语怎么说啊",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "中国制用英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "翻译李淼",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "你叫什么名字翻译一下",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "香蕉的英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "今天是个好日子的英文怎么讲",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "五用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "智能手机英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "福尔摩探案急翻译成英文",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "橙子的英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "书包用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "你怎么了英文怎么讲",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "翻译爸爸",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "帮我翻译一下我饿了",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "翻译共产党员",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我去飞机场英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我不知道的英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我正在睡觉用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "你去哪用英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "晚安的英语",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "翻译慷慨激昂",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我来自美国是一个地地道道的美国人用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "请翻译苹果",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "一加一用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我今天帮爷爷洗衣服的英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "中国共产主义的英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "茶用英语怎么说呀",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "出租车的英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "翻译牛",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "庞军军英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我今天去北京了英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "时间的英文怎么讲",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "晚上好用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "香蕉用英语怎么讲",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "腿英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我饿用英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "安哥拉的英文是什么",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "你去玩手机了吧用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我喜欢亚楠用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我要和妹妹睡觉英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "一千五英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "你好丑用英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "当前不再呼叫英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "小说英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "大家今天心情如何用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "你今天去了哪里用英文怎么讲",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "西红柿用英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我想打你英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "桔子英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "睡觉用英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我不在家英语怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "你叫什么名字英文怎么说",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "帮我翻译一下番茄",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我不明白用英文怎么讲",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "我不吃英文怎么讲",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "很高兴见到你英文怎么讲",
+        "intent": "TRANSLATION",
+        "type": "test"
+    },
+    {
+        "text": "北京财经",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "中央十一台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "我想看高尔夫网球频道",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "打开珠江台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "宁波一台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "先锋乒羽",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "高清江苏",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "CCTV四套",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "东方台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "甘肃台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "中央电视台电影频道",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "高清央视综合频道",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "高清央视综艺",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "BTVKAKU少儿",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "打开江苏卫视",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "天津电视台的国际频道，拜托了哈",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "帮我调转到风云音乐频道",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "找湖南卫视",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "高淳转播2",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "我要看下中央六套",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "CCTV7军事农业",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "远教四台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "安徽综艺",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "我看呀中央五台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "游戏竞技频道",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "我要看湖南台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "女性时尚",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "CCTV6电影高清",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "江苏教育台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "高尔夫网球",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "北京财经台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "中央台五套",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "西藏卫视",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "哦我想看中央一台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "打开浦口新闻综合频道",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "浙江电视台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "帮我调到安徽卫视",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "江苏影视",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "CCTV少儿",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "湖北电视台高清",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "央3",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "中央八",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "帮我切换到湖南卫视",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "陕西二套",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "我要看中央五台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "江苏影视台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "AXN",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "高清深圳台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "海南旅游卫视",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "调到新疆综艺",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "吉林电视台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "在线观看中央七套",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "中国教育电视台三台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "换江苏卫视",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "福建电视台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "浙江台",
+        "intent": "PLAY",
+        "type": "test"
+    },
+    {
+        "text": "听江苏交通广播网",
+        "intent": "LAUNCH",
+        "type": "test"
+    },
+    {
+        "text": "摩尔勇士",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "把我打开淘宝的网页",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "上山居网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "赶集网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "四川新闻网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "苏宁易购",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "把淘宝网打开",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "看网易财经",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "我想看一下凤凰网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开河南英东网站",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "激动",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "新蛋网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "中华军事网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开苹果香港官方网站",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "索尼爱立信官网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开三星首页",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开4399小游戏",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开宽带商务网站",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "现在我也想上新浪网了",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "给我打开百度网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "浏览一下百度",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "中国新华网打开",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开科大讯飞网站",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "开启雅虎",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开杜鑫文的网站",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "进你的官网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开丰顺县政府网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "进入三w点百度点com",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "进入讯飞官网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开网页小米论坛",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "上百度网站",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "幻剑书盟",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "聚友网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "宜家",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "广西新闻网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开索尼官方网站",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "现在打开你的官网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开百度啊",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "我要打开百度",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "新浪汽车",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "我想上网易",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "打开搜狐网首页",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "但是我想上腾讯网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "上美空网",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "中国新闻网网站",
+        "intent": "OPEN",
+        "type": "test"
+    },
+    {
+        "text": "我要上网打开百度",
+        "intent": "OPEN",
+        "type": "test"
+    }
+]

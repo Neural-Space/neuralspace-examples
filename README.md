@@ -34,6 +34,7 @@ Information regarding the datasets can be found in the table below.<br> To refer
 [Profanity](https://sites.google.com/site/offensevalsharedtask/results-and-paper-submission) |Turkish | |Annotation follows the hierarchical tagset proposed in the Offensive Language Identification Dataset (OLID)|
 
 
+
 # Note
 
 NeuralSpace does not own any rights to these datasets and these are not for commercial use. 
