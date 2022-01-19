@@ -1,0 +1,49 @@
+﻿label,text
+check_human,are you a bot?
+check_human,am i speaking to an ai?
+check_human,are you a [human](money) or a bot?
+check_human,are you [real](work-of-art)?
+affirm,indeed
+affirm,[correct](cardinal)
+affirm,that [sounds](quantity) good
+affirm,[yes](url)
+affirm,yess [please](email)
+affirm,of course
+ask_transfer_charge,Will I be [charged](phone) for transferring money
+ask_transfer_charge,do transfers cost [something](duration)?
+ask_transfer_charge,is there a [transfer](percent) charge?
+ask_transfer_charge,Is there a [charge](ORG)
+check_balance,[How](LANG) much money is on my [account](law)?
+check_balance,[How](norp) much money is on my [bank](account_type) account?
+check_balance,[what's](ordinal) my [balance](amount-of-money)?
+check_balance,[what's](person) my [current balance](amount-of-money)?
+check_balance,[What's](product) left on that account?
+check_balance,[How](location) much do I have on that account?
+check_balance,[What's](event) the [balance](amount-of-money) on that account?
+check_balance,[How](geo-political-entities) much money is left on that account?
+check_balance,[what](time) is my account [balance](amount-of-money)
+check_balance,[what's](distance) my account [balance](amount-of-money)?
+check_balance,[what's](distance) my account [balance](amount-of-money)
+check_balance,[whats](facility) my account [balance](amount-of-money)
+check_balance,[what](temperature) is my [bank](account_type) account [balance](amount-of-money)
+check_balance,what's my [bank](account_type) account [balance](amount-of-money)?
+check_balance, what's my [bank](account_type) account [balance](amount-of-money)
+check_balance,whats my [bank](account_type) account [balance](amount-of-money)
+check_balance,What's my [credit card](account_type) [balance](amount-of-money)
+check_balance,What's my [credit](account_type) [balance](amount-of-money)
+check_balance,How much money do I owe on my [credit cards](account_type)
+check_balance,Show me my [credit card](account_type) [balance](amount-of-money)
+check_balance,What [credit](account_type) accounts do I have
+check_balance,Show me my [credit](account_type) accounts
+check_balance,Whats the [balance](amount-of-money) on my [credit](account_type) account
+check_balance,What's my [credit](account_type) account
+check_balance,What's my [emblem](credit_card) [card](account_type) [balance](amount-of-money)
+check_balance,Show me my [iron bank](credit_card) [balance](amount-of-money)
+check_balance,What's my [justice bank](credit_card) [balance](amount-of-money)
+check_balance,What's the [balance](amount-of-money) on the [justice bank](credit_card) account
+check_balance,what's my [emblm](credit_card) [credit card](account_type) [balance](amount-of-money)?
+check_balance,what's my [credit card](account_type) [balance](amount-of-money)?
+check_balance,what's my [credit card](account_type) account [balance](amount-of-money)?
+check_balance,What is my [emblem](credit_card) [card](account_type) [balance](amount-of-money)?
+check_balance,whats my [credit card](account_type) [balance](amount-of-money)
+check_balance,what's my [emblm](credit_card) account [balance](amount-of-money)?
