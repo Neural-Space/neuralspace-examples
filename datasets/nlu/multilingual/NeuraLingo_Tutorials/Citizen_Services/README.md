@@ -17,6 +17,6 @@ This diverse dataset contains samples in 8 languages namely English, Hindi, Tami
 
 # Note
 
-Rights of this Dataset belong to neuralspace.ai. Licenses to be added.
+For this tutorial, NeuralSpace has built this dataset in-house. All rights related to this dataset belong to neuralspace.ai. If you would like to use this dataset, please contact us at hello@neuralspace.ai.
 
  

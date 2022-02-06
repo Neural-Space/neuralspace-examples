@@ -62,19 +62,6 @@
         "type": "test"
     },
     {
-        "text": "મેં છેલ્લા રાત્રે મારા ઘરની બહાર મારી કાર પાર્ક કરી. હવે તે ખૂટે છે. મેહરબાની કરી ને મદદ કરો. તે એક કાળો રંગ હ્યુન્ડાઇ છે અને નોંધણી નંબર 78786666 છે",
-        "intent": "InquiryOfMissingVehicle",
-        "type": "test",
-        "entities": [
-            {
-                "entity": "Color",
-                "value": "કાળો",
-                "start": 100,
-                "end": 104
-            }
-        ]
-    },
-    {
         "text": "are there any updates for my fir? the id is 1234",
         "intent": "StatusOfFIR",
         "type": "test",
@@ -141,19 +128,6 @@
                 "value": "महिला हेल्पलाइनची ",
                 "start": 0,
                 "end": 18
-            }
-        ]
-    },
-    {
-        "text": "నేను ఒక నీలం యాక్టివా స్కూటీని కలిగి ఉన్నాను. నేనేం చేయాలి? రిజిస్ట్రేషన్ సంఖ్య 98765098765",
-        "intent": "InquiryOfMissingVehicle",
-        "type": "test",
-        "entities": [
-            {
-                "entity": "VehicleNumber",
-                "value": "98765098765",
-                "start": 80,
-                "end": 91
             }
         ]
     },
@@ -391,6 +365,12 @@
         "type": "test",
         "entities": [
             {
+                "entity": "Color",
+                "value": "કાળો",
+                "start": 100,
+                "end": 104
+            },
+            {
                 "entity": "VehicleType",
                 "value": "હ્યુન્ડાઇ",
                 "start": 109,
@@ -470,6 +450,12 @@
         "intent": "InquiryOfMissingVehicle",
         "type": "test",
         "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "98765098765",
+                "start": 80,
+                "end": 91
+            },
             {
                 "entity": "Color",
                 "value": "నీలం",
