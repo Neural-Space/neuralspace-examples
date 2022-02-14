@@ -41,7 +41,6 @@ Information regarding the datasets can be found in the table below.<br> To refer
 [Marathi News Classification](https://github.com/AI4Bharat/indicnlp_corpus#indicnlp-news-article-classification-dataset) |Malayalam |[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |The dataset is based on news classification in Marathi language from AI4Bharat|
 
 
-
 # Note
 
 NeuralSpace does not own any rights to these datasets and these are not for commercial use. 
