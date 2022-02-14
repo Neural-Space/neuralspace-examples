@@ -1,0 +1,576 @@
+[
+    {
+        "text": "मी माझ्या एफआयआरची स्थिती शोधण्याचा प्रयत्न करीत आहे. कृपया मदत करा.",
+        "intent": "StatusOfFIR",
+        "type": "test"
+    },
+    {
+        "text": "আমি গত রাতে আমার বাড়ির বাইরে আমার গাড়ী পার্ক করেছি। এখন এটা অনুপস্থিত। সাহায্য করুন. এটি একটি কালো রঙ হুন্ডাই এবং রেজিস্ট্রেশন নম্বর 78786666",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "কালো",
+                "start": 96,
+                "end": 100
+            }
+        ]
+    },
+    {
+        "text": "నేను id కోసం నా ఫిర్లో ఒక నవీకరణ పొందవచ్చు - 3232",
+        "intent": "StatusOfFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3232",
+                "start": 45,
+                "end": 49
+            }
+        ]
+    },
+    {
+        "text": "আমি একটি নীল activa স্কুটি আছে যা আমি খুঁজে পাচ্ছি না। আমার কি করা উচিৎ? নিবন্ধন নম্বর 98765098765",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "98765098765",
+                "start": 87,
+                "end": 98
+            }
+        ]
+    },
+    {
+        "text": "मैं जीएसएम मॉल, हैदराबाद के पास रहता हूं। नज़दीकी पुलिस स्टेशन कहां है?",
+        "intent": "InquiryOfLocation",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "पुलिस स्टेशन",
+                "start": 50,
+                "end": 62
+            }
+        ]
+    },
+    {
+        "text": "ராஜீவ் சௌக் பொலிஸ் நிலையத்தை நான் எப்போது வருகிறேன்?",
+        "intent": "InquiryOfTiming",
+        "type": "test"
+    },
+    {
+        "text": "are there any updates for my fir? the id is 1234",
+        "intent": "StatusOfFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "1234",
+                "start": 44,
+                "end": 48
+            }
+        ]
+    },
+    {
+        "text": "how many days ago was my fir filed. the id is 3333",
+        "intent": "StatusOfFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3333",
+                "start": 46,
+                "end": 50
+            }
+        ]
+    },
+    {
+        "text": "my car number is ap28db1234. please tell me the last location?",
+        "intent": "InquiryOfLocation",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ap28db1234",
+                "start": 17,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "నా చిరునామా d బ్లాక్ janakpuri. ఏ సమయంలో ఎవరైనా పాస్పోర్ట్ ధృవీకరణ కోసం వస్తారు?",
+        "intent": "InquiryOfTiming",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "d బ్లాక్ janakpuri.",
+                "start": 12,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "text": "मै ए एए कक्मेक हक्त हे हे. ਨੈਕਰ اک?",
+        "intent": "InquiryOfLocation",
+        "type": "test"
+    },
+    {
+        "text": "महिला हेल्पलाइनची टाइमइम काय आहे",
+        "intent": "InquiryOfTiming",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "महिला हेल्पलाइनची ",
+                "start": 0,
+                "end": 18
+            }
+        ]
+    },
+    {
+        "text": "my red maruti car is missing. what shall i do. car number is 12341234",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "maruti",
+                "start": 7,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "text": "మహిళల సహాయక సమయాలు ఏమిటి",
+        "intent": "InquiryOfTiming",
+        "type": "test"
+    },
+    {
+        "text": "আমি নিকটতম সরকারি হাসপাতালে একটি অ্যাপয়েন্টমেন্ট পেতে পারেন",
+        "intent": "InquiryOfTiming",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "সরকারি হাসপাতাল",
+                "start": 11,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "text": "நான் ராஜீவ் chowk அருகே ஒரு மையத்தில் இருந்து வகை ab -ve இரத்த நன்கொடை அவசரமாக வேண்டும்",
+        "intent": "InquiryOfLocation",
+        "type": "test"
+    },
+    {
+        "text": "ஹைதராபாத் பொலிஸ் நிலையம் எப்போது திறக்கப்படுகிறது?",
+        "intent": "InquiryOfTiming",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "ஹைதராபாத் பொலிஸ் நிலையம்",
+                "start": 0,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "text": "আমার টুইটার একাউন্ট হ্যাক করা হয়েছে। আমার টুইটার হ্যান্ডেল @myname। আমি কিভাবে এটা উদ্ধার করতে পারি?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "@myname",
+                "start": 60,
+                "end": 67
+            }
+        ]
+    },
+    {
+        "text": "என் சிவப்பு மாருதி கார் காணவில்லை. நான் என்ன செய்ய வேண்டும். கார் எண் 12341234 ஆகும்",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "சிவப்பு",
+                "start": 4,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "text": "મારી લાલ મારુતિ કાર ખૂટે છે. હું શું કરું. કાર નંબર 12341234 છે",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "લાલ",
+                "start": 5,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "text": "whatsapp న ఒక సైబర్ ఫిర్యాదు పెంచడానికి నేను ఏ పత్రాలు చేయాలి. నేను కలత చెందుతున్నాను",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "whatsapp",
+                "start": 0,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "text": "the cbi was going to visit my building today, what time should they arrrive?",
+        "intent": "InquiryOfTiming",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "cbi",
+                "start": 4,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "text": "আমার অ্যাকাউন্ট থেকে netbanking যখন একটি জালিয়াতি হয়েছে। আমি এখন কি করব",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "netbanking",
+                "start": 21,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "text": "ਮੱਤ ਦੇ ਤੌਰ 'ਤੇ घर घर के ेर्क पार्ी ਹੋਰ य य. मिजि मीजए. यकएकएक एक",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test"
+    },
+    {
+        "text": "હું હાલમાં કાલ્કજી મેટ્રો સ્ટેશનમાં છું. નજીકના પોલીસ સ્ટેશન ક્યાં છે",
+        "intent": "InquiryOfLocation",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "LocationFrom",
+                "value": "કાલ્કજી મેટ્રો સ્ટેશન",
+                "start": 11,
+                "end": 32
+            }
+        ]
+    },
+    {
+        "text": "నా ట్విట్టర్ ఖాతా హ్యాక్ చేయబడింది. నా ట్విట్టర్ హ్యాండిల్ @myname. నేను దానిని ఎలా తిరిగి పొందగలను?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "@myname",
+                "start": 59,
+                "end": 66
+            }
+        ]
+    },
+    {
+        "text": "என் மாணவர் ஆடம் ஜோன்ஸ் காணவில்லை. அவர் 10 வயது மற்றும் 5 அங்குல உயரம் மட்டுமே",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "ஆடம் ஜோன்ஸ்",
+                "start": 11,
+                "end": 22
+            }
+        ]
+    },
+    {
+        "text": "मुझे तत्काल राजीव चौक के पास एक केंद्र से ab -ve प्रकार के रक्त दान की आवश्यकता है",
+        "intent": "InquiryOfLocation",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "राजीव चौक",
+                "start": 12,
+                "end": 21
+            }
+        ]
+    },
+    {
+        "text": "હું લોટરી સેવા દ્વારા સ્કેમ કરવામાં આવી છે. હું ફરિયાદ દાખલ કરવા માંગુ છું.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "લોટરી",
+                "start": 4,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "text": "ਮੇਰੇ ਤੋਂ ਬਾਅਦ ਦਾ ਕੰਮ ਪੂਰਾ 4 ਜਰੂਵਾਹ हा औ औ औ औ",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "test"
+    },
+    {
+        "text": "मी काय करावे, आम्ही माझ्या विद्यार्थी अॅडम जोन्स कुठेही शोधू शकत नाही.",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "अॅडम जोन्स",
+                "start": 38,
+                "end": 48
+            }
+        ]
+    },
+    {
+        "text": "શું તમે મને મારા ફિર પર કોઈપણ સ્થિતિ અપડેટ્સ આપી શકો છો. આઈડી 8888 છે",
+        "intent": "StatusOfFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "8888",
+                "start": 62,
+                "end": 66
+            }
+        ]
+    },
+    {
+        "text": "મેં છેલ્લા રાત્રે મારા ઘરની બહાર મારી કાર પાર્ક કરી. હવે તે ખૂટે છે. મેહરબાની કરી ને મદદ કરો. તે એક કાળો રંગ હ્યુન્ડાઇ છે અને નોંધણી નંબર 78786666 છે",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "કાળો",
+                "start": 100,
+                "end": 104
+            },
+            {
+                "entity": "VehicleType",
+                "value": "હ્યુન્ડાઇ",
+                "start": 109,
+                "end": 118
+            }
+        ]
+    },
+    {
+        "text": "मेरी लाल मारुति कार गायब है। मैं क्या करूँगा। कार संख्या 12341234 है",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "मारुति",
+                "start": 9,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "text": "ਮੇਰੇ ਤੇ ਦੇ ne मला ਕੀ करँगा",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "test"
+    },
+    {
+        "text": "ફેસબુક પર સાયબર ફરિયાદ વધારવાની મને કયા દસ્તાવેજોની જરૂર છે. હું ચિંતિત છું",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ફેસબુક",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "నా ఫిర్ కోసం ఏ నవీకరణలు ఉన్నాయా? id 1234",
+        "intent": "StatusOfFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "1234",
+                "start": 36,
+                "end": 40
+            }
+        ]
+    },
+    {
+        "text": "ਅੰਦਰ ਦਾ ਕੰਮ, ॉॉम ं गालबैै. 22 32 ਸਲੂਬਾ 320 'ਤੇ. मल ਹੋਰ करँगा",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "test"
+    },
+    {
+        "text": "నా ఎరుపు మారుతి కారు లేదు. నేను ఏమి చేస్తాను. కారు సంఖ్య 12341234",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "మారుతి",
+                "start": 9,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "text": "நான் தற்போது கல்காஜி மெட்ரோ நிலையத்தில் இருக்கிறேன். அருகில் உள்ள பொலிஸ் நிலையம் எங்கே உள்ளது?",
+        "intent": "InquiryOfLocation",
+        "type": "test"
+    },
+    {
+        "text": "నేను ఒక నీలం యాక్టివా స్కూటీని కలిగి ఉన్నాను. నేనేం చేయాలి? రిజిస్ట్రేషన్ సంఖ్య 98765098765",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "98765098765",
+                "start": 80,
+                "end": 91
+            },
+            {
+                "entity": "Color",
+                "value": "నీలం",
+                "start": 8,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "text": "நான் கண்டுபிடிக்க முடியாத ஒரு நீல செயல்பாடு ஸ்கூட்டி உள்ளது. நான் என்ன செய்ய வேண்டும்? பதிவு எண் 98765098765 ஆகும்",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test"
+    },
+    {
+        "text": "i am a school bus driver. the bus has been stolen last night. the number plate is 9999999",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "9999999",
+                "start": 82,
+                "end": 89
+            }
+        ]
+    },
+    {
+        "text": "আমি কি করতে হবে, আমরা আমার ছাত্র অ্যাডাম জোন্স কোথাও খুঁজে পাচ্ছি না।",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "অ্যাডাম জোন্স",
+                "start": 33,
+                "end": 46
+            }
+        ]
+    },
+    {
+        "text": "what time can i visit rajiv chowk police station",
+        "intent": "InquiryOfTiming",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "rajiv chowk police station",
+                "start": 22,
+                "end": 48
+            }
+        ]
+    },
+    {
+        "text": "મારો પિનકોઇડ 500049 છે. મારા નજીકના પોલીસ સ્ટેશન ક્યાં છે?",
+        "intent": "InquiryOfLocation",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "PinCode",
+                "value": "500049",
+                "start": 13,
+                "end": 19
+            }
+        ]
+    },
+    {
+        "text": "गेल्या काही दिवसांपासून आणि बर्याच एसएमएसपासून मला बनावट कॉल प्राप्त होत आहे. मी काय करू?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "बनावट कॉल",
+                "start": 51,
+                "end": 60
+            }
+        ]
+    },
+    {
+        "text": "రాజీవ్ చౌక్ పోలీస్ స్టేషన్ను నేను ఏ సమయంలో సందర్శించగలను",
+        "intent": "InquiryOfTiming",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "రాజీవ్ చౌక్ పోలీస్ స్టేషన్",
+                "start": 0,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "text": "நேற்று இரவு என் வீட்டிற்கு வெளியே என் காரை நிறுத்தினேன். இப்போது அது காணவில்லை. தயவு செய்து உதவவும். இது ஒரு கருப்பு வண்ண ஹூண்டாய் மற்றும் பதிவு எண் 78786666 ஆகும்",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "ஹூண்டாய்",
+                "start": 122,
+                "end": 130
+            }
+        ]
+    },
+    {
+        "text": "আমি আইডি জন্য আমার ফিরতে একটি আপডেট পেতে পারেন - 3232",
+        "intent": "StatusOfFIR",
+        "type": "test",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3232",
+                "start": 49,
+                "end": 53
+            }
+        ]
+    }
+]

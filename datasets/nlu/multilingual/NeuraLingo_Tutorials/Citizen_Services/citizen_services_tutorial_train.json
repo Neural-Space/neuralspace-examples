@@ -1,0 +1,4636 @@
+[
+    {
+        "text": "मैं एनसीडब्ल्यू से कब संपर्क कर सकता हूं?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "एनसीडब्ल्यू",
+                "start": 4,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "text": "हैदराबाद पुलिस स्टेशन किस समय खुला है?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "हैदराबाद पुलिस स्टेशन",
+                "start": 0,
+                "end": 21
+            }
+        ]
+    },
+    {
+        "text": "నేను facebook లో ఒక సైబర్ ఫిర్యాదు పెంచడానికి అవసరం ఏమి పత్రాలు. నేను కలత చెందుతున్నాను",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "facebook",
+                "start": 5,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "text": "நேற்று ஒரு வயரை உயர்த்தினேன். ஐடி 999888 ஆகும். நிலை என்ன?",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "999888",
+                "start": 34,
+                "end": 40
+            }
+        ]
+    },
+    {
+        "text": "நான் மாயபுரி பொலிஸ் நிலையத்தை பார்க்க முடியும்.",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "மாயபுரி",
+                "start": 5,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "text": "હું છેલ્લા થોડા દિવસોથી નકલી કૉલ્સ મેળવી રહ્યો છું અને કેટલાક એસએમએસ પણ મેળવી રહ્યો છું. મારે શું કરવું જોઈએ?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "माझ्या एफआयआरसाठी काही अद्यतने आहेत का? आयडी 1234 आहे",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "1234",
+                "start": 45,
+                "end": 49
+            }
+        ]
+    },
+    {
+        "text": "can you give me any status updates on my fir. the id is 8888",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "8888",
+                "start": 56,
+                "end": 60
+            }
+        ]
+    },
+    {
+        "text": "when can i contact ncw?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncw",
+                "start": 19,
+                "end": 22
+            }
+        ]
+    },
+    {
+        "text": "என் ஃபிர் மீது எந்த நிலை புதுப்பிப்புகளையும் எனக்கு கொடுக்க முடியுமா? ஐடி 8888 ஆகும்",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "8888",
+                "start": 74,
+                "end": 78
+            }
+        ]
+    },
+    {
+        "text": "my friend, named john doe, is missing. i want to file an fir",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "john doe",
+                "start": 17,
+                "end": 25
+            }
+        ]
+    },
+    {
+        "text": "నా ఫిర్ మీద ఏ స్థితి నవీకరణలను నాకు ఇవ్వగలరా. id 8888",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "8888",
+                "start": 49,
+                "end": 53
+            }
+        ]
+    },
+    {
+        "text": "নারী হেল্পলাইনের টিমমগস কি",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "নারী হেল্পলাইন",
+                "start": 0,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "text": "मैं बहुत चिंतित हूं, मैं अपने दोस्त को एमिली नहीं ढूंढ सकता। अब मुझे क्या करना चाहिए?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "एमिली",
+                "start": 39,
+                "end": 44
+            }
+        ]
+    },
+    {
+        "text": "என் கார் எண் ka03ha1985 ஆகும். கடைசியாக இருப்பிடம் என்னிடம் சொல்லுங்கள்?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ka03ha1985",
+                "start": 13,
+                "end": 23
+            }
+        ]
+    },
+    {
+        "text": "এটি 24 ঘন্টা হয়েছে, আমরা আমার গৃহবধূ রানী কোথাও খুঁজে পাচ্ছি না। আমাদের কি করা উচিৎ?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "রানী",
+                "start": 38,
+                "end": 42
+            }
+        ]
+    },
+    {
+        "text": "माझ्या एफआयआरचे उभे काय आहे. आयडी 6767 आहे",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6767",
+                "start": 34,
+                "end": 38
+            }
+        ]
+    },
+    {
+        "text": "कीने मेरी किए कएई कए केए आईडी 1234 ਹਾਂ",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "1234",
+                "start": 30,
+                "end": 34
+            }
+        ]
+    },
+    {
+        "text": "किती दिवसांपूर्वी माझा एफआयआर दाखला होता. आयडी 3333 आहे",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3333",
+                "start": 47,
+                "end": 51
+            }
+        ]
+    },
+    {
+        "text": "माझ्या खात्यातून नेटबँकिंग करताना फसवणूक झाली आहे. मी काय करू",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "नेटबँकिंग",
+                "start": 17,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "text": "i need to visit the ncib tomorrow. what time should i go",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncib",
+                "start": 20,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "text": "મારે શું કરવું જોઈએ, અમે મારા વિદ્યાર્થી એડમ જોન્સને ગમે ત્યાં શોધી શકતા નથી.",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train"
+    },
+    {
+        "text": "મેં 10 દિવસ પહેલા મારા નજીકના પોલીસ સ્ટેશન પર એફઆઈઆર ઉભા કર્યા. કૃપા કરીને મને સ્થિતિ સૂચિત કરો",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "મારી કાર નંબર ka03ha1985 છે. કૃપા કરીને મને છેલ્લું સ્થાન કહો?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ka03ha1985",
+                "start": 14,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "text": "ncw వద్ద సమయాలు ఏమిటి",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncw",
+                "start": 0,
+                "end": 3
+            }
+        ]
+    },
+    {
+        "text": "నేను ncw ను ఎప్పుడు సంప్రదించగలను?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncw",
+                "start": 5,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "text": "ਦਾ ਸਭ ਕੁਝ ਕੋਸ਼ੋ ਤੋਂ 'ਤੇ ਕਲਿੱਕ ਕਰੋ ईईसीमएस ए ਨੈਕਲਡੀ ਉੱਤੇ ਜੋਸ਼ ਹੋ. मुर्क ਕੀ ਹੈ?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "महिला हेलer",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "महिला हेलer",
+                "start": 0,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "text": "i raised an fir 10 days ago at my nearest police station. please notify me the status",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "నా మొబైల్ నంబర్ 9999999999. దయచేసి చివరి స్థానాన్ని చెప్పండి",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PhoneNumber",
+                "value": "9999999999",
+                "start": 16,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "text": "मैं किस समय राजीव चौक पुलिस स्टेशन जा सकता हूं",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "राजीव चौक पुलिस स्टेशन",
+                "start": 12,
+                "end": 34
+            }
+        ]
+    },
+    {
+        "text": "i recently made an online transaction, however more money has been reducted. what should i do?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "online transaction",
+                "start": 19,
+                "end": 37
+            }
+        ]
+    },
+    {
+        "text": "मपनि अपानी के पमेक क विवरहे है ज जी 4444 ਵਿੱਚ से मेआईड",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "4444",
+                "start": 36,
+                "end": 40
+            }
+        ]
+    },
+    {
+        "text": "ncw இல் உள்ள நேரம் என்ன?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncw",
+                "start": 0,
+                "end": 3
+            }
+        ]
+    },
+    {
+        "text": "it has been 24 hours, we cannot find my househelper rani anywhere. what shall we do?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "rani",
+                "start": 52,
+                "end": 56
+            }
+        ]
+    },
+    {
+        "text": "मी मायपुरी पोलीस ठाण्याचे काय वेळ देऊ शकेन.",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "मायपुरी",
+                "start": 3,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "text": "what should i do, we cannot find my student adam jones anywhere.",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "adam jones",
+                "start": 44,
+                "end": 54
+            }
+        ]
+    },
+    {
+        "text": "मी एक शाळा बस चालक आहे. गेल्या रात्री बस चोरी झाली आहे. क्रमांक प्लेट 99 99 99 99 आहे",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "99 99 99 99",
+                "start": 70,
+                "end": 81
+            },
+            {
+                "entity": "VehicleType",
+                "value": "शाळा बस",
+                "start": 6,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "text": "क्या मेरी एफआईआर के लिए कोई अपडेट हैं? आईडी 1234 है",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "1234",
+                "start": 44,
+                "end": 48
+            }
+        ]
+    },
+    {
+        "text": "मैंने अपने निकटतम पुलिस स्टेशन पर 10 दिन पहले प्राथमिकी की। कृपया मुझे स्थिति को सूचित करें",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "का मुझे निक सरकारीम नियवापत्ताल",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "सरकारीम नियवापत्ताल",
+                "start": 12,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "text": "నేను రేపు ncib ను సందర్శించాలి. నేను ఏ సమయంలో వెళ్ళాలి",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncib",
+                "start": 10,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "text": "నా పిన్కోడ్ 500049. నా సమీప పోలీసు స్టేషన్ ఎక్కడ ఉంది?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PinCode",
+                "value": "500049",
+                "start": 12,
+                "end": 18
+            }
+        ]
+    },
+    {
+        "text": "আমি গত রাতে আমার বাড়ির বাইরে আমার গাড়ী পার্ক করেছি। এখন এটা অনুপস্থিত। সাহায্য করুন. এটি একটি কালো রঙ হুন্ডাই এবং রেজিস্ট্রেশন নম্বর 78786666",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "7878666",
+                "start": 135,
+                "end": 142
+            },
+            {
+                "entity": "VehicleType",
+                "value": "হুন্ডাই",
+                "start": 104,
+                "end": 111
+            }
+        ]
+    },
+    {
+        "text": "હું હાલમાં કાલ્કજી મેટ્રો સ્ટેશનમાં છું. નજીકના પોલીસ સ્ટેશન ક્યાં છે",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "પોલીસ સ્ટેશન",
+                "start": 48,
+                "end": 60
+            }
+        ]
+    },
+    {
+        "text": "my car number is ka03ha1985. please tell me the last location?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ka03ha1985",
+                "start": 17,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "मेरा ट्विटर खाता हैक किया गया है। मेरा ट्विटर हैंडल @myname है। मैं उसे कैसे वापस पा सकता हूं?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "@myname",
+                "start": 52,
+                "end": 59
+            },
+            {
+                "entity": "Organization",
+                "value": "ट्विटर",
+                "start": 5,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "text": "আমার মোবাইল নম্বর 99999999999. আমাকে শেষ অবস্থান বলুন",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PhoneNumber",
+                "value": "99999999999",
+                "start": 18,
+                "end": 29
+            }
+        ]
+    },
+    {
+        "text": "i am so worrried, i cannot find my friend emily. what should i do now?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "emily",
+                "start": 42,
+                "end": 47
+            }
+        ]
+    },
+    {
+        "text": "ஜான் டோ என்ற பெயரிடப்பட்ட என் நண்பர் காணவில்லை. நான் ஒரு fir ஐ தாக்கல் செய்ய விரும்புகிறேன்",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "ஜான் டோ",
+                "start": 0,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "text": "माझा मोबाइल नंबर 99 99 99 99 99 आहे. कृपया मला शेवटचे स्थान सांगा",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PhoneNumber",
+                "value": "99 99 99 99 99",
+                "start": 17,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "text": "શું હું નજીકના સરકારી હોસ્પિટલમાં એપોઇન્ટમેન્ટ મેળવી શકું છું",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "સરકારી હોસ્પિટલ",
+                "start": 15,
+                "end": 30
+            }
+        ]
+    },
+    {
+        "text": "मी राजीव चौक पोलिस स्टेशनला कधी भेट देऊ शकेन?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "राजीव चौक पोलिस स्टेशन",
+                "start": 3,
+                "end": 25
+            }
+        ]
+    },
+    {
+        "text": "હું ખૂબ જ ચિંતિત છું, હું મારા મિત્ર એમિલી શોધી શકતો નથી. હવે મારે શું કરવું જોઈએ?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "એમિલી",
+                "start": 37,
+                "end": 42
+            }
+        ]
+    },
+    {
+        "text": "என் முகவரி டி பிளாக் ஜானக்பூரி ஆகும். பாஸ்போர்ட் சரிபார்ப்புக்கு யாராவது என்ன நேரம் வருவார்கள்?",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "મારા ટ્વિટર એકાઉન્ટને હેક કરવામાં આવ્યું છે. મારો ટ્વિટર હેન્ડલ @ મિનમ છે. હું તેને કેવી રીતે પાછો મેળવી શકું?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "@ મિનમ છે",
+                "start": 64,
+                "end": 73
+            }
+        ]
+    },
+    {
+        "text": "என் மொபைல் எண் 99999999999 ஆகும். கடைசியாக இருப்பிடத்தை சொல்லுங்கள்",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PhoneNumber",
+                "value": "9999999999",
+                "start": 15,
+                "end": 25
+            }
+        ]
+    },
+    {
+        "text": "నేను లాటరీ సేవ ద్వారా స్కామ్ చేయబడ్డాను. నేను ఫిర్యాదును ఫైల్ చేయాలనుకుంటున్నాను.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "లాటరీ",
+                "start": 5,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "text": "ncw সময় সময় কি কি",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncw",
+                "start": 0,
+                "end": 3
+            }
+        ]
+    },
+    {
+        "text": "एयसीब्द्द मेक",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "நான் சமீபத்தில் ஒரு ஆன்லைன் பரிவர்த்தனை செய்தேன், இருப்பினும் இன்னும் பணம் ஒதுக்கீடு செய்யப்பட்டுள்ளது. நான் என்ன செய்ய வேண்டும்?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ஆன்லைன் பரிவர்த்தனை",
+                "start": 20,
+                "end": 39
+            }
+        ]
+    },
+    {
+        "text": "मला लॉटरी सेवेद्वारे घोटाळा केला गेला आहे. मला तक्रार दाखल करायची आहे.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "लॉटरी",
+                "start": 4,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "text": "ਮੈਨੂੰ ਇਕਕੁਆਲਾ ਕੈਲ ਓਹ ਹਾਂ ਦੇ. ਭਾਸ਼ਾਵਾਂ 9999999",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "9999999",
+                "start": 38,
+                "end": 45
+            }
+        ]
+    },
+    {
+        "text": "मेरा क नरर к3ha1985 ਹਰੀ. कृपा मुझे असतिमेम स्टन बतां?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "к3ha1985",
+                "start": 11,
+                "end": 19
+            }
+        ]
+    },
+    {
+        "text": "मला माझ्या एफआयआर संबंधित तपशील जाणून घ्यायचे आहे, संबंधित आयडी 4444 आहे",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "4444",
+                "start": 64,
+                "end": 68
+            }
+        ]
+    },
+    {
+        "text": "ਨੈਟਵਰਕ ਪੂਗਤ ਖੇਤਰ ਖੇਤਰ मैँ",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "હું ncw ક્યારે સંપર્ક કરી શકું?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncw",
+                "start": 4,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "text": "मला उद्या एncib भेटण्याची गरज आहे. मी किती वेळ जाऊ?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncib",
+                "start": 11,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "text": "मुझे तत्काल राजीव चौक के पास एक केंद्र से ab -ve प्रकार के रक्त दान की आवश्यकता है",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "BloodType",
+                "value": "ab -ve",
+                "start": 42,
+                "end": 48
+            }
+        ]
+    },
+    {
+        "text": "my mobile number is 9999999999. please tell me the last location",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PhoneNumber",
+                "value": "9999999999",
+                "start": 20,
+                "end": 30
+            }
+        ]
+    },
+    {
+        "text": "मुझे पिछले कुछ दिनों से और कई एसएमएस के बाद से नकली कॉल मिल रही हैं। मुझे क्या करना चाहिए?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "नकली कॉल",
+                "start": 47,
+                "end": 55
+            }
+        ]
+    },
+    {
+        "text": "আমি আগামীকাল ncib পরিদর্শন করতে হবে। আমি কি সময় যেতে হবে",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncib",
+                "start": 13,
+                "end": 17
+            }
+        ]
+    },
+    {
+        "text": "நான் ஒரு பள்ளி பஸ் டிரைவர். பஸ் நேற்று இரவு திருடப்பட்டது. எண் தட்டு 9999999 ஆகும்",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "9999999",
+                "start": 69,
+                "end": 76
+            }
+        ]
+    },
+    {
+        "text": "సమీప ప్రభుత్వ ఆసుపత్రిలో నేను నియామకాన్ని పొందవచ్చా",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "ప్రభుత్వ ఆసుపత్రి",
+                "start": 5,
+                "end": 22
+            }
+        ]
+    },
+    {
+        "text": "আমি রাজীব চৌকির কাছে একটি কেন্দ্র থেকে একটি কেন্দ্র থেকে টাইপ এবিদের রক্ত ​​দান করার প্রয়োজন",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "রাজীব চৌক",
+                "start": 4,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "text": "ਮੇਰੇ ਤੋਂ ਬਾਅਦ ਦਾ ਕੰਮ ਪੂਰਾ 4 ਜਰੂਵਾਹ हा औ औ औ औ",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Age",
+                "value": "4",
+                "start": 26,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "मी अलीकडेच ऑनलाइन व्यवहार केला, तथापि अधिक पैसे पुन्हा चालू केले गेले. मी काय करू?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ऑनलाइन व्यवहार",
+                "start": 11,
+                "end": 25
+            }
+        ]
+    },
+    {
+        "text": "हैदराबाद पोलीस स्टेशन ओपन किती वाजता आहे?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "हैदराबाद पोलीस स्टेशन",
+                "start": 0,
+                "end": 21
+            }
+        ]
+    },
+    {
+        "text": "நான் ஒரு லாட்டரி சேவை மூலம் scammed. நான் புகார் பதிவு செய்ய வேண்டும்.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "லாட்டரி",
+                "start": 9,
+                "end": 16
+            }
+        ]
+    },
+    {
+        "text": "3 दिन अब और मेरी एफआईआर के खिलाफ कोई कार्रवाई नहीं की गई है। आईडी 9999 है। कृपया मुझे कोई अपडेट बताएं",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "9999",
+                "start": 66,
+                "end": 70
+            }
+        ]
+    },
+    {
+        "text": "आयडीसाठी मी माझ्या एफआयआरवर अद्यतन कधी मिळवू शकतो - 3232",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3232",
+                "start": 52,
+                "end": 56
+            }
+        ]
+    },
+    {
+        "text": "यह 24 घंटे हो गया है, हम कहीं भी मेरी हाउसहेलर रानी नहीं पा सकते हैं। हम क्या करेंगे?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "रानी",
+                "start": 47,
+                "end": 51
+            }
+        ]
+    },
+    {
+        "text": "હું મારી ફિર વિશેની વિગતો જાણવા માંગુ છું, સંબંધિત id 4444 છે",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "4444",
+                "start": 54,
+                "end": 58
+            }
+        ]
+    },
+    {
+        "text": "ਮਨਰਾਦਿਤਾ ਖੇਤਰ ਲਈ ਇਕੱਠਾ ਕਰਨ ਲਈ ਇਕੱਲਾ ਜਲੂਡ ਕਲਿਕ ਸੰਪਰਕਕੋਸ਼ ਲੋਕੋਈ आईडी 66662",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6666",
+                "start": 67,
+                "end": 71
+            }
+        ]
+    },
+    {
+        "text": "நான் ராஜீவ் chowk அருகே ஒரு மையத்தில் இருந்து வகை ab -ve இரத்த நன்கொடை அவசரமாக வேண்டும்",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "i am trying to find the status of my fir. please help. ",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "আমার ছাত্র অ্যাডাম জোন্স অনুপস্থিত। তিনি মাত্র 10 বছর বয়সী এবং 5 ইঞ্চি লম্বা",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "অ্যাডাম জোন্স",
+                "start": 11,
+                "end": 24
+            },
+            {
+                "entity": "Height",
+                "value": "5 ইঞ্চি",
+                "start": 64,
+                "end": 71
+            },
+            {
+                "entity": "Age",
+                "value": "10",
+                "start": 47,
+                "end": 49
+            }
+        ]
+    },
+    {
+        "text": "जॉन डोह नावाचा माझा मित्र गहाळ आहे. मला एफआयआर दाखवायचा आहे",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "जॉन डो",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "నా ఫిర్ను వ్యతిరేకంగా చర్య తీసుకోవటానికి ఎంత సమయం పడుతుంది. ఇది ఒక వారం. id 6666",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6666",
+                "start": 76,
+                "end": 80
+            }
+        ]
+    },
+    {
+        "text": "ਮੇਰੇ ਅੰਦਰਲੀ ਸਰਵਲੂ ਸਰਵਾਲਾ xa े मै िसें म ं मैंढ मींं मीं ढीं मुर्क ਕੀ ਹੈ? पंत्रिरण संख्य हैै 98765098765 ",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "98765098765",
+                "start": 92,
+                "end": 103
+            }
+        ]
+    },
+    {
+        "text": "நான் நாளை ncib ஐ பார்க்க வேண்டும். நான் என்ன நேரம் போக வேண்டும்",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncib",
+                "start": 10,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "text": "సిబిఐ నేడు నా భవనాన్ని సందర్శించబోతోంది, వారు ఏ సమయంలో వారు ఏమనుకుంటున్నారు?",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "আমি ab ইতিবাচক রক্ত ​​খুঁজছেন। সবচেয়ে কাছের কেন্দ্র কোথায়?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "BloodType",
+                "value": "ab ইতিবাচক",
+                "start": 4,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "text": "আমি একটি লটারি সেবা দ্বারা scammed হয়েছে। আমি একটি অভিযোগ দায়ের করতে চান।",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "লটারি",
+                "start": 9,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "text": "பேஸ்புக்கில் ஒரு சைபர் புகாரை நான் உயர்த்த வேண்டிய ஆவணங்கள் என்ன செய்ய வேண்டும். நான் கவலைப்படுகிறேன்",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "id - 3232 के लिए मुझे अपनी फ़िर पर अपडेट कब मिल सकता है",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3232",
+                "start": 5,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "text": "আমার ফির থাকা কি। আইডি 6767",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6767",
+                "start": 23,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "મારો પિનકોઇડ 500049 છે. મારા નજીકના પોલીસ સ્ટેશન ક્યાં છે?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "પોલીસ સ્ટેશન",
+                "start": 36,
+                "end": 48
+            }
+        ]
+    },
+    {
+        "text": "जन्ड ਨਾਮ ਦਾ ਨਾਮ ਦਾ तार है. मैफ़ िर दर्ज दाहता हना चشं",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train"
+    },
+    {
+        "text": "நான் 10 நாட்களுக்கு முன்பு என் அருகில் உள்ள பொலிஸ் நிலையத்தில் ஒரு பண்ணையில் எழுப்பினேன். எனக்கு நிலைமையை அறிவிக்கவும்",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "મારા ઇન્સ્ટાગ્રામ એકાઉન્ટને હેક કરવામાં આવ્યું છે, મારું એકાઉન્ટનું id john_doe છે. હું ફરિયાદ દાખલ કરવા માંગુ છું.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "john_doe",
+                "start": 71,
+                "end": 79
+            }
+        ]
+    },
+    {
+        "text": "મારી ફિર સામે પગલાં લેવા માટે કેટલો સમય લાગશે. તે એક અઠવાડિયા રહ્યો છે. આઈડી 6666 છે",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6666",
+                "start": 77,
+                "end": 81
+            }
+        ]
+    },
+    {
+        "text": "నేను ప్రస్తుతం కల్కాజీ మెట్రో స్టేషన్ వద్ద ఉన్నాను. సమీప పోలీసు స్టేషన్ ఎక్కడ ఉంది",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "मला जवळच्या सरकारी रुग्णालयात नियुक्ती मिळू शकेल का?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "सरकारी रुग्णालयात",
+                "start": 12,
+                "end": 29
+            }
+        ]
+    },
+    {
+        "text": "माझा कार क्रमांक ap28db1234 आहे. कृपया मला शेवटचे स्थान सांगा?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ap28db1234",
+                "start": 17,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "मेरा कार नंबर ka03ha1985 है। कृपया मुझे अंतिम स्थान बताएं?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ka03ha1985",
+                "start": 14,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "text": "আমি আমার নিকটতম পুলিশ স্টেশনে 10 দিন আগে একটি ফিরিয়ে আনি। আমাকে অবস্থা অবহিত করুন",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "my instagram account has been hacked, my account's id is john_doe. i want to file a complaint.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "instagram",
+                "start": 3,
+                "end": 12
+            },
+            {
+                "entity": "ID",
+                "value": "john_doe",
+                "start": 57,
+                "end": 65
+            }
+        ]
+    },
+    {
+        "text": "ফেসবুকে একটি সাইবার অভিযোগ বাড়াতে আমার কি নথিগুলি দরকার। আমি চিন্তিত আছি",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ফেসবুক",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "இது 24 மணி நேரமாகிவிட்டது, எங்கும் என் வீடமைப்பு ராணி கண்டுபிடிக்க முடியவில்லை. நாங்கள் என்ன செய்ய வேண்டும்?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "ராணி",
+                "start": 49,
+                "end": 53
+            }
+        ]
+    },
+    {
+        "text": "મેં તાજેતરમાં ઑનલાઇન ટ્રાન્ઝેક્શન કર્યું છે, જો કે વધુ પૈસા ઘટાડ્યા છે. મારે શું કરવું જોઈએ?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "আমি একটি স্কুল বাস ড্রাইভার। গত রাতে বাসটি চুরি হয়ে গেছে। সংখ্যা প্লেট 9999999",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "9999999",
+                "start": 72,
+                "end": 79
+            },
+            {
+                "entity": "VehicleType",
+                "value": "স্কুল বাস",
+                "start": 9,
+                "end": 18
+            }
+        ]
+    },
+    {
+        "text": "என்ன ஆவணங்கள் whatsapp ஒரு சைபர் புகார் உயர்த்த வேண்டும். நான் கவலைப்படுகிறேன்",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "whatsapp",
+                "start": 14,
+                "end": 22
+            }
+        ]
+    },
+    {
+        "text": "నా విద్యార్థి ఆడమ్ జోన్స్ లేదు. అతను కేవలం 10 సంవత్సరాలు మరియు 5 అంగుళాల పొడవు మాత్రమే",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Age",
+                "value": "10",
+                "start": 43,
+                "end": 45
+            },
+            {
+                "entity": "Name",
+                "value": "ఆడమ్ జోన్స్",
+                "start": 14,
+                "end": 25
+            },
+            {
+                "entity": "Height",
+                "value": "5 అంగుళాల",
+                "start": 63,
+                "end": 72
+            }
+        ]
+    },
+    {
+        "text": "ਮੈਂ जएएसएमल, ਦੀ ਛਪਾਕੀ 'ਤੇ ਕੰਮ. anज़दीक ਫਾਈਲ ਸੇਸੈੱਨ ਨਹੀਂ ਹੈ?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationFrom",
+                "value": "जएएसएमल, ਦੀ ਛਪਾਕੀ",
+                "start": 4,
+                "end": 21
+            }
+        ]
+    },
+    {
+        "text": "আমার লাল মারুতি গাড়ী অনুপস্থিত। আমি এখন কি করব. গাড়ী নম্বর 12341234",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "লাল",
+                "start": 5,
+                "end": 8
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "12341234",
+                "start": 61,
+                "end": 69
+            },
+            {
+                "entity": "VehicleType",
+                "value": "মারুতি",
+                "start": 9,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "text": "আমি গত কয়েক দিন থেকে এবং অনেক এসএমএস থেকে জাল কল পেয়েছি। আমার কি করা উচিৎ?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "জাল কল",
+                "start": 43,
+                "end": 49
+            }
+        ]
+    },
+    {
+        "text": "એનસીડબ્લ્યુમાં સમય શું છે",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "એનસીડબ્લ્યુ",
+                "start": 0,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "text": "నా ఖాతా నుండి netbanking ఉన్నప్పుడు ఒక మోసం ఉంది. నేను ఏమి చేస్తాను",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "netbanking",
+                "start": 14,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "text": "माझी पिनकोड 50004 9 आहे. माझे जवळचे पोलीस स्टेशन कुठे आहे?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "पोलीस स्टेशन",
+                "start": 36,
+                "end": 48
+            },
+            {
+                "entity": "PinCode",
+                "value": "50004 9",
+                "start": 12,
+                "end": 19
+            }
+        ]
+    },
+    {
+        "text": "ਵਿੱਚ ਅਸਲਸ਼ਾਹੇ ਤੇ ਪਿਆਰ ਨਹੀਂ मेनa खी हॉता आईडी जॉन_डो. ਮੈਂ शिकायत दर्जरता चांता हूं.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "ਅੰਦਰ ਦਾ ਕੰਮ, ॉॉम ं गालबैै. 22 32 ਸਲੂਬਾ 320 'ਤੇ. मल ਹੋਰ करँगा",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Age",
+                "value": "32",
+                "start": 30,
+                "end": 32
+            }
+        ]
+    },
+    {
+        "text": "நான் நேர்மறையான இரத்தத்தை தேடுகிறேன். அருகில் உள்ள மையம் எங்கே?",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "ਇਹ ਜਾਣਕਾਰੀ ਤੇ मैँ",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "મેં ગઇકાલે એફઆઈઆર ઉભા કર્યા. આઈડી 9998888 છે. સ્થિતિ શું છે?",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "999888",
+                "start": 34,
+                "end": 40
+            }
+        ]
+    },
+    {
+        "text": "ਮੱਤ ਦੇ ਤੌਰ 'ਤੇ घर घर के ेर्क पार्ी ਹੋਰ य य. मिजि मीजए. यकएकएक एक 7878666",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "7878666",
+                "start": 65,
+                "end": 72
+            }
+        ]
+    },
+    {
+        "text": "माझा भाऊ टॉम हंस, गहाळ आहे. तो 32 वर्षांचा आणि 5.10 इंच उंच आहे. मी काय करू?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Height",
+                "value": "5.10 इंच",
+                "start": 47,
+                "end": 55
+            },
+            {
+                "entity": "Name",
+                "value": "टॉम हंस",
+                "start": 9,
+                "end": 16
+            },
+            {
+                "entity": "Age",
+                "value": "32",
+                "start": 31,
+                "end": 33
+            }
+        ]
+    },
+    {
+        "text": "कितने दिन पहले मेरी प्राथमिकी दर्ज की गई थी। आईडी 3333 है",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3333",
+                "start": 50,
+                "end": 54
+            }
+        ]
+    },
+    {
+        "text": "હું મારી ફિરની સ્થિતિ શોધવાનો પ્રયાસ કરી રહ્યો છું. મેહરબાની કરી ને મદદ કરો.",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "3 दिवस आता माझ्या एफआयआर विरुद्ध कोणतीही कारवाई केली गेली नाही. आयडी 99 99 आहे. कृपया मला काही अद्यतने सांगा",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "99 99",
+                "start": 69,
+                "end": 74
+            }
+        ]
+    },
+    {
+        "text": "હું id માટે મારી ફિર પર અપડેટ ક્યારે મેળવી શકું - 3232",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3232",
+                "start": 50,
+                "end": 54
+            }
+        ]
+    },
+    {
+        "text": "ਮੇਰੇ ਅੰਦਰ ap28db1234 है है है है. कृपा मुझे असतिमेम स्टन बतां?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ap28db1234",
+                "start": 10,
+                "end": 20
+            }
+        ]
+    },
+    {
+        "text": "என் கார் எண் ap28db1234 ஆகும். கடைசியாக இருப்பிடம் என்னிடம் சொல்லுங்கள்?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ap28db1234",
+                "start": 13,
+                "end": 23
+            }
+        ]
+    },
+    {
+        "text": "ਮੇਰਾ मयापेपिसुतिस पुटेशन पर पर जर सर जर स क्रा कारन हसं.",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "আমার টুইটার একাউন্ট হ্যাক করা হয়েছে। আমার টুইটার হ্যান্ডেল @ মাইনাম। আমি কিভাবে এটা উদ্ধার করতে পারি?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "টুইটার",
+                "start": 5,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "text": "எத்தனை நாட்களுக்கு முன்பு என் விமானம் தாக்கல் செய்யப்பட்டது. ஐடி 3333 ஆகும்",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3333",
+                "start": 65,
+                "end": 69
+            }
+        ]
+    },
+    {
+        "text": "నా కారు సంఖ్య ap28db1234. దయచేసి చివరి స్థానాన్ని చెప్పండి?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ap28db1234.",
+                "start": 14,
+                "end": 25
+            }
+        ]
+    },
+    {
+        "text": "কত দিন আগে আমার ফির দাখিল ছিল। আইডি 3333",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3333",
+                "start": 36,
+                "end": 40
+            }
+        ]
+    },
+    {
+        "text": "என் சிவப்பு மாருதி கார் காணவில்லை. நான் என்ன செய்ய வேண்டும். கார் எண் 12341234 ஆகும்",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "12341234",
+                "start": 70,
+                "end": 78
+            },
+            {
+                "entity": "VehicleType",
+                "value": "மாருதி",
+                "start": 12,
+                "end": 18
+            }
+        ]
+    },
+    {
+        "text": "મારો મોબાઇલ નંબર 9999999999 છે. કૃપા કરીને મને છેલ્લું સ્થાન કહો",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PhoneNumber",
+                "value": "9999999999",
+                "start": 17,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "माझा कार नंबर का03hh1985 आहे. कृपया मला शेवटचे स्थान सांगा?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "का03hh1985",
+                "start": 14,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "text": "சிபிஐ இன்று என் கட்டிடத்தை சந்திக்கப் போகிறது, அவர்கள் என்ன நேரம் வருகிறார்கள்?",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "सिबीआई आ आ आ आ इमारी इमारत रारा रारा रा रा रा था था था था की का थ ाहिए ਤੱਕ?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "सिबीआई",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "நான் ஒரு பள்ளி பஸ் டிரைவர். பஸ் நேற்று இரவு திருடப்பட்டது. எண் தட்டு 9999999 ஆகும்",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train"
+    },
+    {
+        "text": "मै रस्य राजीस पुलिस पुलिस प्टेशन जरी",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "என் பின்னணியில் 500049. என் அருகில் உள்ள பொலிஸ் நிலையம் எங்கே?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PinCode",
+                "value": "500049",
+                "start": 16,
+                "end": 22
+            }
+        ]
+    },
+    {
+        "text": "ਪਾਥਰ ਵਿੱਚ ਸੰਪਰਕ ਕਰੋ कक ਰਹਿਰੇਰ ਦੀ ਕਸ਼ਤਕ (हैंडल @ ਸਾਈਨਾਮਈ ਹਾਂ मैं कसे कलासे कासे वासहस पासा सं??",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "મારા ઇન્સ્ટાગ્રામ એકાઉન્ટને હેક કરવામાં આવ્યું છે, મારું એકાઉન્ટનું id john_doe છે. હું ફરિયાદ દાખલ કરવા માંગુ છું.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "আমার আগমনের বিরুদ্ধে পদক্ষেপ নেওয়ার জন্য কতক্ষণ লাগবে। এটা এক সপ্তাহ হয়েছে। আইডি 6666",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6666",
+                "start": 83,
+                "end": 87
+            }
+        ]
+    },
+    {
+        "text": "હું જીએસએમ મૉલ, હૈદરાબાદ નજીક રહે છે. નજીકના પોલીસ સ્ટેશન ક્યાં છે?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationFrom",
+                "value": "જીએસએમ મૉલ, હૈદરાબાદ",
+                "start": 4,
+                "end": 24
+            },
+            {
+                "entity": "LocationTo",
+                "value": "પોલીસ સ્ટેશન",
+                "start": 45,
+                "end": 57
+            }
+        ]
+    },
+    {
+        "text": "मी इतका चिंतित आहे, मला माझा मित्र एमिली सापडत नाही. आता मी काय करावे?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "एमिली",
+                "start": 35,
+                "end": 40
+            }
+        ]
+    },
+    {
+        "text": "કેટલા દિવસ પહેલા મારી ફિર ફાઇલ કરવામાં આવી હતી. આઈડી 3333 છે",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3333",
+                "start": 53,
+                "end": 57
+            }
+        ]
+    },
+    {
+        "text": "माझे विद्यार्थी अॅडम जोन्स गहाळ आहे. तो केवळ 10 वर्षांचा आणि 5 इंच उंच आहे",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "अॅडम जोन्स",
+                "start": 16,
+                "end": 26
+            },
+            {
+                "entity": "Height",
+                "value": "5 इंच",
+                "start": 61,
+                "end": 66
+            },
+            {
+                "entity": "Age",
+                "value": "10",
+                "start": 45,
+                "end": 47
+            }
+        ]
+    },
+    {
+        "text": "হায়দ্রাবাদ থানার ওসি কি সময় খোলা?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "হায়দ্রাবাদ থানার",
+                "start": 0,
+                "end": 17
+            }
+        ]
+    },
+    {
+        "text": "what time can i visit mayapuri police station.",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "mayapuri",
+                "start": 22,
+                "end": 30
+            }
+        ]
+    },
+    {
+        "text": "నేను చాలా భయపడి ఉన్నాను, నా స్నేహితుడు ఎమిలీని కనుగొనలేకపోయాను. నేను ఇప్పుడు ఏమి చేయాలి?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "ఎమిలీ",
+                "start": 39,
+                "end": 44
+            }
+        ]
+    },
+    {
+        "text": "હું તાત્કાલિક રાજીવ ચોક નજીકના કેન્દ્રમાંથી ટાઇપ એબીના રક્ત દાનની જરૂર છે",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "રાજીવ ચોક",
+                "start": 14,
+                "end": 23
+            }
+        ]
+    },
+    {
+        "text": "when can i get an update on my fir for id - 3232",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3232",
+                "start": 44,
+                "end": 48
+            }
+        ]
+    },
+    {
+        "text": "कितने दन दिन मेश परी द्र्क حई गई थी. आईडी 333 ਹਾਂ",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "333",
+                "start": 42,
+                "end": 45
+            }
+        ]
+    },
+    {
+        "text": "whatsapp উপর একটি সাইবার অভিযোগ বাড়াতে আমি কি নথি প্রয়োজন। আমি চিন্তিত আছি",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "whatsapp",
+                "start": 0,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "text": "ਮੇਰੇ ਤੋਂ ਬਾਅਦ ਦਾ ਕੰਮ ਪੂਰਾ 4 ਜਰੂਵਾਹ हा औ औ औ औ",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train"
+    },
+    {
+        "text": "મહિલા હેલ્પલાઇન્સના ટિમિમ્સ શું છે",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "મહિલા હેલ્પલાઇન્સ",
+                "start": 0,
+                "end": 17
+            }
+        ]
+    },
+    {
+        "text": "3 நாட்களுக்கு இப்போது எந்த நடவடிக்கையும் எடுக்கப்படவில்லை. ஐடி 9999 ஆகும். எனக்கு எந்த புதுப்பிப்புகளையும் சொல்லுங்கள்",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "9999",
+                "start": 63,
+                "end": 67
+            }
+        ]
+    },
+    {
+        "text": "என் கணக்கிலிருந்து netbanking போது ஒரு மோசடி உள்ளது. நான் என்ன செய்ய வேண்டும்",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "i urgently need blood donation of type ab -ve from a center near rajiv chowk",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "rajiv chowk",
+                "start": 65,
+                "end": 76
+            },
+            {
+                "entity": "BloodType",
+                "value": "ab -ve",
+                "start": 39,
+                "end": 45
+            }
+        ]
+    },
+    {
+        "text": "నా సమీప పోలీసు స్టేషన్ వద్ద 10 రోజుల క్రితం నేను ఒక ఫిర్ను పెంచాను. నాకు స్థితిని తెలియజేయండి",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "my pincode is 500049. where is my nearest police station?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PinCode",
+                "value": "500049",
+                "start": 14,
+                "end": 20
+            },
+            {
+                "entity": "LocationTo",
+                "value": "police station",
+                "start": 42,
+                "end": 56
+            }
+        ]
+    },
+    {
+        "text": "मैं जीएसएम मॉल, हैदराबाद के पास रहता हूं। नज़दीकी पुलिस स्टेशन कहां है?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationFrom",
+                "value": "जीएसएम मॉल, हैदराबाद",
+                "start": 4,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "text": "గత రాత్రి నా ఇంటి వెలుపల నా కారుని నేను నిలబెట్టాను. ఇప్పుడు అది లేదు. దయచేసి సహాయం చెయ్యండి. ఇది ఒక నల్ల రంగు హ్యుందాయ్ మరియు రిజిస్ట్రేషన్ నంబర్ 78786666",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "7878666",
+                "start": 147,
+                "end": 154
+            },
+            {
+                "entity": "VehicleType",
+                "value": "హ్యుందాయ్",
+                "start": 111,
+                "end": 120
+            }
+        ]
+    },
+    {
+        "text": "my red maruti car is missing. what shall i do. car number is 12341234",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "red",
+                "start": 3,
+                "end": 6
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "12341234",
+                "start": 61,
+                "end": 69
+            }
+        ]
+    },
+    {
+        "text": "एनसीडब्ल्यूमध्ये वेळ काय आहेत",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "एनसीडब्ल्यू",
+                "start": 0,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "text": "मला राजीव चौक जवळ मध्यभागी ab -ve रक्तदान आवश्यक आहे.",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "BloodType",
+                "value": "ab -ve",
+                "start": 27,
+                "end": 33
+            },
+            {
+                "entity": "LocationTo",
+                "value": "राजीव चौक",
+                "start": 4,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "text": "ਵਾਪਸ. आईडी 9988888 ਐਚ. सथित ह य?",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "998888",
+                "start": 11,
+                "end": 17
+            }
+        ]
+    },
+    {
+        "text": "நேற்று இரவு என் வீட்டிற்கு வெளியே என் காரை நிறுத்தினேன். இப்போது அது காணவில்லை. தயவு செய்து உதவவும். இது ஒரு கருப்பு வண்ண ஹூண்டாய் மற்றும் பதிவு எண் 78786666 ஆகும்",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "7878666",
+                "start": 149,
+                "end": 156
+            },
+            {
+                "entity": "Color",
+                "value": "கருப்பு",
+                "start": 109,
+                "end": 116
+            }
+        ]
+    },
+    {
+        "text": "મારા ફિર સામે હવે 3 દિવસ અને કોઈ કાર્યવાહી કરવામાં આવી નથી. આઈડી 9999 છે. કૃપા કરીને મને કોઈપણ અપડેટ્સ કહો",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "9999",
+                "start": 65,
+                "end": 69
+            }
+        ]
+    },
+    {
+        "text": "મારી લાલ મારુતિ કાર ખૂટે છે. હું શું કરું. કાર નંબર 12341234 છે",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "12341234",
+                "start": 52,
+                "end": 60
+            },
+            {
+                "entity": "VehicleType",
+                "value": "મારુતિ",
+                "start": 9,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "text": "என் instagram கணக்கு ஹேக் செய்யப்பட்டது, என் கணக்கு ஐடி john_doe உள்ளது. நான் புகார் பதிவு செய்ய வேண்டும்.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "instagram",
+                "start": 4,
+                "end": 13
+            },
+            {
+                "entity": "ID",
+                "value": "john_doe",
+                "start": 56,
+                "end": 64
+            }
+        ]
+    },
+    {
+        "text": "আমি মেয়াদে পুলিশ স্টেশনে কি করতে পারি?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "পুলিশ স্টেশনে",
+                "start": 12,
+                "end": 25
+            }
+        ]
+    },
+    {
+        "text": "जॉन डो नामक मेरे दोस्त गायब हैं। मैं फ़िर दर्ज करना चाहता हूं",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "जॉन डो",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "i raised an fir yesterday. id is 999888. what is the status?",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "999888",
+                "start": 33,
+                "end": 39
+            }
+        ]
+    },
+    {
+        "text": "நான் என் ஃபிர் நிலையை கண்டுபிடிக்க முயற்சி செய்கிறேன். தயவு செய்து உதவவும்.",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "मेरा इंस्टाग्राम खाता हैक किया गया है, मेरा खाता आईडी जॉन_डो है। मैं शिकायत दर्ज करना चाहता हूं।",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "इंस्टाग्राम",
+                "start": 5,
+                "end": 16
+            },
+            {
+                "entity": "ID",
+                "value": "जॉन_डो",
+                "start": 54,
+                "end": 60
+            }
+        ]
+    },
+    {
+        "text": "my student adam jones is missing. he is only 10 years old and 5 inches tall",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "adam jones",
+                "start": 11,
+                "end": 21
+            },
+            {
+                "entity": "Age",
+                "value": "10",
+                "start": 45,
+                "end": 47
+            },
+            {
+                "entity": "Height",
+                "value": "5 inches",
+                "start": 62,
+                "end": 70
+            }
+        ]
+    },
+    {
+        "text": "काल रात्री मी माझ्या घराच्या बाहेर माझी कार पार्क केली. आता तो गहाळ आहे. कृपया मदत करा. हे एक काळा रंग आहे हुंडई आणि नोंदणी क्रमांक 78786666 आहे",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "हुंडई",
+                "start": 107,
+                "end": 112
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "7878666",
+                "start": 132,
+                "end": 139
+            },
+            {
+                "entity": "Color",
+                "value": "काळा",
+                "start": 94,
+                "end": 98
+            }
+        ]
+    },
+    {
+        "text": "আমি কখন ncw এনসিডব্লুকে যোগাযোগ করতে পারি?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncw",
+                "start": 8,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "text": "నా స్నేహితుడు, జాన్ డో అనే పేరు పెట్టారు. నేను ఒక ఫిర్ను ఫైల్ చేయాలనుకుంటున్నాను",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "జాన్ డో",
+                "start": 15,
+                "end": 22
+            }
+        ]
+    },
+    {
+        "text": "माझ्या एफआयआर विरुद्ध कारवाई करण्यासाठी किती वेळ लागेल. तो एक आठवडा आहे. आयडी 6666 आहे",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6666",
+                "start": 78,
+                "end": 82
+            }
+        ]
+    },
+    {
+        "text": "मैं अपनी एफआईआर की स्थिति खोजने की कोशिश कर रहा हूं। कृपया मदद कीजिए।",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "నా ఫిర్ యొక్క నిలబడి ఏమిటి. id 6767",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6767",
+                "start": 31,
+                "end": 35
+            }
+        ]
+    },
+    {
+        "text": "मैंने कल रात अपने घर के बाहर अपनी कार पार्क की। अब यह गायब है। कृपया मदद कीजिए। यह एक काला रंग हुंडई है और पंजीकरण संख्या 78786666 है",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "काला",
+                "start": 86,
+                "end": 90
+            },
+            {
+                "entity": "VehicleType",
+                "value": "हुंडई",
+                "start": 95,
+                "end": 100
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "78786666",
+                "start": 122,
+                "end": 130
+            }
+        ]
+    },
+    {
+        "text": "how long will it take for action to be taken against my fir. it has been one week. the id is 6666",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6666",
+                "start": 93,
+                "end": 97
+            }
+        ]
+    },
+    {
+        "text": "என் பின்னணியில் 500049. என் அருகில் உள்ள பொலிஸ் நிலையம் எங்கே?",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "હૈદરાબાદ પોલીસ સ્ટેશન ક્યારે ખુલ્લું છે?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "હૈદરાબાદ પોલીસ સ્ટેશન",
+                "start": 0,
+                "end": 21
+            }
+        ]
+    },
+    {
+        "text": "मेरी फ़िर का खड़ा क्या है। आईडी 6767 है",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6767",
+                "start": 32,
+                "end": 36
+            }
+        ]
+    },
+    {
+        "text": "நான் மிகவும் கவலைப்படுகிறேன், என் நண்பர் எமிலி கண்டுபிடிக்க முடியவில்லை. நான் இப்போது என்ன செய்ய வேண்டும்?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "எமிலி",
+                "start": 41,
+                "end": 46
+            }
+        ]
+    },
+    {
+        "text": "హైదరాబాద్, జిమ్ మాల్ సమీపంలో నేను నివసిస్తున్నాను. సమీప పోలీసు స్టేషన్ ఎక్కడ ఉంది?",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "আমি আমার ফিরির অবস্থা খুঁজে বের করার চেষ্টা করছি। সাহায্য করুন.",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "i parked my car outside my house last night. now it is missing. please help. it is a black color hyundai and the registration number is 78786666",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "hyundai",
+                "start": 97,
+                "end": 104
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "7878666",
+                "start": 136,
+                "end": 143
+            },
+            {
+                "entity": "Color",
+                "value": "black",
+                "start": 85,
+                "end": 90
+            }
+        ]
+    },
+    {
+        "text": "what documents do i need to raise a cyber complaint on whatsapp. i am worried",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "whatsapp",
+                "start": 55,
+                "end": 63
+            }
+        ]
+    },
+    {
+        "text": "मैंने हाल ही में एक ऑनलाइन लेनदेन किया है, हालांकि अधिक पैसा कम कर दिया गया है। मुझे क्या करना चाहिए?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ऑनलाइन लेनदेन",
+                "start": 20,
+                "end": 33
+            }
+        ]
+    },
+    {
+        "text": "मैं मायापुरी पुलिस स्टेशन पर किस समय जा सकता हूं।",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "मायापुरी",
+                "start": 4,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "text": "பெண்களின் ஒளிபரப்புகள் என்ன?",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "హైదరాబాద్ పోలీస్ స్టేషన్ ఏ సమయంలో తెరిచింది?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "హైదరాబాద్ పోలీస్ స్టేషన్",
+                "start": 0,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "text": "ततत्काल",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "मुझे लॉटरी सेवा द्वारा घोटाला दिया गया है। मैं शिकायत दर्ज करना चाहता हूं।",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "लॉटरी",
+                "start": 5,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "text": "నా ట్విట్టర్ ఖాతా హ్యాక్ చేయబడింది. నా ట్విట్టర్ హ్యాండిల్ @myname. నేను దానిని ఎలా తిరిగి పొందగలను?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ట్విట్టర్",
+                "start": 3,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "text": "3 দিন এখন এবং আমার ফিরিয়ার বিরুদ্ধে কোন ব্যবস্থা নেয়া হয়নি। আইডি 9999. আমাকে কোন আপডেট বলুন",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "9999",
+                "start": 68,
+                "end": 72
+            }
+        ]
+    },
+    {
+        "text": "ਕਰ ਹੋਰ ਇੰਦ ਪ੍ਰਾਪਤ ਕਰੋ आईडी 8888 ਹਾ",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "8888",
+                "start": 27,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "text": "నా instagram ఖాతా హ్యాక్ చేయబడింది, నా ఖాతా యొక్క id john_doe. నేను ఫిర్యాదును ఫైల్ చేయాలనుకుంటున్నాను.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "instagram",
+                "start": 3,
+                "end": 12
+            },
+            {
+                "entity": "ID",
+                "value": "instagram",
+                "start": 3,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "text": "ఇది 24 గంటలు, మేము ఎక్కడైనా నా గృహనిర్మాణ రాణిని కనుగొనలేకపోయాము. మనం ఏంచేద్దాం?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "రాణి",
+                "start": 42,
+                "end": 46
+            }
+        ]
+    },
+    {
+        "text": "મારા ખાતામાંથી નેટબેન્કિંગ કરતી વખતે કપટ છે. હું શું કરું",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "નેટબેન્કિંગ",
+                "start": 15,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "text": "నేను నిన్న ఒక ఫిర్ను పెంచాను. id 999888. స్థితి ఏమిటి?",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "999888",
+                "start": 33,
+                "end": 39
+            }
+        ]
+    },
+    {
+        "text": "my address is d block janakpuri. what time will someone come for passport verification?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "d block janakpuri",
+                "start": 14,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "text": "আমার গাড়ী নম্বর ap28db1234 হয়। আমাকে শেষ অবস্থান বলুন?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ap28db1234",
+                "start": 17,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "હું એક શાળા બસ ડ્રાઈવર છું. ગઈકાલે બસ ચોરી થઈ ગઈ છે. નંબર પ્લેટ 9999999 છે",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "શાળા બસ",
+                "start": 7,
+                "end": 14
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "9999999",
+                "start": 64,
+                "end": 71
+            }
+        ]
+    },
+    {
+        "text": "i want to know the details regarding my fir, the related id is 4444",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "4444",
+                "start": 63,
+                "end": 67
+            }
+        ]
+    },
+    {
+        "text": "mॉे लॉटॉट्ी सेटा ਦਵਾਈ ਦਰਾ ਹੈ ਮੈਂ शिकायत दर्जरता चांता हूं.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "நான் அருகில் உள்ள அரசாங்க மருத்துவமனையில் ஒரு சந்திப்பு பெற முடியும்",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "मैं अपनी प्राथमिकी के बारे में विवरण जानना चाहता हूं, संबंधित आईडी 4444 है",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "4444",
+                "start": 67,
+                "end": 71
+            }
+        ]
+    },
+    {
+        "text": "நான் என்ன செய்ய வேண்டும், என் மாணவர் ஆடம் ஜோன்ஸ் எங்கும் காண முடியாது.",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "ஆடம் ஜோன்ஸ்",
+                "start": 37,
+                "end": 48
+            }
+        ]
+    },
+    {
+        "text": "મારું સરનામું ડી બ્લોક જનકપુરી છે. પાસપોર્ટ ચકાસણી માટે કોઈ ક્યારે આવશે?",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "आपण मला माझ्या एफआयआर वर कोणतीही स्थिती अद्यतने देऊ शकता. आयडी 8888 आहे",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "8888",
+                "start": 63,
+                "end": 67
+            }
+        ]
+    },
+    {
+        "text": "હું માયાપુરી પોલીસ સ્ટેશનનો કેટલો સમય આવી શકું છું.",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "માયાપુરી",
+                "start": 4,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "text": "माझा पत्ता जेकपुरी ब्लॉक करतो. पासपोर्ट सत्यापनासाठी कोणीतरी वेळ येईल?",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "मेरा मोबाइल नंबर 999999999 है। कृपया मुझे अंतिम स्थान बताएं",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PhoneNumber",
+                "value": "999999999",
+                "start": 17,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "text": "मी माझ्या जवळच्या पोलिस स्टेशनवर 10 दिवसांपूर्वी एफआयआर वाढवला. कृपया मला स्थिती सूचित करा",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "i have been receiving fake calls since the past few days and also several sms. what should i do?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "fake calls",
+                "start": 22,
+                "end": 32
+            }
+        ]
+    },
+    {
+        "text": "व्हाट्सएपवर सायबर तक्रार करण्यासाठी मला कोणत्या कागदपत्रांची आवश्यकता आहे. मला काळजी वाटते",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "व्हाट्सएप",
+                "start": 0,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "text": "मी काल एक एफर्फ वाढविले. आयडी 99 888 आहे. स्थिती काय आहे?",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "99 888",
+                "start": 30,
+                "end": 36
+            }
+        ]
+    },
+    {
+        "text": "நான் எப்போது ncw ஐ தொடர்பு கொள்ளலாம்?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncw",
+                "start": 13,
+                "end": 16
+            }
+        ]
+    },
+    {
+        "text": "મારા ફિરની સ્થાયી શું છે. આઈડી 6767 છે",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6767",
+                "start": 31,
+                "end": 35
+            }
+        ]
+    },
+    {
+        "text": "என் எரிபொருளின் நின்று என்ன? ஐடி 6767 ஆகும்",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6767",
+                "start": 33,
+                "end": 37
+            }
+        ]
+    },
+    {
+        "text": "फेसबुक पर साइबर शिकायत बढ़ाने के लिए मुझे किन दस्तावेजों की आवश्यकता है। मैं चिंतित हूँ",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "फेसबुक",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "મને આવતીકાલે એનસીઆઈબીની મુલાકાત લેવાની જરૂર છે. હું કયા સમયે જવા માંગું છું",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "আমি খুবই চিন্তিত, আমি আমার বন্ধু এমিলি খুঁজে পাচ্ছি না। আমি এখন কি করতে হবে?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "এমিলি",
+                "start": 33,
+                "end": 38
+            }
+        ]
+    },
+    {
+        "text": "मुझे भी ची अएड ह ह",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train"
+    },
+    {
+        "text": "મારા ફિર માટે કોઈ અપડેટ્સ છે? આઈડી 1234 છે",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "1234",
+                "start": 35,
+                "end": 39
+            }
+        ]
+    },
+    {
+        "text": "என் சகோதரன், டாம் ஸ்வான், காணவில்லை. அவர் 32 வயது மற்றும் 5.10 அங்குல உயரம். நான் என்ன செய்ய வேண்டும்?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "டாம் ஸ்வான்",
+                "start": 13,
+                "end": 24
+            },
+            {
+                "entity": "Age",
+                "value": "32",
+                "start": 42,
+                "end": 44
+            },
+            {
+                "entity": "Height",
+                "value": "5.10 அங்குல",
+                "start": 58,
+                "end": 69
+            }
+        ]
+    },
+    {
+        "text": "ਮੈਂ ਬਾਇਹੁਤ ਧਰਮ ਅਵਸੂ. ਹੋਰ ਕੀ ਕਰਨ ਲਈ?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "ਧਰਮ",
+                "start": 11,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "text": "నేను ఇటీవల ఆన్లైన్ లావాదేవీని చేసాను, అయితే ఎక్కువ డబ్బు తగ్గించబడింది. నేనేం చేయాలి?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ఆన్లైన్ లావాదేవీ",
+                "start": 11,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "నా ఫిర్ గురించి వివరాలను తెలుసుకోవాలనుకుంటున్నాను, సంబంధిత id 4444",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "4444",
+                "start": 62,
+                "end": 66
+            }
+        ]
+    },
+    {
+        "text": "আমি সম্প্রতি একটি অনলাইন লেনদেন তৈরি, তবে আরো অর্থ reducted হয়েছে। আমার কি করা উচিৎ?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "অনলাইন লেনদেন",
+                "start": 18,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "text": "నా ఎరుపు మారుతి కారు లేదు. నేను ఏమి చేస్తాను. కారు సంఖ్య 12341234",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "12341234",
+                "start": 57,
+                "end": 65
+            }
+        ]
+    },
+    {
+        "text": "મારા ટ્વિટર એકાઉન્ટને હેક કરવામાં આવ્યું છે. મારો ટ્વિટર હેન્ડલ @ મિનમ છે. હું તેને કેવી રીતે પાછો મેળવી શકું?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "मी एनसीडब्ल्यू कधीशी संपर्क साधू शकतो?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "एनसीडब्ल्यू",
+                "start": 3,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "text": "என் எரிபொருளுக்கு எதிராக நடவடிக்கை எடுக்க எவ்வளவு காலம் எடுக்கும். இது ஒரு வாரம். ஐடி 6666 ஆகும்",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6666",
+                "start": 86,
+                "end": 90
+            }
+        ]
+    },
+    {
+        "text": "నేను ఒక పాఠశాల బస్సు డ్రైవర్. బస్సు గత రాత్రి దొంగిలించబడింది. సంఖ్య ప్లేట్ 9999999",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "9999999",
+                "start": 76,
+                "end": 83
+            }
+        ]
+    },
+    {
+        "text": "there has been a fraud while netbanking from my account. what shall i do",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "netbanking",
+                "start": 29,
+                "end": 39
+            }
+        ]
+    },
+    {
+        "text": "ਹੰਦਰ ਨਿ हियोडडडड 500049 'ਤੇ 500049. ਮੇਰੇ ਨਾਲ निकासतम ਆਟਸੁਏਸਨ ਕੌਣ ਹੈ",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "ਮੇਰੇ ਨਾਲ",
+                "start": 36,
+                "end": 44
+            },
+            {
+                "entity": "PinCode",
+                "value": "500049",
+                "start": 17,
+                "end": 23
+            }
+        ]
+    },
+    {
+        "text": "मेरी लाल मारुति कार गायब है। मैं क्या करूँगा। कार संख्या 12341234 है",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "लाल",
+                "start": 5,
+                "end": 8
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "12341234",
+                "start": 57,
+                "end": 65
+            }
+        ]
+    },
+    {
+        "text": "मुझे क्या करना चाहिए, हम कहीं भी अपने छात्र एडम जोन्स नहीं पा सकते हैं।",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "एडम जोन्स",
+                "start": 44,
+                "end": 53
+            }
+        ]
+    },
+    {
+        "text": "what documents do i need to raise a cyber complaint on facebook. i am worried",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "facebook",
+                "start": 55,
+                "end": 63
+            }
+        ]
+    },
+    {
+        "text": "ਮੱਤ ਦੇ ਤੌਰ 'ਤੇ घर घर के ेर्क पार्ी ਹੋਰ य य. मिजि मीजए. यकएकएक एक",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train"
+    },
+    {
+        "text": "நான் கண்டுபிடிக்க முடியாத ஒரு நீல செயல்பாடு ஸ்கூட்டி உள்ளது. நான் என்ன செய்ய வேண்டும்? பதிவு எண் 98765098765 ஆகும்",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "நீல",
+                "start": 30,
+                "end": 33
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "98765098765",
+                "start": 97,
+                "end": 108
+            }
+        ]
+    },
+    {
+        "text": "10 निकेकाने निकाकमेटलेस पर्टेशन पर 10र 10 10 ਰਾਤ ਜਾਉ. ਕੰਮ",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "నా కారు సంఖ్య ka03ha1985. దయచేసి చివరి స్థానాన్ని చెప్పండి?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ka03ha1985.",
+                "start": 14,
+                "end": 25
+            }
+        ]
+    },
+    {
+        "text": "என் ஃபிர் எந்த மேம்படுத்தல்கள் உள்ளன? ஐடி 1234 ஆகும்",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "1234",
+                "start": 42,
+                "end": 46
+            }
+        ]
+    },
+    {
+        "text": "আমি আমার ফির সম্পর্কে বিস্তারিত জানতে চাই, সম্পর্কিত আইডি 4444",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "4444",
+                "start": 58,
+                "end": 62
+            }
+        ]
+    },
+    {
+        "text": "ਜਾਂ ਨੁਕਸਾਨਾਂ ਦੀ ਤਸਵੀਰ ਲਈ?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "ਨੁਕਸਾਨਾਂ",
+                "start": 4,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "text": "माझे ट्विटर खाते हॅक केले गेले आहे. माझे ट्विटर हँडल @myname आहे. मी ते कसे पुनर्प्राप्त करू शकेन?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ट्विटर",
+                "start": 5,
+                "end": 11
+            },
+            {
+                "entity": "ID",
+                "value": "@myname",
+                "start": 53,
+                "end": 60
+            }
+        ]
+    },
+    {
+        "text": "what are the timimgs of the women helplines",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "women helplines",
+                "start": 28,
+                "end": 43
+            }
+        ]
+    },
+    {
+        "text": "मैंने कल प्राथमिकी की। आईडी 998888 है। स्थिति क्या है?",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "998888",
+                "start": 28,
+                "end": 34
+            }
+        ]
+    },
+    {
+        "text": "सीबीआई आज मेरी इमारत का दौरा करने जा रहा था, उन्हें किस समय तक पहुंचना चाहिए?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "सीबीआई",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "আমি একটি নীল activa স্কুটি আছে যা আমি খুঁজে পাচ্ছি না। আমার কি করা উচিৎ? নিবন্ধন নম্বর 98765098765",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "নীল",
+                "start": 9,
+                "end": 12
+            },
+            {
+                "entity": "VehicleType",
+                "value": "activa স্কুটি",
+                "start": 13,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "text": "3 రోజులు ఇప్పుడు మరియు నా ఫిర్ మీద చర్య తీసుకోలేదు. id 9999. దయచేసి ఏ నవీకరణలను చెప్పండి",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "9999",
+                "start": 55,
+                "end": 59
+            }
+        ]
+    },
+    {
+        "text": "what time is the hyderabad police station open?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "hyderabad police station",
+                "start": 17,
+                "end": 41
+            }
+        ]
+    },
+    {
+        "text": "என் ஃபிர் பற்றிய விவரங்களை அறிய விரும்புகிறேன், தொடர்புடைய ஐடி 4444 ஆகும்",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "4444",
+                "start": 63,
+                "end": 67
+            }
+        ]
+    },
+    {
+        "text": "सीबीआय आज माझ्या इमारतीला भेट देणार होता, ते कोणत्या वेळी येतात?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "सीबीआय",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "मेरा कार नंबर ap28db1234 है। कृपया मुझे अंतिम स्थान बताएं?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ap28db1234",
+                "start": 14,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "text": "கடந்த சில நாட்களிலிருந்து நான் போலி அழைப்புகளை பெற்றுள்ளேன், மேலும் பல எஸ்எம்எஸ். நான் என்ன செய்ய வேண்டும்?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "મારી કાર નંબર એપી 28 ડીબી 1234 છે. કૃપા કરીને મને છેલ્લું સ્થાન કહો?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "એપી 28 ડીબી 1234",
+                "start": 14,
+                "end": 30
+            }
+        ]
+    },
+    {
+        "text": "माझ्याकडे एक निळा क्रिया स्कूटी आहे जो मला सापडत नाही. मी काय करू? नोंदणी क्रमांक 98765098765 आहे",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "निळा",
+                "start": 13,
+                "end": 17
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "98765098765",
+                "start": 82,
+                "end": 93
+            }
+        ]
+    },
+    {
+        "text": "मेरी एफआईआर के खिलाफ कार्रवाई के लिए कितना समय लगेगा। एक सप्ताह हो गया है। आईडी 6666 है",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6666",
+                "start": 80,
+                "end": 84
+            }
+        ]
+    },
+    {
+        "text": "আমার ঠিকানা ডি ব্লক জনকপুরি। কেউ কি পাসপোর্ট যাচাইয়ের জন্য আসবে?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "ডি ব্লক জনকপুরি",
+                "start": 12,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "मुझेल एनसीआईबी जा जान जाने जान मुझे x",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "एनसीआईबी",
+                "start": 6,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "text": "मी सध्या कालकाजी मेट्रो स्टेशनवर आहे. जवळचे पोलीस स्टेशन कुठे आहे",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "पोलीस स्टेशन",
+                "start": 44,
+                "end": 56
+            },
+            {
+                "entity": "LocationFrom",
+                "value": "कालकाजी मेट्रो स्टेशन",
+                "start": 9,
+                "end": 30
+            }
+        ]
+    },
+    {
+        "text": "ਵਿੱਚ ਸਰਾਇਲ ਟੈਕਸੁ ਹੋ ਪਿਤਾ ਕੀ ਕਾਜਤਾ कार सखर 12341234 हैै",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "12341234",
+                "start": 42,
+                "end": 50
+            },
+            {
+                "entity": "Color",
+                "value": "ਸਰਾਇਲ",
+                "start": 5,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "text": "ਵਿੱਚ ਸਰਾਇਲ ਟੈਕਸੁ ਹੋ ਪਿਤਾ ਕੀ ਕਾਜਤਾ कार सखर 12341234 हैै",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "ਸਰਾਇਲ",
+                "start": 5,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "text": "నేను గత కొన్ని రోజులు మరియు అనేక sms నుండి నకిలీ కాల్స్ స్వీకరించడం జరిగింది. నేనేం చేయాలి?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "నకిలీ కాల్స్",
+                "start": 43,
+                "end": 55
+            }
+        ]
+    },
+    {
+        "text": "i am a school bus driver. the bus has been stolen last night. the number plate is 9999999",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "school bus",
+                "start": 7,
+                "end": 17
+            }
+        ]
+    },
+    {
+        "text": "મારી પાસે વાદળી એક્ટકા સ્કૂટી છે જે હું શોધી શકતો નથી. મારે શું કરવું જોઈએ? નોંધણી નંબર 98765098765 છે",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "વાદળી",
+                "start": 10,
+                "end": 15
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "98765098765",
+                "start": 88,
+                "end": 99
+            }
+        ]
+    },
+    {
+        "text": "আমি বর্তমানে কলকাজি মেট্রো স্টেশনে আছি। সবচেয়ে কাছের পুলিশ স্টেশন কোথায়",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "मैं एक स्कूल बस चालक हूं। कल रात बस चोरी हो गई है। संख्या प्लेट 999999 है",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "स्कूल बस",
+                "start": 7,
+                "end": 15
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "999999",
+                "start": 64,
+                "end": 70
+            }
+        ]
+    },
+    {
+        "text": "मेरा पता डी ब्लॉक जनकपुरी है। पासपोर्ट सत्यापन के लिए कोई समय क्या होगा?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "डी ब्लॉक जनकपुरी",
+                "start": 9,
+                "end": 25
+            }
+        ]
+    },
+    {
+        "text": "मेरा मोबाइल नंबर 999999999 है. काृा मुझे अ सतिम स्शान बतांतर",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PhoneNumber",
+                "value": "999999999",
+                "start": 17,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "text": "હું રાજીવ ચોક પોલીસ સ્ટેશનની મુલાકાત લઈ શકું છું",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "રાજીવ ચોક પોલીસ સ્ટેશન",
+                "start": 4,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "text": "what is the standing of my fir. the id is 6767",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6767",
+                "start": 42,
+                "end": 46
+            }
+        ]
+    },
+    {
+        "text": "ਮੈਂ ਹਾਂ ਹਾਂ ਵਿਚ एऑऑन ਲਾਂਨਾ ਲੋਨ ਪੈਨਲ ਹਾਂ, ਜੋ ਕਿ ਦੋ ਵਾਰ ਹਾਂ. मुर्क ਕੀ ਹੈ?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train"
+    },
+    {
+        "text": "నేను రాజీవ్ చౌక్ సమీపంలో ఒక కేంద్రం నుండి రక్తం యొక్క రక్తం విరాళం అవసరం",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "రాజీవ్ చౌక్",
+                "start": 5,
+                "end": 16
+            }
+        ]
+    },
+    {
+        "text": "আপনি আমার ফিরতে কোন অবস্থা আপডেট দিতে পারেন। আইডি 8888",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "8888",
+                "start": 50,
+                "end": 54
+            }
+        ]
+    },
+    {
+        "text": "મારો વિદ્યાર્થી આદમ જોન્સ ખૂટે છે. તે માત્ર 10 વર્ષનો છે અને 5 ઇંચ લાંબો છે",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Age",
+                "value": "10",
+                "start": 44,
+                "end": 46
+            },
+            {
+                "entity": "Name",
+                "value": "આદમ જોન્સ",
+                "start": 16,
+                "end": 25
+            },
+            {
+                "entity": "Height",
+                "value": "5 ઇંચ",
+                "start": 61,
+                "end": 66
+            }
+        ]
+    },
+    {
+        "text": "ఎన్ని రోజుల క్రితం నా ఫిర్ దాఖలు చేయబడింది. id 3333",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3333",
+                "start": 47,
+                "end": 51
+            }
+        ]
+    },
+    {
+        "text": "আমার গাড়ী নম্বর ka03ha1985 হয়। আমাকে শেষ অবস্থান বলুন?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "ka03ha1985",
+                "start": 17,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "3 ਦਿਨ ਹੁਣ ਅਤੇ ਰਹਿਰਦਾ ਫਿਰਦਾ एफआईआीी ईई हीं आईडी 9999 है. काई अपेट क बतां",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "9999",
+                "start": 47,
+                "end": 51
+            }
+        ]
+    },
+    {
+        "text": "জন ডো নামক আমার বন্ধু, অনুপস্থিত। আমি একটি ফির ফাইল করতে চান",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "জন ডো",
+                "start": 0,
+                "end": 5
+            }
+        ]
+    },
+    {
+        "text": "என் ட்விட்டர் கணக்கு ஹேக் செய்யப்பட்டது. என் ட்விட்டர் கைப்பிடி @myname ஆகும். நான் எப்படி அதை மீட்டெடுக்க முடியும்?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ட்விட்டர்",
+                "start": 4,
+                "end": 13
+            },
+            {
+                "entity": "ID",
+                "value": "@myname",
+                "start": 64,
+                "end": 71
+            }
+        ]
+    },
+    {
+        "text": "i am looking for ab positive blood. where is the nearest center?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "BloodType",
+                "value": "ab positive",
+                "start": 17,
+                "end": 28
+            }
+        ]
+    },
+    {
+        "text": "माझे लाल मारुती कार गहाळ आहे. मी काय करू. कार क्रमांक 12341234 आहे",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "मारुती",
+                "start": 9,
+                "end": 15
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "12341234",
+                "start": 54,
+                "end": 62
+            },
+            {
+                "entity": "Color",
+                "value": "लाल",
+                "start": 5,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "text": "আমার পিনকোড 500049. আমার নিকটতম পুলিশ স্টেশন কোথায়?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "নিকটতম পুলিশ",
+                "start": 25,
+                "end": 37
+            },
+            {
+                "entity": "PinCode",
+                "value": "500049",
+                "start": 12,
+                "end": 18
+            }
+        ]
+    },
+    {
+        "text": "मेरे पास एक नीली सक्रियता स्कूटी है जिसे मैं नहीं ढूंढ सकता। मुझे क्या करना चाहिए? पंजीकरण संख्या 98765098765 है",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Color",
+                "value": "नीली",
+                "start": 12,
+                "end": 16
+            },
+            {
+                "entity": "VehicleType",
+                "value": "सक्रियता स्कूटी",
+                "start": 17,
+                "end": 32
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "98765098765",
+                "start": 98,
+                "end": 109
+            }
+        ]
+    },
+    {
+        "text": "আমার instagram অ্যাকাউন্ট হ্যাক করা হয়েছে, আমার অ্যাকাউন্টের আইডি জন_ডো। আমি একটি অভিযোগ দায়ের করতে চান।",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "instagram",
+                "start": 5,
+                "end": 14
+            },
+            {
+                "entity": "ID",
+                "value": "জন_ডো",
+                "start": 67,
+                "end": 72
+            }
+        ]
+    },
+    {
+        "text": "माझे instagram खाते हॅक झाले आहे, माझे खाते आयडी john_doe आहे. मला तक्रार दाखल करायची आहे.",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "john_doe",
+                "start": 49,
+                "end": 57
+            },
+            {
+                "entity": "Organization",
+                "value": "instagram",
+                "start": 5,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "text": "நான் தற்போது கல்காஜி மெட்ரோ நிலையத்தில் இருக்கிறேன். அருகில் உள்ள பொலிஸ் நிலையம் எங்கே உள்ளது?",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "ਯਾਦ ਕਰੋ ਕੀ ਹਿਆਈ ਹੈ आईडी 6767 ਹਾ",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "6767",
+                "start": 24,
+                "end": 28
+            }
+        ]
+    },
+    {
+        "text": "एनसीडब्ल्यू में क्या समय हैं",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "एनसीडब्ल्यू",
+                "start": 0,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "text": "मैं वर्तमान में कलकाजी मेट्रो स्टेशन पर हूं। नज़दीकी पुलिस स्टेशन कहां है",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationFrom",
+                "value": "कलकाजी मेट्रो स्टेशन",
+                "start": 16,
+                "end": 36
+            },
+            {
+                "entity": "LocationTo",
+                "value": "पुलिस स्टेशन",
+                "start": 53,
+                "end": 65
+            }
+        ]
+    },
+    {
+        "text": "ਮੇਰੇ ਕੋਲ ਕੀ ब्लॉक जान्क्रीके. पासपोटાट कोई कईई समो होगा?",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "நான் ஜிஎஸ்எம் மால் அருகே வாழ்கிறேன், ஹைதராபாத். அருகில் உள்ள பொலிஸ் நிலையம் எங்கே?",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "मुझे तत्काल राजीव चौक के पास एक केंद्र से ab +ve प्रकार के रक्त दान की आवश्यकता है",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "BloodType",
+                "value": "ab +ve",
+                "start": 42,
+                "end": 48
+            }
+        ]
+    },
+    {
+        "text": "3232 ஐ என் ஃபிர் மீது ஒரு மேம்படுத்தல் எப்போது கிடைக்கும்?",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3232",
+                "start": 0,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "text": "ਮੈਨੂੰ मैतंक मेलाजीम नज़दीकलिस प्टेन कालन है",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "હું અબ હકારાત્મક લોહી શોધી રહ્યો છું. નજીકના કેન્દ્ર ક્યાં છે?",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "मेरे खाते से नेटबैंकिंग के दौरान धोखाधड़ी हुई है। मैं क्या करूँगा",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "नेटबैंकिंग",
+                "start": 13,
+                "end": 23
+            }
+        ]
+    },
+    {
+        "text": "my twitter account has been hacked. my twitter handle is @myname. how can i retrieve it?",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "twitter",
+                "start": 3,
+                "end": 10
+            },
+            {
+                "entity": "ID",
+                "value": "@myname",
+                "start": 57,
+                "end": 64
+            }
+        ]
+    },
+    {
+        "text": "मुझे कल एनसीआईबी जाने की जरूरत है। मुझे किस समय जाना चाहिए",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "एनसीआईबी",
+                "start": 8,
+                "end": 16
+            }
+        ]
+    },
+    {
+        "text": "whatsapp પર સાયબર ફરિયાદ વધારવા માટે મારે કયા દસ્તાવેજોની જરૂર છે. હું ચિંતિત છું",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "whatsapp",
+                "start": 0,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "text": "તે 24 કલાક છે, અમે મારા ઘરના રાનીને ગમે ત્યાં શોધી શકતા નથી. અમારે શું કરવું જોઈએ?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train"
+    },
+    {
+        "text": "ਮੈਂ एनीब्द्य नरक्वा्क कर कर तार तार तासतना हूं?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "एनीब्द्य",
+                "start": 4,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "text": "আমি রাজীব চৌক থানায় কি সময় পরিদর্শন করতে পারি?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "রাজীব চৌক",
+                "start": 4,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "text": "મારા ભાઈ, ટોમ સ્વાન, ખૂટે છે. તે 32 વર્ષનો છે અને 5.10 ઇંચ લાંબો છે. હું શું કરું?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Height",
+                "value": "5.10 ઇંચ",
+                "start": 50,
+                "end": 58
+            },
+            {
+                "entity": "Age",
+                "value": "32",
+                "start": 33,
+                "end": 35
+            }
+        ]
+    },
+    {
+        "text": "আমি গতকাল একটি ফির উত্থাপিত। আইডি 999888. অবস্থা কি?",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "999888",
+                "start": 34,
+                "end": 40
+            }
+        ]
+    },
+    {
+        "text": "সিবিআই আজ আমার বিল্ডিং পরিদর্শন করতে যাচ্ছিল, তারা কত সময় লাগবে?",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "সিবিআই",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "my brother, tom swan, is missing. he is 32 years old and 5.10 inches tall. what shall i do?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Height",
+                "value": "5.10 inches",
+                "start": 57,
+                "end": 68
+            },
+            {
+                "entity": "Age",
+                "value": "32",
+                "start": 40,
+                "end": 42
+            },
+            {
+                "entity": "Name",
+                "value": "tom swan",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+    {
+        "text": "मेरे छात्र एडम जोन्स गायब हैं। वह केवल 10 साल का है और 5 इंच लंबा है",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Age",
+                "value": "10",
+                "start": 39,
+                "end": 41
+            },
+            {
+                "entity": "Height",
+                "value": "5 इंच",
+                "start": 55,
+                "end": 60
+            },
+            {
+                "entity": "Name",
+                "value": "एडम जोन्स",
+                "start": 11,
+                "end": 20
+            }
+        ]
+    },
+    {
+        "text": "3 days now and no action has been taken against my fir. the id is 9999. please tell me any updates",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "9999",
+                "start": 66,
+                "end": 70
+            }
+        ]
+    },
+    {
+        "text": "నా సోదరుడు, టామ్ స్వాన్, లేదు. అతను 32 సంవత్సరాలు మరియు 5.10 అంగుళాల పొడవు. నేను ఏమి చేస్తాను?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Age",
+                "value": "32",
+                "start": 36,
+                "end": 38
+            },
+            {
+                "entity": "Name",
+                "value": "టామ్ స్వాన్",
+                "start": 12,
+                "end": 23
+            },
+            {
+                "entity": "Height",
+                "value": "5.10 అంగుళాల",
+                "start": 56,
+                "end": 68
+            }
+        ]
+    },
+    {
+        "text": "నేను ab సానుకూల రక్తం కోసం చూస్తున్నాను. సమీప కేంద్రం ఎక్కడ ఉంది?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "BloodType",
+                "value": "ab సానుకూల",
+                "start": 5,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "text": "నేను ఒక నీలం యాక్టివా స్కూటీని కలిగి ఉన్నాను. నేనేం చేయాలి? రిజిస్ట్రేషన్ సంఖ్య 98765098765",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train"
+    },
+    {
+        "text": "మాయపురి పోలీస్ స్టేషన్ను నేను ఏ సమయంలో సందర్శించగలను.",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "మాయపురి",
+                "start": 0,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "text": "मेरा पिनकोड 500049 है। मेरा निकटतम पुलिस स्टेशन कहां है?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "PinCode",
+                "value": "500049",
+                "start": 12,
+                "end": 18
+            },
+            {
+                "entity": "LocationTo",
+                "value": "पुलिस स्टेशन",
+                "start": 35,
+                "end": 47
+            }
+        ]
+    },
+    {
+        "text": "আমার ফির জন্য কোন আপডেট আছে কি? আইডি 1234",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "1234",
+                "start": 37,
+                "end": 41
+            }
+        ]
+    },
+    {
+        "text": "నా ఫిర్ యొక్క స్థితిని కనుగొనడానికి నేను ప్రయత్నిస్తున్నాను. దయచేసి సహాయం చెయ్యండి.",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "ਮੇਰੇ ਅੰਦਰਲੀ ਸਰਵਲੂ ਸਰਵਾਲਾ xa े मै िसें म ं मैंढ मींं मीं ढीं मुर्क ਕੀ ਹੈ? पंत्रिरण संख्य हैै",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train"
+    },
+    {
+        "text": "என் மாணவர் ஆடம் ஜோன்ஸ் காணவில்லை. அவர் 10 வயது மற்றும் 5 அங்குல உயரம் மட்டுமே",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Age",
+                "value": "10",
+                "start": 39,
+                "end": 41
+            },
+            {
+                "entity": "Height",
+                "value": "5 அங்குல",
+                "start": 55,
+                "end": 63
+            }
+        ]
+    },
+    {
+        "text": "నా పిన్కోడ్ 500049. నా సమీప పోలీసు స్టేషన్ ఎక్కడ ఉంది?",
+        "intent": "InquiryOfLocation",
+        "type": "train"
+    },
+    {
+        "text": "i am currently at kalkaji metro station. where is the nearest police station",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "police station",
+                "start": 62,
+                "end": 76
+            },
+            {
+                "entity": "LocationFrom",
+                "value": "kalkaji metro station",
+                "start": 18,
+                "end": 39
+            }
+        ]
+    },
+    {
+        "text": "मी जीएसएम मॉल, हैदराबाद जवळ राहतो. जवळचे पोलीस स्टेशन कुठे आहे?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationFrom",
+                "value": "जीएसएम मॉल, हैदराबाद",
+                "start": 3,
+                "end": 23
+            },
+            {
+                "entity": "LocationTo",
+                "value": "पोलीस स्टेशन",
+                "start": 41,
+                "end": 53
+            }
+        ]
+    },
+    {
+        "text": "আমি হায়দ্রাবাদের জিএসএম মলের কাছে বাস করি। সবচেয়ে কাছের পুলিশ স্টেশন কোথায়?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationFrom",
+                "value": "জিএসএম মলের কাছে বাস",
+                "start": 18,
+                "end": 38
+            }
+        ]
+    },
+    {
+        "text": "আমার ভাই, টম হান, অনুপস্থিত। তিনি 32 বছর বয়সী এবং 5.10 ইঞ্চি লম্বা। আমি এখন কি করব?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "টম হান",
+                "start": 10,
+                "end": 16
+            },
+            {
+                "entity": "Age",
+                "value": "32",
+                "start": 34,
+                "end": 36
+            },
+            {
+                "entity": "Height",
+                "value": "5.10 ইঞ্চি",
+                "start": 51,
+                "end": 61
+            }
+        ]
+    },
+    {
+        "text": "what are the timings at ncw",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "ncw",
+                "start": 24,
+                "end": 27
+            }
+        ]
+    },
+    {
+        "text": "i live near gsm mall, hyderabad. where is the nearest police station?",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "LocationTo",
+                "value": "police station",
+                "start": 54,
+                "end": 68
+            },
+            {
+                "entity": "LocationFrom",
+                "value": "gsm mall, hyderabad",
+                "start": 12,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "text": "મેં છેલ્લા રાત્રે મારા ઘરની બહાર મારી કાર પાર્ક કરી. હવે તે ખૂટે છે. મેહરબાની કરી ને મદદ કરો. તે એક કાળો રંગ હ્યુન્ડાઇ છે અને નોંધણી નંબર 78786666 છે",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleNumber",
+                "value": "7878666",
+                "start": 138,
+                "end": 145
+            }
+        ]
+    },
+    {
+        "text": "i have been scammed by a lottery service. i want to file a complaint. ",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "lottery",
+                "start": 25,
+                "end": 32
+            }
+        ]
+    },
+    {
+        "text": "ਮੈਨੂੰ ਇਕਕੁਆਲਾ ਕੈਲ ਓਹ ਹਾਂ ਦੇ. ਭਾਸ਼ਾਵਾਂ 9999999",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train"
+    },
+    {
+        "text": "સીબીઆઈ આજે મારી ઇમારતની મુલાકાત લેશે, તેઓએ કયા સમયે આક્રમણ કરવું જોઈએ?",
+        "intent": "InquiryOfTiming",
+        "type": "train"
+    },
+    {
+        "text": "हे 24 तास झाले आहे, आम्ही माझे घरहेम रानी कुठेही शोधू शकत नाही. आपण काय करायला हवे?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "रानी",
+                "start": 37,
+                "end": 41
+            }
+        ]
+    },
+    {
+        "text": "मेरा भाई, टॉम हंस गायब है। वह 32 साल का है और 5.10 इंच लंबा है। मैं क्या करूँगा?",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "टॉम हंस",
+                "start": 10,
+                "end": 17
+            },
+            {
+                "entity": "Height",
+                "value": "5.10 इंच",
+                "start": 46,
+                "end": 54
+            },
+            {
+                "entity": "Age",
+                "value": "32",
+                "start": 30,
+                "end": 32
+            }
+        ]
+    },
+    {
+        "text": "મારા મિત્ર, જ્હોન ડો નામના, ગુમ થયેલ છે. હું એફઆઈઆર ફાઇલ કરવા માંગુ છું",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "જ્હોન ડો",
+                "start": 12,
+                "end": 20
+            }
+        ]
+    },
+    {
+        "text": "मैं अपंति एफआईआर की कोजने ककर कर रहशं.. मिजि मीजए.",
+        "intent": "StatusOfFIR",
+        "type": "train"
+    },
+    {
+        "text": "क्या मुझे निकटतम सरकारी अस्पताल में नियुक्ति मिल सकती है",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "सरकारी अस्पताल",
+                "start": 17,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "text": "i have a blue activa scooty which i cannot find. what should i do? the registration number is 98765098765",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "VehicleType",
+                "value": "activa scooty",
+                "start": 14,
+                "end": 27
+            },
+            {
+                "entity": "VehicleNumber",
+                "value": "98765098765",
+                "start": 94,
+                "end": 105
+            },
+            {
+                "entity": "Color",
+                "value": "blue",
+                "start": 9,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "text": "फेसबुकवर सायबर तक्रार वाढवण्याची मला कोणती कागदपत्रे आहेत. मला काळजी वाटते",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "फेसबुक",
+                "start": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "text": "क्या आप मुझे अपनी प्राथमिकी पर कोई भी स्थिति अपडेट दे सकते हैं। आईडी 8888 है",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "8888",
+                "start": 69,
+                "end": 73
+            }
+        ]
+    },
+    {
+        "text": "can i get an appointment at the nearest government hospital",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Location",
+                "value": "government hospital",
+                "start": 40,
+                "end": 59
+            }
+        ]
+    },
+    {
+        "text": "whatsapp पर साइबर शिकायत बढ़ाने के लिए मुझे किन दस्तावेजों की आवश्यकता है। मैं चिंतित हूँ",
+        "intent": "RaiseCyberCrimeFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "whatsapp",
+                "start": 0,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "text": "నా ఎరుపు మారుతి కారు లేదు. నేను ఏమి చేస్తాను. కారు సంఖ్య 12341234",
+        "intent": "InquiryOfMissingVehicle",
+        "type": "train"
+    },
+    {
+        "text": "id - 3232 अझझे अपनी फ़झझे फ़झझट पर पन लाल हंैै",
+        "intent": "StatusOfFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "ID",
+                "value": "3232",
+                "start": 5,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "text": "मला राजीव चौक जवळ मध्यभागी ab +ve रक्तदान आवश्यक आहे.",
+        "intent": "InquiryOfLocation",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "BloodType",
+                "value": "ab +ve",
+                "start": 27,
+                "end": 33
+            }
+        ]
+    },
+    {
+        "text": "నేను ఏమి చేయాలి, నా విద్యార్థి ఆడమ్ జోన్స్ ఎక్కడైనా కనుగొనలేకపోయాము.",
+        "intent": "RaiseMissingPersonFIR",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Name",
+                "value": "ఆడమ్ జోన్స్",
+                "start": 31,
+                "end": 42
+            }
+        ]
+    },
+    {
+        "text": "महिला हेल्पलाइन के टिमिम्स क्या हैं",
+        "intent": "InquiryOfTiming",
+        "type": "train",
+        "entities": [
+            {
+                "entity": "Organization",
+                "value": "महिला हेल्पलाइन",
+                "start": 0,
+                "end": 15
+            }
+        ]
+    }
+]
