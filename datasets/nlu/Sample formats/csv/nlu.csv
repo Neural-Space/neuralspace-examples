@@ -8,6 +8,7 @@ check_human,you are a bot for sure?
 check_human,i don't think you are human?
 check_human,you no human you bot
 check_human,you are definitely a bot
+check_human,don't know what you are? bot?
 affirm,indeed
 affirm,[correct](cardinal)
 affirm,that [sounds](quantity) good
