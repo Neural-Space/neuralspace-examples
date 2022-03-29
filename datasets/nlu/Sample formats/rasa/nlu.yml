@@ -20,6 +20,12 @@ nlu:
     - cancel my shoes
     - I changed my mind on my order
     - cancel my order
+    - cancel my order please
+    - I don't want this anymore
+    - i don't want this anymore
+    - cancel my order
+    - crap product cancel order
+    - i don't need any of this cancel it
 - intent: return
   examples: |
     - start a return
@@ -30,6 +36,8 @@ nlu:
     - Start a return
     - Okay. I would like to return some shoes I bought
     - yeah I want to return something
+    - return order
+    - take it back please
 - intent: product_stock
   examples: |
     - do you have any [black](color) shoes in stock?
@@ -40,6 +48,8 @@ nlu:
     - do you have my special shoes in stock
     - Check inventory
     - i'm looking for new shoes
+    - do you have shoes
+    - do you sell clothes?
 - intent: product_updates
   examples: |
     - what's new on the site?
@@ -49,6 +59,10 @@ nlu:
     - subscribe to updates
     - i [don't](negation) want to subscribe
     - I [do not](negation) subscribe
+    - anything new
+    - anything in offers today
+    - any new feature
+    - feature request
 - intent: inform
   examples: |
     - example@rasa.com
@@ -73,6 +87,13 @@ nlu:
     - i want to buy shoes
     - no, don't want to do a return, want to purchase new shoes
     - since they're in stock, how about I place an order
+    - I want to buy shoes
+    - send me some shoes please
+    - show me boots
+    - give me shoes please 
+    - I want to buy boots
+    - I am confused, should I look for shoes
+    - do you have any shoes recommendations?
 - intent: affirm
   examples: |
     - yes
@@ -81,6 +102,11 @@ nlu:
     - of course
     - that sounds good
     - correct
+    - yeah
+    - sure
+    - ahaan
+    - ohkay
+    - cool
 - intent: deny
   examples: |
     - no
@@ -113,34 +139,6 @@ nlu:
     - heyy
     - Hey!!!
     - hallo?
-- intent: faq/alternate_info
-  examples: |
-    - Can I provide a phone number instead?
-    - Can anyone look up my status with my e-mail address?
-- intent: faq/sizing_clarification
-  examples: |
-    - American or european sizing?
-- intent: faq/payment_methods
-  examples: |
-    - what kind of payment methods do you offer?
-    - how do I pay
-- intent: faq/promotions
-  examples: |
-    - what kind of deals do you have
-    - are you running anything for black friday
-- intent: chitchat/thanks
-  examples: |
-    - thx
-    - Awesome, thanks!
-    - thanks mate
-    - thank you
-- intent: chitchat/confirm_presence
-  examples: |
-    - are you there?
-- intent: chitchat/capabilities
-  examples: |
-    - What else can you do?
-    - what can you do?
 - intent: chitchat/mood_great
   examples: |
     - perfect
@@ -176,12 +174,6 @@ nlu:
     - so sad
     - this is not working
     - you suck
-- intent: chitchat/bot_challenge
-  examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
 - intent: chitchat/goodbye
   examples: |
     - cu
@@ -219,3 +211,11 @@ nlu:
   examples: |
     - can you tell me your name?
     - what's your name?
+    - what is your name?
+    - your name please
+    - can I know you are?
+    - are you here?
+    - who are you?
+    - you name?
+    - name please?
+    - I want to know your name?
