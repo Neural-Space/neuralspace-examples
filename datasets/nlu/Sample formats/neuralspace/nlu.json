@@ -1,0 +1,920 @@
+[
+    {
+        "text": "are you a bot?",
+        "intent": "check_human",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "am i speaking to an ai?",
+        "intent": "check_human",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "are you a human or a bot?",
+        "intent": "check_human",
+        "entities": [
+            {
+                "start": 10,
+                "end": 15,
+                "value": "human",
+                "entity": "MON"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "are you real?",
+        "intent": "check_human",
+        "entities": [
+            {
+                "start": 8,
+                "end": 12,
+                "value": "real",
+                "entity": "work-of-art",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "who are you?",
+        "intent": "check_human",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "you are a bot for sure?",
+        "intent": "check_human",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "i don't think you are human?",
+        "intent": "check_human",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "you no human you bot",
+        "intent": "check_human",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "you are definitely a bot",
+        "intent": "check_human",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "don't know what you are? bot?",
+        "intent": "check_human",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "indeed",
+        "intent": "affirm",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "correct",
+        "intent": "affirm",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "value": "correct",
+                "entity": "cardinal",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "that sounds good",
+        "intent": "affirm",
+        "entities": [
+            {
+                "start": 5,
+                "end": 11,
+                "value": "sounds",
+                "entity": "quantity",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "yes",
+        "intent": "affirm",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "yes",
+                "entity": "url",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "yess please",
+        "intent": "affirm",
+        "entities": [
+            {
+                "start": 5,
+                "end": 11,
+                "value": "please",
+                "entity": "email",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "of course",
+        "intent": "affirm",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "sure",
+        "intent": "affirm",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "ahaan",
+        "intent": "affirm",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "ohkay",
+        "intent": "affirm",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "yeah dude",
+        "intent": "affirm",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "for sure",
+        "intent": "affirm",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "yeah right",
+        "intent": "affirm",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "Will I be charged for transferring money",
+        "intent": "ask_transfer_charge",
+        "entities": [
+            {
+                "start": 10,
+                "end": 17,
+                "value": "charged",
+                "entity": "phone",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "how much will you charge",
+        "intent": "ask_transfer_charge",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "what is your exchange fees",
+        "intent": "ask_transfer_charge",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "are you taking money for transfers",
+        "intent": "ask_transfer_charge",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "too much money for exchange",
+        "intent": "ask_transfer_charge",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "do transfers cost something?",
+        "intent": "ask_transfer_charge",
+        "entities": [
+            {
+                "start": 18,
+                "end": 27,
+                "value": "something",
+                "entity": "duration",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "is there a transfer charge?",
+        "intent": "ask_transfer_charge",
+        "entities": [
+            {
+                "start": 11,
+                "end": 19,
+                "value": "transfer",
+                "entity": "percent",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Is there a charge",
+        "intent": "ask_transfer_charge",
+        "entities": [
+            {
+                "start": 11,
+                "end": 17,
+                "value": "charge",
+                "entity": "ORG"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Is there an extra charge",
+        "intent": "ask_transfer_charge",
+        "entities": [
+            {
+                "start": 18,
+                "end": 24,
+                "value": "charge",
+                "entity": "ORG"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "the additional charge is too much",
+        "intent": "ask_transfer_charge",
+        "entities": [],
+        "type": "test"
+    },
+    {
+        "text": "How much money is on my account?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "How",
+                "entity": "LANG"
+            },
+            {
+                "start": 24,
+                "end": 31,
+                "value": "account",
+                "entity": "law",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How much money is on my bank account?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "How",
+                "entity": "norp",
+                "entityType": "pre-trained"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "value": "bank",
+                "entity": "account_type"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what's my balance?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "value": "what's",
+                "entity": "ordinal",
+                "entityType": "pre-trained"
+            },
+            {
+                "start": 10,
+                "end": 17,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what's my current balance?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "value": "what's",
+                "entity": "person",
+                "entityType": "pre-trained"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "value": "current balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What's left on that account?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "value": "What's",
+                "entity": "product",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How much do I have on that account?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "How",
+                "entity": "location",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What's the balance on that account?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "value": "What's",
+                "entity": "event",
+                "entityType": "pre-trained"
+            },
+            {
+                "start": 11,
+                "end": 18,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How much money is left on that account?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "How",
+                "entity": "geo-political-entities",
+                "entityType": "pre-trained"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what is my account balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "what",
+                "entity": "time",
+                "entityType": "pre-trained"
+            },
+            {
+                "start": 19,
+                "end": 26,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what's my account balance?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "value": "what's",
+                "entity": "distance",
+                "entityType": "pre-trained"
+            },
+            {
+                "start": 18,
+                "end": 25,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what's my account balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "value": "what's",
+                "entity": "distance",
+                "entityType": "pre-trained"
+            },
+            {
+                "start": 18,
+                "end": 25,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "whats my account balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "value": "whats",
+                "entity": "facility",
+                "entityType": "pre-trained"
+            },
+            {
+                "start": 17,
+                "end": 24,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what is my bank account balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "what",
+                "entity": "temperature",
+                "entityType": "pre-trained"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "value": "bank",
+                "entity": "account_type"
+            },
+            {
+                "start": 24,
+                "end": 31,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what's my bank account balance?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 14,
+                "value": "bank",
+                "entity": "account_type"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": " what's my bank account balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 11,
+                "end": 15,
+                "value": "bank",
+                "entity": "account_type"
+            },
+            {
+                "start": 24,
+                "end": 31,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "whats my bank account balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 9,
+                "end": 13,
+                "value": "bank",
+                "entity": "account_type"
+            },
+            {
+                "start": 22,
+                "end": 29,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What's my credit card balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 21,
+                "value": "credit card",
+                "entity": "account_type"
+            },
+            {
+                "start": 22,
+                "end": 29,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What's my credit balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 16,
+                "value": "credit",
+                "entity": "account_type"
+            },
+            {
+                "start": 17,
+                "end": 24,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "How much money do I owe on my credit cards",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 30,
+                "end": 42,
+                "value": "credit cards",
+                "entity": "account_type"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Show me my credit card balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 11,
+                "end": 22,
+                "value": "credit card",
+                "entity": "account_type"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What credit accounts do I have",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 5,
+                "end": 11,
+                "value": "credit",
+                "entity": "account_type"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Show me my credit accounts",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 11,
+                "end": 17,
+                "value": "credit",
+                "entity": "account_type"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Whats the balance on my credit account",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 17,
+                "value": "balance",
+                "entity": "amount-of-money"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "value": "credit",
+                "entity": "account_type"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What's my credit account",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 16,
+                "value": "credit",
+                "entity": "account_type"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What's my emblem card balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 16,
+                "value": "emblem",
+                "entity": "credit_card"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "value": "card",
+                "entity": "account_type"
+            },
+            {
+                "start": 22,
+                "end": 29,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "Show me my iron bank balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 11,
+                "end": 20,
+                "value": "iron bank",
+                "entity": "credit_card"
+            },
+            {
+                "start": 21,
+                "end": 28,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What's my justice bank balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 22,
+                "value": "justice bank",
+                "entity": "credit_card"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What's the balance on the justice bank account",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 11,
+                "end": 18,
+                "value": "balance",
+                "entity": "amount-of-money"
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "value": "justice bank",
+                "entity": "credit_card"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what's my emblm credit card balance?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 15,
+                "value": "emblm",
+                "entity": "credit_card"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "value": "credit card",
+                "entity": "account_type"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what's my credit card balance?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 21,
+                "value": "credit card",
+                "entity": "account_type"
+            },
+            {
+                "start": 22,
+                "end": 29,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what's my credit card account balance?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 21,
+                "value": "credit card",
+                "entity": "account_type"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "What is my emblem card balance?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 11,
+                "end": 17,
+                "value": "emblem",
+                "entity": "credit_card"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "value": "card",
+                "entity": "account_type"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "whats my credit card balance",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 9,
+                "end": 20,
+                "value": "credit card",
+                "entity": "account_type"
+            },
+            {
+                "start": 21,
+                "end": 28,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    },
+    {
+        "text": "what's my emblm account balance?",
+        "intent": "check_balance",
+        "entities": [
+            {
+                "start": 10,
+                "end": 15,
+                "value": "emblm",
+                "entity": "credit_card"
+            },
+            {
+                "start": 24,
+                "end": 31,
+                "value": "balance",
+                "entity": "amount-of-money"
+            }
+        ],
+        "type": "test"
+    }
+]
