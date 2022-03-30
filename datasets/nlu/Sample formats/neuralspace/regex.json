@@ -1,0 +1,18 @@
+[
+    {
+        "entity": "claim_id",
+        "examples": [
+            "[a-z]{1,2}\\d{5,7}"
+        ],
+        "entityType": "regex",
+        "language": "en"
+    },
+    {
+        "entity": "help",
+        "examples": [
+            "\\bhelp\\b"
+        ],
+        "entityType": "regex",
+        "language": "en"
+    }
+]
