@@ -1,0 +1,23 @@
+[
+    {
+        "entity": "names",
+        "examples": [
+            "akshat",
+            "ayushman",
+            "prakash",
+            "shubham"
+        ],
+        "entityType": "synonym",
+        "language": "en"
+    },
+    {
+        "entity": "services",
+        "examples": [
+            "ner",
+            "nlu",
+            "translation"
+        ],
+        "entityType": "synonym",
+        "language": "en"
+    }
+]
