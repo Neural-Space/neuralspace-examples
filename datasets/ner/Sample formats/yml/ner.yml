@@ -1,0 +1,30 @@
+version: "2.0"
+
+ner:
+- examples: |
+    - hello [there](some-entity)
+
+- examples: |
+    - [amazing](good)
+    - feeling like a [king](hell)
+
+- examples: |
+    - I don't feel very [well](good)
+
+
+- lookup: good
+  examples: |
+    - super
+    - great
+    - done good
+
+- synonym: good
+  examples: |
+    - super
+    - great
+    - done good
+
+- regex: help
+  examples: |
+    - \bhelp\b
+    - \df
