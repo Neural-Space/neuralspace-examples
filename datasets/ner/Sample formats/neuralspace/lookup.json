@@ -3,7 +3,7 @@
         "entity": "names",
         "examples": [
             "Emilia",
-            "John",
+            "John"
         ],
         "entityType": "lookup",
         "language": "en"
@@ -15,7 +15,7 @@
             "marketing",
             "sales"
         ],
-        "entityType": "synonym",
+        "entityType": "lookup",
         "language": "en"
     }
 ]

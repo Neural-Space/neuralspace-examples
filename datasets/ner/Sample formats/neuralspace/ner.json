@@ -266,26 +266,26 @@
         "type": "train"        
     },
     {
-        "text": "Where did I keep my American Express card?",
-        "entities": [
-            {
-                "start": 21,
-                "end": 37,
-                "value": "",
-                "entity": "Amex",
-                "entityType": "synonym"
-            }
-        ],
-        "type": "train"        
-    },
-    {
         "text": "I need Emilia.",
         "entities": [
             {
                 "start": 8,
                 "end": 14,
-                "value": "name",
-                "entity": "Emilia",
+                "value": "Emilia",
+                "entity": "name",
+                "entityType": "lookup"
+            }
+        ],
+        "type": "train"        
+    },
+    {
+        "text": "I need Emilia. 123",
+        "entities": [
+            {
+                "start": 8,
+                "end": 14,
+                "value": "Emilia",
+                "entity": "departments",
                 "entityType": "lookup"
             }
         ],
