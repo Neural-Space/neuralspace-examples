@@ -253,7 +253,33 @@
         "type": "train"        
     },
     {
+        "text": "My claim id is ra080714. 212ejhb",
+        "entities": [
+            {
+                "start": 16,
+                "end": 24,
+                "value": "ra080714",
+                "entity": "claim_id",
+                "entityType": "regex"
+            }
+        ],
+        "type": "train"        
+    },
+    {
         "text": "I need help.",
+        "entities": [
+            {
+                "start": 8,
+                "end": 12,
+                "value": "help",
+                "entity": "help",
+                "entityType": "regex"
+            }
+        ],
+        "type": "train"        
+    },
+    {
+        "text": "I need help. dskuh alkahku",
         "entities": [
             {
                 "start": 8,
@@ -279,7 +305,33 @@
         "type": "train"        
     },
     {
+        "text": "I need Emilia. adkuh sdoih sekih",
+        "entities": [
+            {
+                "start": 8,
+                "end": 14,
+                "value": "Emilia",
+                "entity": "name",
+                "entityType": "lookup"
+            }
+        ],
+        "type": "train"        
+    },
+    {
         "text": "I need Emilia. 123",
+        "entities": [
+            {
+                "start": 8,
+                "end": 14,
+                "value": "Emilia",
+                "entity": "departments",
+                "entityType": "lookup"
+            }
+        ],
+        "type": "train"        
+    },
+    {
+        "text": "I need Emilia. 12 ksaj skajeb3",
         "entities": [
             {
                 "start": 8,
