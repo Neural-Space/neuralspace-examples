@@ -2,20 +2,18 @@
     {
         "entity": "names",
         "examples": [
-            "akshat",
-            "ayushman",
-            "prakash",
-            "shubham"
+            "Emilia",
+            "John",
         ],
-        "entityType": "synonym",
+        "entityType": "lookup",
         "language": "en"
     },
     {
-        "entity": "services",
+        "entity": "departments",
         "examples": [
-            "ner",
-            "nlu",
-            "translation"
+            "HR",
+            "marketing",
+            "sales"
         ],
         "entityType": "synonym",
         "language": "en"
