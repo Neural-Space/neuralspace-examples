@@ -2,9 +2,9 @@
     {
         "entity": "Amex",
         "examples": [
-            "American Express",
+            "American Express"
         ],
         "entityType": "synonym",
         "language": "en"
-    },
+    }
 ]
