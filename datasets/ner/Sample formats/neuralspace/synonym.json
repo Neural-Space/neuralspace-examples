@@ -2,7 +2,11 @@
     {
         "entity": "Amex",
         "examples": [
-            "American Express"
+            "American Express",
+            "American Express Centurion Card",
+            "Amex Centurion",
+            "Platinum Card American Express",
+            "Amex Platinum"
         ],
         "entityType": "synonym",
         "language": "en"
