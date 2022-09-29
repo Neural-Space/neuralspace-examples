@@ -3,8 +3,8 @@
         "text": "What is the withdrawal limit on my Chase Sapphire credit card?",
         "entities": [
             {
-                "start": 36,
-                "end": 50,
+                "start": 35,
+                "end": 49,
                 "value": "Chase Sapphire",
                 "entity": "credit card"
             }
@@ -15,8 +15,8 @@
         "text": "How much can I withdraw from Chase Sapphire credit card?",
         "entities": [
             {
-                "start": 30,
-                "end": 44,
+                "start": 29,
+                "end": 43,
                 "value": "Chase Sapphire",
                 "entity": "credit card"
             }
@@ -27,8 +27,8 @@
         "text": "The Chase Sapphire credit card has amazing rewards on dining.",
         "entities": [
             {
-                "start": 5,
-                "end": 19,
+                "start": 4,
+                "end": 18,
                 "value": "Chase Sapphire",
                 "entity": "credit card"
             }
@@ -39,8 +39,8 @@
         "text": "Minimum spending required to be eligible for Amex Black.",
         "entities": [
             {
-                "start": 46,
-                "end": 56,
+                "start": 45,
+                "end": 55,
                 "value": "Amex Black",
                 "entity": "credit card"
             }
@@ -51,8 +51,8 @@
         "text": "Amex Black charges per annum.",
         "entities": [
             {
-                "start": 1,
-                "end": 11,
+                "start": 0,
+                "end": 10,
                 "value": "Amex Black",
                 "entity": "credit card"
             }
@@ -63,8 +63,8 @@
         "text": "Amex Black rewards on flight tickets.",
         "entities": [
             {
-                "start": 1,
-                "end": 11,
+                "start": 0,
+                "end": 10,
                 "value": "Amex Black",
                 "entity": "credit card"
             }
@@ -75,8 +75,8 @@
         "text": "I would like to pay using my Amex Black.",
         "entities": [
             {
-                "start": 30,
-                "end": 40,
+                "start": 29,
+                "end": 39,
                 "value": "Amex Black",
                 "entity": "credit card"
             }
@@ -87,8 +87,8 @@
         "text": "What are my dues for the Amex Black.",
         "entities": [
             {
-                "start": 26,
-                "end": 36,
+                "start": 25,
+                "end": 35,
                 "value": "Amex Black",
                 "entity": "credit card"
             }
@@ -99,8 +99,8 @@
         "text": "Benefits on American Express Platinum.",
         "entities": [
             {
-                "start": 13,
-                "end": 38,
+                "start": 12,
+                "end": 37,
                 "value": "American Express Platinum",
                 "entity": "credit card"
             }
@@ -111,8 +111,8 @@
         "text": "What is the eligibility criteria for American Express Platinum?",
         "entities": [
             {
-                "start": 38,
-                "end": 63,
+                "start": 37,
+                "end": 62,
                 "value": "American Express Platinum",
                 "entity": "credit card"
             }
@@ -123,8 +123,8 @@
         "text": "I have wanted to buy an iPhone 13 for the longest time now.",
         "entities": [
             {
-                "start": 25,
-                "end": 34,
+                "start": 24,
+                "end": 33,
                 "value": "iPhone 13",
                 "entity": "phone model"
             }
@@ -135,8 +135,8 @@
         "text": "The iPhone 13 is on a sale right now.",
         "entities": [
             {
-                "start": 5,
-                "end": 14,
+                "start": 4,
+                "end": 13,
                 "value": "iPhone 13",
                 "entity": "phone model"
             }
@@ -147,8 +147,8 @@
         "text": "\"Do you want the iPhone 12 in red, blue or black?\"",
         "entities": [
             {
-                "start": 18,
-                "end": 27,
+                "start": 17,
+                "end": 26,
                 "value": "iPhone 12",
                 "entity": "phone model"
             }
@@ -159,8 +159,8 @@
         "text": "The cameras on the Samsung S22 Ultra are amazing!",
         "entities": [
             {
-                "start": 20,
-                "end": 37,
+                "start": 19,
+                "end": 36,
                 "value": "Samsung S22 Ultra",
                 "entity": "phone model"
             }
@@ -171,8 +171,8 @@
         "text": "The Samsung S22 is the best compact Android phone.",
         "entities": [
             {
-                "start": 5,
-                "end": 16,
+                "start": 4,
+                "end": 15,
                 "value": "Samsung S22",
                 "entity": "phone model"
             }
@@ -183,8 +183,8 @@
         "text": "The Samsung S22 feels very nice in hand.",
         "entities": [
             {
-                "start": 5,
-                "end": 16,
+                "start": 4,
+                "end": 15,
                 "value": "Samsung S22",
                 "entity": "phone model"
             }
@@ -195,8 +195,8 @@
         "text": "The Google Pixel has the best camera features.",
         "entities": [
             {
-                "start": 5,
-                "end": 17,
+                "start": 4,
+                "end": 16,
                 "value": "Google Pixel",
                 "entity": "phone model"
             }
@@ -207,8 +207,8 @@
         "text": "Does the Google Pixel have the latest AI features from Google?",
         "entities": [
             {
-                "start": 10,
-                "end": 22,
+                "start": 9,
+                "end": 21,
                 "value": "Google Pixel",
                 "entity": "phone model"
             }
@@ -219,8 +219,8 @@
         "text": "Google Pixel has already got the latest Android update.",
         "entities": [
             {
-                "start": 1,
-                "end": 13,
+                "start": 0,
+                "end": 12,
                 "value": "Google Pixel",
                 "entity": "phone model"
             }
@@ -231,8 +231,8 @@
         "text": "There are a lot of bugs on Google Pixel.",
         "entities": [
             {
-                "start": 28,
-                "end": 40,
+                "start": 27,
+                "end": 39,
                 "value": "Google Pixel",
                 "entity": "phone model"
             }
@@ -243,8 +243,8 @@
         "text": "My claim id is ra080714.",
         "entities": [
             {
-                "start": 16,
-                "end": 24,
+                "start": 15,
+                "end": 23,
                 "value": "ra080714",
                 "entity": "claim_id",
                 "entityType": "regex"
@@ -256,8 +256,8 @@
         "text": "My claim id is ra080714. 212ejhb",
         "entities": [
             {
-                "start": 16,
-                "end": 24,
+                "start": 15,
+                "end": 23,
                 "value": "ra080714",
                 "entity": "claim_id",
                 "entityType": "regex"
@@ -269,8 +269,8 @@
         "text": "I need help.",
         "entities": [
             {
-                "start": 8,
-                "end": 12,
+                "start": 7,
+                "end": 11,
                 "value": "help",
                 "entity": "help",
                 "entityType": "regex"
@@ -282,8 +282,8 @@
         "text": "I need help. dskuh alkahku",
         "entities": [
             {
-                "start": 8,
-                "end": 12,
+                "start": 7,
+                "end": 11,
                 "value": "help",
                 "entity": "help",
                 "entityType": "regex"
@@ -295,8 +295,8 @@
         "text": "I need Emilia.",
         "entities": [
             {
-                "start": 8,
-                "end": 14,
+                "start": 7,
+                "end": 13,
                 "value": "Emilia",
                 "entity": "name",
                 "entityType": "lookup"
@@ -308,8 +308,8 @@
         "text": "I need Emilia. adkuh sdoih sekih",
         "entities": [
             {
-                "start": 8,
-                "end": 14,
+                "start": 7,
+                "end": 13,
                 "value": "Emilia",
                 "entity": "name",
                 "entityType": "lookup"
@@ -321,8 +321,8 @@
         "text": "I need Emilia. 123",
         "entities": [
             {
-                "start": 8,
-                "end": 14,
+                "start": 7,
+                "end": 13,
                 "value": "Emilia",
                 "entity": "departments",
                 "entityType": "lookup"
@@ -334,8 +334,8 @@
         "text": "I need Emilia. 12 ksaj skajeb3",
         "entities": [
             {
-                "start": 8,
-                "end": 14,
+                "start": 7,
+                "end": 13,
                 "value": "Emilia",
                 "entity": "departments",
                 "entityType": "lookup"
