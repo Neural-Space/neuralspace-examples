@@ -1,34 +1,8 @@
 [
     {
-        "entity": "credit",
+        "entity": "Amex",
         "examples": [
-            "card",
-            "cards",
-            "credit account",
-            "credit accounts",
-            "credit card",
-            "credit card account",
-            "credit cards"
-        ],
-        "entityType": "synonym",
-        "language": "en"
-    },
-    {
-        "entity": "emblem",
-        "examples": [
-            "embelm",
-            "Emblem",
-            "emblm"
-        ],
-        "entityType": "synonym",
-        "language": "en"
-    },
-    {
-        "entity": "current balance",
-        "examples": [
-            "balance",
-            "full",
-            "full balance"
+            "American Express"
         ],
         "entityType": "synonym",
         "language": "en"
