@@ -1,6 +1,7 @@
 [
     {
         "text": "What is the withdrawal limit on my Chase Sapphire credit card?",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 35,
@@ -13,6 +14,7 @@
     },
     {
         "text": "How much can I withdraw from Chase Sapphire credit card?",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 29,
@@ -25,6 +27,7 @@
     },
     {
         "text": "The Chase Sapphire credit card has amazing rewards on dining.",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 4,
@@ -37,6 +40,7 @@
     },
     {
         "text": "Minimum spending required to be eligible for Amex Black.",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 45,
@@ -49,6 +53,7 @@
     },
     {
         "text": "Amex Black charges per annum.",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 0,
@@ -61,6 +66,7 @@
     },
     {
         "text": "Amex Black rewards on flight tickets.",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 0,
@@ -73,6 +79,7 @@
     },
     {
         "text": "I would like to pay using my Amex Black.",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 29,
@@ -85,6 +92,7 @@
     },
     {
         "text": "What are my dues for the Amex Black.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 25,
@@ -97,6 +105,7 @@
     },
     {
         "text": "Benefits on American Express Platinum.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 12,
@@ -109,6 +118,7 @@
     },
     {
         "text": "What is the eligibility criteria for American Express Platinum?",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 37,
@@ -121,6 +131,7 @@
     },
     {
         "text": "I have wanted to buy an iPhone 13 for the longest time now.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 24,
@@ -133,6 +144,7 @@
     },
     {
         "text": "The iPhone 13 is on a sale right now.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 4,
@@ -145,6 +157,7 @@
     },
     {
         "text": "\"Do you want the iPhone 12 in red, blue or black?\"",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 17,
@@ -157,6 +170,7 @@
     },
     {
         "text": "The cameras on the Samsung S22 Ultra are amazing!",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 19,
@@ -169,6 +183,7 @@
     },
     {
         "text": "The Samsung S22 is the best compact Android phone.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 4,
@@ -181,6 +196,7 @@
     },
     {
         "text": "The Samsung S22 feels very nice in hand.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 4,
@@ -193,6 +209,7 @@
     },
     {
         "text": "The Google Pixel has the best camera features.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 4,
@@ -205,6 +222,7 @@
     },
     {
         "text": "Does the Google Pixel have the latest AI features from Google?",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 9,
@@ -217,6 +235,7 @@
     },
     {
         "text": "Google Pixel has already got the latest Android update.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 0,
@@ -229,6 +248,7 @@
     },
     {
         "text": "There are a lot of bugs on Google Pixel.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 27,
@@ -241,6 +261,7 @@
     },
     {
         "text": "My claim id is ra080714.",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 15,
@@ -254,6 +275,7 @@
     },
     {
         "text": "My claim id is ra080714. 212ejhb",
+        "intent": "intent 2",
         "entities": [
             {
                 "start": 15,
@@ -267,6 +289,7 @@
     },
     {
         "text": "I need help.",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 7,
@@ -280,6 +303,7 @@
     },
     {
         "text": "I need help. dskuh alkahku",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 7,
@@ -293,6 +317,7 @@
     },
     {
         "text": "I need Emilia.",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 7,
@@ -306,6 +331,7 @@
     },
     {
         "text": "I need Emilia. adkuh sdoih sekih",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 7,
@@ -319,6 +345,7 @@
     },
     {
         "text": "I need Emilia. 123",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 7,
@@ -332,6 +359,7 @@
     },
     {
         "text": "I need Emilia. 12 ksaj skajeb3",
+        "intent": "intent 1",
         "entities": [
             {
                 "start": 7,
